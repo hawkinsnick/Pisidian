@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.0",
+  "checked_on": "2026-10-03",
+  "checks": [
+    {
+      "check_id": "PIS-KESME2-PRIMARY",
+      "record_ids": [
+        "pisidian:ediana:51"
+      ],
+      "inspection": "PRIMARY_EDITION_PAGE_TEXT_AND_FIGURE_VISUALLY_CHECKED",
+      "source_url": "https://www.persee.fr/doc/ista_0000-0000_2013_act_1277_2_3754?pageId=T15_236",
+      "source_sha256": "c505a08028b581a0f55a8b5cfc6117ab33336f5b93477b5dae1ab68d76620d63",
+      "bibliography": {
+        "authors": [
+          "Claude Brixhe",
+          "Mehmet Özsait"
+        ],
+        "year": 2013,
+        "title": "Cours moyen de l’Eurymédon : apparition du pisidien",
+        "pages": "231-250"
+      },
+      "locators": [
+        "p.236 §2.2.2 Kesme 2",
+        "p.236 fig.9 stone photograph",
+        "p.237 continuation; source citations in local record point to pp.236f."
+      ],
+      "finding": "The primary edition describes a thirteen-line inscribed base and attributes a probable Asar Kale provenance. The eDiAna S02 record has thirteen lines and cites this publication. Object correspondence is a supported edition-label candidate; present location and inventory remain unresolved.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm museum inventory and provenance",
+        "Collate each Greek-script line against figures and later corrections"
+      ]
+    },
+    {
+      "check_id": "PIS-KESME2-AMBIGUITIES",
+      "record_ids": [
+        "pisidian:ediana:51"
+      ],
+      "inspection": "PDF_TEXT_AND_PRINTED_PAGES_VISUALLY_CHECKED",
+      "source_url": "https://www.jolr.ru/files/(202)jlr2017-15-1-2(1-18).pdf",
+      "source_sha256": "d0188f7ef0f76f340c37c656d69dc05ddb02f25a3ac4a212fe475f1ccdc986b8",
+      "bibliography": {
+        "author": "Ignasi-Xavier Adiego",
+        "year": 2017,
+        "title": "The longest Pisidian inscription (Kesme 2)",
+        "pages": "1-18",
+        "doi": "10.31826/jlr-2017-151-205"
+      },
+      "locators": [
+        "p.1 §1 and n.1 edition lineage",
+        "p.2 §2 graphical problems",
+        "p.3 §§2-3 conventions and transliteration"
+      ],
+      "finding": "Adiego uses conventional Latin transliteration of Greek-script evidence. Circumflex o marks an o/theta alternative and circumflex e an e/s alternative; these are local editorial conventions, not new phonemes. Word segmentation is proposed, not observed spacing.",
+      "line_questions": [
+        {
+          "line": 3,
+          "source_pointer": "/S 02 (Kesme)/3",
+          "question": "Preserve o/theta ambiguity explicitly"
+        },
+        {
+          "line": 7,
+          "source_pointer": "/S 02 (Kesme)/7",
+          "question": "Preserve uncertain initial sign and o/theta alternative"
+        },
+        {
+          "line": 8,
+          "source_pointer": "/S 02 (Kesme)/8",
+          "question": "Preserve o/theta alternative"
+        },
+        {
+          "line": 1,
+          "source_pointer": "/S 02 (Kesme)/1",
+          "question": "Assess e/s alternatives before applying segmentation"
+        }
+      ],
+      "independence": "Analysis depends on Brixhe–Özsait 2013 and Brixhe 2016; shared edition lineage does not establish replication",
+      "canonical_change": false,
+      "expert_questions": [
+        "Collate uncertainty conventions across editions",
+        "Evaluate segmentation separately from sign reading",
+        "Assess classification without assuming every local personal name is a distinct-language inscription"
+      ]
+    },
+    {
+      "check_id": "PIS-PRIMARY-50",
+      "record_ids": [
+        "pisidian:ediana:50"
+      ],
+      "inspection": "PRIMARY_EDITION_PAGE_TEXT_CHECKED; NOT_INDEPENDENT_EPIGRAPHIC_COLLATION",
+      "source_url": "https://www.persee.fr/doc/ista_0000-0000_2013_act_1277_2_3754?pageId=T15_235",
+      "source_sha256": "59f3812514f10ad21b6ffd284b13397a3accc6e7011eddafb8bd4d63836c43bd",
+      "locators": [
+        "printed p.235 §2.2.1 Kesme 1"
+      ],
+      "finding": "This edition section provides a record-specific publication locator and discusses earlier readings. Physical inventory and sign-level adjudication remain open.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm edition-to-object identity",
+        "Collate the preserved signs, editorial alternatives and prior editions"
+      ]
+    },
+    {
+      "check_id": "PIS-PRIMARY-52",
+      "record_ids": [
+        "pisidian:ediana:52"
+      ],
+      "inspection": "PRIMARY_EDITION_PAGE_TEXT_CHECKED; NOT_INDEPENDENT_EPIGRAPHIC_COLLATION",
+      "source_url": "https://www.persee.fr/doc/ista_0000-0000_2013_act_1277_2_3754?pageId=T15_233",
+      "source_sha256": "80825cced6b4f1a60f2d2415254d865a2c8008eaae65708c0a6e356e5857fc0f",
+      "locators": [
+        "printed p.233 §2.1.1 Değirmenözü 1"
+      ],
+      "finding": "This edition section provides a record-specific publication locator and discusses earlier readings. Physical inventory and sign-level adjudication remain open.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm edition-to-object identity",
+        "Collate the preserved signs, editorial alternatives and prior editions"
+      ]
+    },
+    {
+      "check_id": "PIS-PRIMARY-53",
+      "record_ids": [
+        "pisidian:ediana:53"
+      ],
+      "inspection": "PRIMARY_EDITION_PAGE_TEXT_CHECKED; NOT_INDEPENDENT_EPIGRAPHIC_COLLATION",
+      "source_url": "https://www.persee.fr/doc/ista_0000-0000_2013_act_1277_2_3754?pageId=T15_234",
+      "source_sha256": "0061abe7f12bd8c535c41f4e4a21ab10b89de7b0cce5ea6f0feec56a0e8d4d62",
+      "locators": [
+        "printed p.234 §2.1.2 Değirmenözü 2"
+      ],
+      "finding": "This edition section provides a record-specific publication locator and discusses earlier readings. Physical inventory and sign-level adjudication remain open.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm edition-to-object identity",
+        "Collate the preserved signs, editorial alternatives and prior editions"
+      ]
+    }
+  ],
+  "source_check_is_not_independent_review": true
+}
