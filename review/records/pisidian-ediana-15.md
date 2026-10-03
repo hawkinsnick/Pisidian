@@ -5,7 +5,7 @@ Source label: N 16 (Sofular)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `ca4396f29495c2acf722908905684fc9b5e6545a195b08d353d57852f905d601`
-Evidence fingerprint: `5a7689ec73e6254e114c92d9f040a728d2592c86cd39369ecd2f1bfb58b4848f`
+Evidence fingerprint: `0cbf6104761ab6e71d78f6ba5a8a058922996ad9bca84998ec2ab35eef0d1bc6`
 
 ## Captured source evidence
 
@@ -25,7 +25,16 @@ No edition citations attached to this captured record. Corpus-wide baseline refe
 
 ## Source checks and unresolved questions
 
-No targeted source inspection has yet been linked to this record. Consult the edition citations and [source access log](../../research/source-access.json).
+### PIS-RAMSAY1895-16
+
+Source: [https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf](https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf)
+
+Locators: printed p.362 (PDF page 372), inscription no.16
+
+The numbered historical entry supplies a direct edition locator for the corresponding modern N16 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.
+
+- Collate each sign and uncertainty with the original drawing and later editions
+- Verify that modern numbering refers to the same physical object
 
 ## Record a decision
 

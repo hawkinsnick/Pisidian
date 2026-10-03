@@ -17,3 +17,5 @@ Source acquisition and collation are still incomplete. `research/source-access.j
 ## Work remaining before adjudication
 
 The [source worklist](../research/source-worklist.json) lists every captured citation and every record, including records with no attached edition reference. It links targeted checks without treating them as completed collation. The [access log](../research/source-access.json) distinguishes usable scans from blocked downloads. Readings, current museum locations and language assignments remain pending expert assessment.
+
+The [2023 publication reconciliation](../research/publication-reconciliation.json) accounts for all nine discussed stelae. Four have text-and-edition concordance candidates; five remain unmatched or need classification and identity work. “Unmatched” means unresolved here, not necessarily a newly discovered Pisidian-language object. A cited parallel for a personal name cannot identify a stone.

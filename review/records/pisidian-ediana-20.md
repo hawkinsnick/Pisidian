@@ -5,7 +5,7 @@ Source label: N 21 (Collection Rahmi Koç)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `92b02b184e4a05c9dcdf6d42392214455cf57eeeab413e3e88d3e9483c49c5c9`
-Evidence fingerprint: `5a7689ec73e6254e114c92d9f040a728d2592c86cd39369ecd2f1bfb58b4848f`
+Evidence fingerprint: `0cbf6104761ab6e71d78f6ba5a8a058922996ad9bca84998ec2ab35eef0d1bc6`
 
 ## Captured source evidence
 

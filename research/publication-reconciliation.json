@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "publication_doi": "10.47589/adalya.1414560",
+  "source_url": "https://akmedmedia.ku.edu.tr/Adalya/Adalya_2023/Coskun_Abuagla_Offprint.pdf",
+  "source_sha256": "7115ca75d7f94dcd72832f244a2b35561f2a268408c7c499cb969e65618bd29d",
+  "inspection_scope": "Printed entries pp.187–191 and edition footnotes inspected; source museum assertions dated 2023; no project object examination",
+  "expected_publication_entry_count": 9,
+  "project_admitted_objects": 0,
+  "entries": [
+    {
+      "publication_number": 1,
+      "locator": "printed p.187, no.1 (PDF page 9); fig.1",
+      "inventory_source_assertion": "Study collection 41",
+      "assertion_year": 2023,
+      "current_location_verified": false,
+      "candidate_record_ids": [],
+      "concordance_state": "UNMATCHED_SCOPE_OR_IDENTITY_PENDING",
+      "basis": "Unpublished in this paper; comparisons with other stelae are not identity assertions",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 2,
+      "locator": "printed p.188, no.2 (PDF page 10); fig.2",
+      "inventory_source_assertion": "6.9.82",
+      "assertion_year": 2023,
+      "current_location_verified": false,
+      "candidate_record_ids": [
+        "pisidian:ediana:24"
+      ],
+      "concordance_state": "TEXT_AND_EXPLICIT_EDITION_CANDIDATE",
+      "basis": "Brixhe 2016 p.88 no.25; older reading explicitly quoted",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 3,
+      "locator": "printed p.188, no.3 (PDF page 10); fig.3",
+      "inventory_source_assertion": "2.32.94",
+      "assertion_year": 2023,
+      "current_location_verified": false,
+      "candidate_record_ids": [
+        "pisidian:ediana:39"
+      ],
+      "concordance_state": "TEXT_AND_EXPLICIT_EDITION_CANDIDATE",
+      "basis": "Brixhe 2016 pp.35–36 no.19 and p.93 no.39; text and older uncertainty quoted",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 4,
+      "locator": "printed p.189, no.4 (PDF page 11); fig.4",
+      "inventory_source_assertion": "14.4.09",
+      "assertion_year": 2023,
+      "current_location_verified": false,
+      "candidate_record_ids": [],
+      "concordance_state": "UNMATCHED_SCOPE_OR_IDENTITY_PENDING",
+      "basis": "Unpublished in this paper; n.19 cites a parallel for the name Eddi, not an edition of this object",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 5,
+      "locator": "printed p.189, no.5 (PDF page 11); fig.5",
+      "inventory_source_assertion": "13.1.81",
+      "assertion_year": 2023,
+      "current_location_verified": false,
+      "candidate_record_ids": [
+        "pisidian:ediana:32"
+      ],
+      "concordance_state": "TEXT_AND_EXPLICIT_EDITION_CANDIDATE",
+      "basis": "Brixhe 2016 p.90 no.33; older readings explicitly quoted",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 6,
+      "locator": "printed p.190, no.6 (PDF page 12); fig.6",
+      "inventory_source_assertion": "ZMT8.1.03",
+      "assertion_year": 2023,
+      "current_location_verified": false,
+      "candidate_record_ids": [],
+      "concordance_state": "UNMATCHED_SCOPE_OR_IDENTITY_PENDING",
+      "basis": "Unpublished in this paper; classification and baseline inclusion unresolved",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 7,
+      "locator": "printed p.190, no.7 (PDF page 12); fig.7",
+      "inventory_source_assertion": "6.7.82",
+      "assertion_year": 2023,
+      "current_location_verified": false,
+      "candidate_record_ids": [
+        "pisidian:ediana:23"
+      ],
+      "concordance_state": "TEXT_AND_EXPLICIT_EDITION_CANDIDATE",
+      "basis": "Brixhe 2016 p.87 no.24; older reading explicitly quoted",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 8,
+      "locator": "printed p.191, no.8 (PDF page 13); fig.8",
+      "inventory_source_assertion": "8.2.89",
+      "assertion_year": 2023,
+      "current_location_verified": false,
+      "candidate_record_ids": [],
+      "concordance_state": "UNMATCHED_SCOPE_OR_IDENTITY_PENDING",
+      "basis": "Brixhe 2016 pp.31–32 no.10; cannot equate this number with eDiAna N10, which has a different text",
+      "canonical_admission": false
+    },
+    {
+      "publication_number": 9,
+      "locator": "printed p.191, no.9 (PDF page 13); fig.9",
+      "inventory_source_assertion": "10.6.81",
+      "assertion_year": 2023,
+      "current_location_verified": false,
+      "candidate_record_ids": [],
+      "concordance_state": "UNMATCHED_SCOPE_OR_IDENTITY_PENDING",
+      "basis": "Brixhe et al.1987 pp.145–146 no.20; cannot equate this number with eDiAna N20 in the Rahmi Koç collection",
+      "canonical_admission": false
+    }
+  ]
+}

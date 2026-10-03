@@ -5,7 +5,7 @@ Source label: S 02 (Kesme)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `b07c62ac14e2c7d0886e47810d64390e49a13b5afb6a730e2811344016dd0cff`
-Evidence fingerprint: `5a7689ec73e6254e114c92d9f040a728d2592c86cd39369ecd2f1bfb58b4848f`
+Evidence fingerprint: `0cbf6104761ab6e71d78f6ba5a8a058922996ad9bca84998ec2ab35eef0d1bc6`
 
 ## Captured source evidence
 

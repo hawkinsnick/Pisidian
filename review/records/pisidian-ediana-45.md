@@ -5,7 +5,7 @@ Source label: N 45
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `a2538a476ff280e2b6a7d5669dfe75cbed5d351ad0d9d1f3958183b329eabf08`
-Evidence fingerprint: `5a7689ec73e6254e114c92d9f040a728d2592c86cd39369ecd2f1bfb58b4848f`
+Evidence fingerprint: `0cbf6104761ab6e71d78f6ba5a8a058922996ad9bca84998ec2ab35eef0d1bc6`
 
 ## Captured source evidence
 

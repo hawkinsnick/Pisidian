@@ -5,7 +5,7 @@ Source label: N 48
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `c1b40e0469f80f07ead1a39f0b06b68e0b96bbf076dd28ea98d8f8e3ba38887e`
-Evidence fingerprint: `5a7689ec73e6254e114c92d9f040a728d2592c86cd39369ecd2f1bfb58b4848f`
+Evidence fingerprint: `0cbf6104761ab6e71d78f6ba5a8a058922996ad9bca84998ec2ab35eef0d1bc6`
 
 ## Captured source evidence
 

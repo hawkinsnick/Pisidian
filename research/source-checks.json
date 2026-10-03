@@ -243,6 +243,373 @@
         "Compare all signs and line breaks with later editions",
         "Check copies, revisions and object identity separately"
       ]
+    },
+    {
+      "check_id": "PIS-RAMSAY1895-2",
+      "record_ids": [
+        "pisidian:ediana:1"
+      ],
+      "inspection": "HISTORICAL_NUMBERED_ENTRY_AND_PRINTED_PAGE_VISUALLY_CHECKED; NOT_FULL_SIGN_COLLATION",
+      "source_url": "https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf",
+      "source_sha256": "7f72c7628e3da1360d9f9b136a3ac08cd1a60c6f6a84834945fc1361f6a0f1e1",
+      "locators": [
+        "printed p.357 (PDF page 367), inscription no.2"
+      ],
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N2 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "concordance_state": "NUMBER_AND_TEXT_CONCORDANCE_CANDIDATE",
+      "independence": "Same historical publication lineage; no new project object examination",
+      "canonical_change": false,
+      "expert_questions": [
+        "Collate each sign and uncertainty with the original drawing and later editions",
+        "Verify that modern numbering refers to the same physical object"
+      ]
+    },
+    {
+      "check_id": "PIS-RAMSAY1895-3",
+      "record_ids": [
+        "pisidian:ediana:2"
+      ],
+      "inspection": "HISTORICAL_NUMBERED_ENTRY_AND_PRINTED_PAGE_VISUALLY_CHECKED; NOT_FULL_SIGN_COLLATION",
+      "source_url": "https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf",
+      "source_sha256": "7f72c7628e3da1360d9f9b136a3ac08cd1a60c6f6a84834945fc1361f6a0f1e1",
+      "locators": [
+        "printed p.357 (PDF page 367), inscription no.3"
+      ],
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N3 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "concordance_state": "NUMBER_AND_TEXT_CONCORDANCE_CANDIDATE",
+      "independence": "Same historical publication lineage; no new project object examination",
+      "canonical_change": false,
+      "expert_questions": [
+        "Collate each sign and uncertainty with the original drawing and later editions",
+        "Verify that modern numbering refers to the same physical object"
+      ]
+    },
+    {
+      "check_id": "PIS-RAMSAY1895-4",
+      "record_ids": [
+        "pisidian:ediana:3"
+      ],
+      "inspection": "HISTORICAL_NUMBERED_ENTRY_AND_PRINTED_PAGE_VISUALLY_CHECKED; NOT_FULL_SIGN_COLLATION",
+      "source_url": "https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf",
+      "source_sha256": "7f72c7628e3da1360d9f9b136a3ac08cd1a60c6f6a84834945fc1361f6a0f1e1",
+      "locators": [
+        "printed p.358 (PDF page 368), inscription no.4"
+      ],
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N4 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "concordance_state": "NUMBER_AND_TEXT_CONCORDANCE_CANDIDATE",
+      "independence": "Same historical publication lineage; no new project object examination",
+      "canonical_change": false,
+      "expert_questions": [
+        "Collate each sign and uncertainty with the original drawing and later editions",
+        "Verify that modern numbering refers to the same physical object"
+      ]
+    },
+    {
+      "check_id": "PIS-RAMSAY1895-5",
+      "record_ids": [
+        "pisidian:ediana:4"
+      ],
+      "inspection": "HISTORICAL_NUMBERED_ENTRY_AND_PRINTED_PAGE_VISUALLY_CHECKED; NOT_FULL_SIGN_COLLATION",
+      "source_url": "https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf",
+      "source_sha256": "7f72c7628e3da1360d9f9b136a3ac08cd1a60c6f6a84834945fc1361f6a0f1e1",
+      "locators": [
+        "printed p.358 (PDF page 368), inscription no.5"
+      ],
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N5 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "concordance_state": "NUMBER_AND_TEXT_CONCORDANCE_CANDIDATE",
+      "independence": "Same historical publication lineage; no new project object examination",
+      "canonical_change": false,
+      "expert_questions": [
+        "Collate each sign and uncertainty with the original drawing and later editions",
+        "Verify that modern numbering refers to the same physical object"
+      ]
+    },
+    {
+      "check_id": "PIS-RAMSAY1895-6",
+      "record_ids": [
+        "pisidian:ediana:5"
+      ],
+      "inspection": "HISTORICAL_NUMBERED_ENTRY_AND_PRINTED_PAGE_VISUALLY_CHECKED; NOT_FULL_SIGN_COLLATION",
+      "source_url": "https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf",
+      "source_sha256": "7f72c7628e3da1360d9f9b136a3ac08cd1a60c6f6a84834945fc1361f6a0f1e1",
+      "locators": [
+        "printed p.359 (PDF page 369), inscription no.6"
+      ],
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N6 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "concordance_state": "NUMBER_AND_TEXT_CONCORDANCE_CANDIDATE",
+      "independence": "Same historical publication lineage; no new project object examination",
+      "canonical_change": false,
+      "expert_questions": [
+        "Collate each sign and uncertainty with the original drawing and later editions",
+        "Verify that modern numbering refers to the same physical object"
+      ]
+    },
+    {
+      "check_id": "PIS-RAMSAY1895-7",
+      "record_ids": [
+        "pisidian:ediana:6"
+      ],
+      "inspection": "HISTORICAL_NUMBERED_ENTRY_AND_PRINTED_PAGE_VISUALLY_CHECKED; NOT_FULL_SIGN_COLLATION",
+      "source_url": "https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf",
+      "source_sha256": "7f72c7628e3da1360d9f9b136a3ac08cd1a60c6f6a84834945fc1361f6a0f1e1",
+      "locators": [
+        "printed p.359 (PDF page 369), inscription no.7"
+      ],
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N7 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "concordance_state": "NUMBER_AND_TEXT_CONCORDANCE_CANDIDATE",
+      "independence": "Same historical publication lineage; no new project object examination",
+      "canonical_change": false,
+      "expert_questions": [
+        "Collate each sign and uncertainty with the original drawing and later editions",
+        "Verify that modern numbering refers to the same physical object"
+      ]
+    },
+    {
+      "check_id": "PIS-RAMSAY1895-8",
+      "record_ids": [
+        "pisidian:ediana:7"
+      ],
+      "inspection": "HISTORICAL_NUMBERED_ENTRY_AND_PRINTED_PAGE_VISUALLY_CHECKED; NOT_FULL_SIGN_COLLATION",
+      "source_url": "https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf",
+      "source_sha256": "7f72c7628e3da1360d9f9b136a3ac08cd1a60c6f6a84834945fc1361f6a0f1e1",
+      "locators": [
+        "printed p.359 (PDF page 369), inscription no.8"
+      ],
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N8 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "concordance_state": "NUMBER_AND_TEXT_CONCORDANCE_CANDIDATE",
+      "independence": "Same historical publication lineage; no new project object examination",
+      "canonical_change": false,
+      "expert_questions": [
+        "Collate each sign and uncertainty with the original drawing and later editions",
+        "Verify that modern numbering refers to the same physical object"
+      ]
+    },
+    {
+      "check_id": "PIS-RAMSAY1895-9",
+      "record_ids": [
+        "pisidian:ediana:8"
+      ],
+      "inspection": "HISTORICAL_NUMBERED_ENTRY_AND_PRINTED_PAGE_VISUALLY_CHECKED; NOT_FULL_SIGN_COLLATION",
+      "source_url": "https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf",
+      "source_sha256": "7f72c7628e3da1360d9f9b136a3ac08cd1a60c6f6a84834945fc1361f6a0f1e1",
+      "locators": [
+        "printed p.359 (PDF page 369), inscription no.9"
+      ],
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N9 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "concordance_state": "NUMBER_AND_TEXT_CONCORDANCE_CANDIDATE",
+      "independence": "Same historical publication lineage; no new project object examination",
+      "canonical_change": false,
+      "expert_questions": [
+        "Collate each sign and uncertainty with the original drawing and later editions",
+        "Verify that modern numbering refers to the same physical object"
+      ]
+    },
+    {
+      "check_id": "PIS-RAMSAY1895-10",
+      "record_ids": [
+        "pisidian:ediana:9"
+      ],
+      "inspection": "HISTORICAL_NUMBERED_ENTRY_AND_PRINTED_PAGE_VISUALLY_CHECKED; NOT_FULL_SIGN_COLLATION",
+      "source_url": "https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf",
+      "source_sha256": "7f72c7628e3da1360d9f9b136a3ac08cd1a60c6f6a84834945fc1361f6a0f1e1",
+      "locators": [
+        "printed p.360 (PDF page 370), inscription no.10"
+      ],
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N10 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "concordance_state": "NUMBER_AND_TEXT_CONCORDANCE_CANDIDATE",
+      "independence": "Same historical publication lineage; no new project object examination",
+      "canonical_change": false,
+      "expert_questions": [
+        "Collate each sign and uncertainty with the original drawing and later editions",
+        "Verify that modern numbering refers to the same physical object"
+      ]
+    },
+    {
+      "check_id": "PIS-RAMSAY1895-11",
+      "record_ids": [
+        "pisidian:ediana:10"
+      ],
+      "inspection": "HISTORICAL_NUMBERED_ENTRY_AND_PRINTED_PAGE_VISUALLY_CHECKED; NOT_FULL_SIGN_COLLATION",
+      "source_url": "https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf",
+      "source_sha256": "7f72c7628e3da1360d9f9b136a3ac08cd1a60c6f6a84834945fc1361f6a0f1e1",
+      "locators": [
+        "printed p.360 (PDF page 370), inscription no.11"
+      ],
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N11 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "concordance_state": "NUMBER_AND_TEXT_CONCORDANCE_CANDIDATE",
+      "independence": "Same historical publication lineage; no new project object examination",
+      "canonical_change": false,
+      "expert_questions": [
+        "Collate each sign and uncertainty with the original drawing and later editions",
+        "Verify that modern numbering refers to the same physical object"
+      ]
+    },
+    {
+      "check_id": "PIS-RAMSAY1895-12",
+      "record_ids": [
+        "pisidian:ediana:11"
+      ],
+      "inspection": "HISTORICAL_NUMBERED_ENTRY_AND_PRINTED_PAGE_VISUALLY_CHECKED; NOT_FULL_SIGN_COLLATION",
+      "source_url": "https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf",
+      "source_sha256": "7f72c7628e3da1360d9f9b136a3ac08cd1a60c6f6a84834945fc1361f6a0f1e1",
+      "locators": [
+        "printed p.361 (PDF page 371), inscription no.12"
+      ],
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N12 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "concordance_state": "NUMBER_AND_TEXT_CONCORDANCE_CANDIDATE",
+      "independence": "Same historical publication lineage; no new project object examination",
+      "canonical_change": false,
+      "expert_questions": [
+        "Collate each sign and uncertainty with the original drawing and later editions",
+        "Verify that modern numbering refers to the same physical object"
+      ]
+    },
+    {
+      "check_id": "PIS-RAMSAY1895-13",
+      "record_ids": [
+        "pisidian:ediana:12"
+      ],
+      "inspection": "HISTORICAL_NUMBERED_ENTRY_AND_PRINTED_PAGE_VISUALLY_CHECKED; NOT_FULL_SIGN_COLLATION",
+      "source_url": "https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf",
+      "source_sha256": "7f72c7628e3da1360d9f9b136a3ac08cd1a60c6f6a84834945fc1361f6a0f1e1",
+      "locators": [
+        "printed p.361 (PDF page 371), inscription no.13"
+      ],
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N13 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "concordance_state": "NUMBER_AND_TEXT_CONCORDANCE_CANDIDATE",
+      "independence": "Same historical publication lineage; no new project object examination",
+      "canonical_change": false,
+      "expert_questions": [
+        "Collate each sign and uncertainty with the original drawing and later editions",
+        "Verify that modern numbering refers to the same physical object"
+      ]
+    },
+    {
+      "check_id": "PIS-RAMSAY1895-14",
+      "record_ids": [
+        "pisidian:ediana:13"
+      ],
+      "inspection": "HISTORICAL_NUMBERED_ENTRY_AND_PRINTED_PAGE_VISUALLY_CHECKED; NOT_FULL_SIGN_COLLATION",
+      "source_url": "https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf",
+      "source_sha256": "7f72c7628e3da1360d9f9b136a3ac08cd1a60c6f6a84834945fc1361f6a0f1e1",
+      "locators": [
+        "printed p.362 (PDF page 372), inscription no.14"
+      ],
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N14 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "concordance_state": "NUMBER_AND_TEXT_CONCORDANCE_CANDIDATE",
+      "independence": "Same historical publication lineage; no new project object examination",
+      "canonical_change": false,
+      "expert_questions": [
+        "Collate each sign and uncertainty with the original drawing and later editions",
+        "Verify that modern numbering refers to the same physical object"
+      ]
+    },
+    {
+      "check_id": "PIS-RAMSAY1895-15",
+      "record_ids": [
+        "pisidian:ediana:14"
+      ],
+      "inspection": "HISTORICAL_NUMBERED_ENTRY_AND_PRINTED_PAGE_VISUALLY_CHECKED; NOT_FULL_SIGN_COLLATION",
+      "source_url": "https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf",
+      "source_sha256": "7f72c7628e3da1360d9f9b136a3ac08cd1a60c6f6a84834945fc1361f6a0f1e1",
+      "locators": [
+        "printed p.362 (PDF page 372), inscription no.15"
+      ],
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N15 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "concordance_state": "NUMBER_AND_TEXT_CONCORDANCE_CANDIDATE",
+      "independence": "Same historical publication lineage; no new project object examination",
+      "canonical_change": false,
+      "expert_questions": [
+        "Collate each sign and uncertainty with the original drawing and later editions",
+        "Verify that modern numbering refers to the same physical object"
+      ]
+    },
+    {
+      "check_id": "PIS-RAMSAY1895-16",
+      "record_ids": [
+        "pisidian:ediana:15"
+      ],
+      "inspection": "HISTORICAL_NUMBERED_ENTRY_AND_PRINTED_PAGE_VISUALLY_CHECKED; NOT_FULL_SIGN_COLLATION",
+      "source_url": "https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf",
+      "source_sha256": "7f72c7628e3da1360d9f9b136a3ac08cd1a60c6f6a84834945fc1361f6a0f1e1",
+      "locators": [
+        "printed p.362 (PDF page 372), inscription no.16"
+      ],
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N16 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "concordance_state": "NUMBER_AND_TEXT_CONCORDANCE_CANDIDATE",
+      "independence": "Same historical publication lineage; no new project object examination",
+      "canonical_change": false,
+      "expert_questions": [
+        "Collate each sign and uncertainty with the original drawing and later editions",
+        "Verify that modern numbering refers to the same physical object"
+      ]
+    },
+    {
+      "check_id": "PIS-N17-HISTORICAL-NONREADING",
+      "record_ids": [
+        "pisidian:ediana:16"
+      ],
+      "inspection": "PRINTED_PAGE_VISUALLY_CHECKED",
+      "source_url": "https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf",
+      "source_sha256": "7f72c7628e3da1360d9f9b136a3ac08cd1a60c6f6a84834945fc1361f6a0f1e1",
+      "locators": [
+        "printed p.362 (PDF page 372), no.17",
+        "captured citations: Borchhardt et al.1975 pp.71f.; Brixhe 2016 p.85"
+      ],
+      "finding": "Ramsay describes no.17 as a stele without an inscription, while the frozen N17 record contains a reading and cites later publications. Preserve this as publication history requiring the 1975 edition; do not infer that the modern reading is false or that no inscription can now be read.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Determine how later examination identified or read the inscription",
+        "Inspect Borchhardt et al.1975 directly and reconcile object identity"
+      ]
+    },
+    {
+      "check_id": "PIS-2023-CATALOG-3",
+      "record_ids": [
+        "pisidian:ediana:39"
+      ],
+      "inspection": "PRINTED_ENTRY_AND_FOOTNOTE_VISUALLY_CHECKED",
+      "source_url": "https://akmedmedia.ku.edu.tr/Adalya/Adalya_2023/Coskun_Abuagla_Offprint.pdf",
+      "source_sha256": "7115ca75d7f94dcd72832f244a2b35561f2a268408c7c499cb969e65618bd29d",
+      "locators": [
+        "printed p.188 no.3, n.17 (PDF page 10); fig.3"
+      ],
+      "finding": "The 2023 entry provides a concordance candidate for N39 and discusses the older uncertainty. Confirm the signs independently rather than removing underdots automatically.",
+      "object_inventory_source_assertion": {
+        "institution": "Isparta Archaeology Museum",
+        "inventory": "2.32.94",
+        "asserted_in": 2023,
+        "current_location_verified": false
+      },
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm the inventory concordance and current location",
+        "Collate sign uncertainty, line layout and interpretations separately"
+      ]
+    },
+    {
+      "check_id": "PIS-2023-CATALOG-5",
+      "record_ids": [
+        "pisidian:ediana:32"
+      ],
+      "inspection": "PRINTED_ENTRY_AND_FOOTNOTE_VISUALLY_CHECKED",
+      "source_url": "https://akmedmedia.ku.edu.tr/Adalya/Adalya_2023/Coskun_Abuagla_Offprint.pdf",
+      "source_sha256": "7115ca75d7f94dcd72832f244a2b35561f2a268408c7c499cb969e65618bd29d",
+      "locators": [
+        "printed p.189 no.5, n.20 (PDF page 11); fig.5"
+      ],
+      "finding": "The 2023 entry prints the names in two lines, while the captured N33 reading is one row. Preserve the layout difference separately from name segmentation and grammatical interpretation.",
+      "object_inventory_source_assertion": {
+        "institution": "Isparta Archaeology Museum",
+        "inventory": "13.1.81",
+        "asserted_in": 2023,
+        "current_location_verified": false
+      },
+      "canonical_change": false,
+      "expert_questions": [
+        "Confirm the inventory concordance and current location",
+        "Collate sign uncertainty, line layout and interpretations separately"
+      ]
     }
   ],
   "source_check_is_not_independent_review": true

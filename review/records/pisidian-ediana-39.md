@@ -5,7 +5,7 @@ Source label: N 39
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `dea4dc69b489636e3523367e47742195f596d1fce3196a0fe92fa2972278916e`
-Evidence fingerprint: `5a7689ec73e6254e114c92d9f040a728d2592c86cd39369ecd2f1bfb58b4848f`
+Evidence fingerprint: `0cbf6104761ab6e71d78f6ba5a8a058922996ad9bca84998ec2ab35eef0d1bc6`
 
 ## Captured source evidence
 
@@ -25,7 +25,16 @@ Source row · 1; JSON pointer:
 
 ## Source checks and unresolved questions
 
-No targeted source inspection has yet been linked to this record. Consult the edition citations and [source access log](../../research/source-access.json).
+### PIS-2023-CATALOG-3
+
+Source: [https://akmedmedia.ku.edu.tr/Adalya/Adalya_2023/Coskun_Abuagla_Offprint.pdf](https://akmedmedia.ku.edu.tr/Adalya/Adalya_2023/Coskun_Abuagla_Offprint.pdf)
+
+Locators: printed p.188 no.3, n.17 (PDF page 10); fig.3
+
+The 2023 entry provides a concordance candidate for N39 and discusses the older uncertainty. Confirm the signs independently rather than removing underdots automatically.
+
+- Confirm the inventory concordance and current location
+- Collate sign uncertainty, line layout and interpretations separately
 
 ## Record a decision
 

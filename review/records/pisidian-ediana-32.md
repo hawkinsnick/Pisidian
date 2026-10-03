@@ -5,7 +5,7 @@ Source label: N 33 (Sofular)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `90065f6633806294a5e27f06f65868405648f31f80946b40daae0173ccea27bd`
-Evidence fingerprint: `5a7689ec73e6254e114c92d9f040a728d2592c86cd39369ecd2f1bfb58b4848f`
+Evidence fingerprint: `0cbf6104761ab6e71d78f6ba5a8a058922996ad9bca84998ec2ab35eef0d1bc6`
 
 ## Captured source evidence
 
@@ -25,7 +25,16 @@ Source row · 1; JSON pointer:
 
 ## Source checks and unresolved questions
 
-No targeted source inspection has yet been linked to this record. Consult the edition citations and [source access log](../../research/source-access.json).
+### PIS-2023-CATALOG-5
+
+Source: [https://akmedmedia.ku.edu.tr/Adalya/Adalya_2023/Coskun_Abuagla_Offprint.pdf](https://akmedmedia.ku.edu.tr/Adalya/Adalya_2023/Coskun_Abuagla_Offprint.pdf)
+
+Locators: printed p.189 no.5, n.20 (PDF page 11); fig.5
+
+The 2023 entry prints the names in two lines, while the captured N33 reading is one row. Preserve the layout difference separately from name segmentation and grammatical interpretation.
+
+- Confirm the inventory concordance and current location
+- Collate sign uncertainty, line layout and interpretations separately
 
 ## Record a decision
 

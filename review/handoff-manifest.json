@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "evidence_fingerprint": "5a7689ec73e6254e114c92d9f040a728d2592c86cd39369ecd2f1bfb58b4848f",
+  "evidence_fingerprint": "0cbf6104761ab6e71d78f6ba5a8a058922996ad9bca84998ec2ab35eef0d1bc6",
   "input_fingerprints": [
     {
       "path": "data/reference/records.json",
@@ -24,7 +24,7 @@
     },
     {
       "path": "research/source-checks.json",
-      "sha256": "6bd3d8fa6840b342453adddce82ff8862336bb325c289310ffab2e1ffe2d2f5b"
+      "sha256": "f3657bc780dd59fdb638c6004b7e82bc8a32f2d8f7929d093174a89cb8f2f902"
     },
     {
       "path": "research/source-access.json",
@@ -32,11 +32,15 @@
     },
     {
       "path": "research/source-worklist.json",
-      "sha256": "b4b2186b5e6f71b76e45fa0328d472c65c4de94dc7ca978bfa8c46a0976b1e6a"
+      "sha256": "9fcfc96c9678d53762adfdf1c30d269ffc6b97b07d65552bebcff5d704ecf9c9"
+    },
+    {
+      "path": "research/publication-reconciliation.json",
+      "sha256": "fd9ab848702a8f1906a4435a878c54224036566bef925ce2b4430381f4ec5378"
     },
     {
       "path": "scripts/build_source_worklist.py",
-      "sha256": "3e74e105874d4fb1fc39ec92d5cf3021a8b70574c5be6c007ed9277488353935"
+      "sha256": "b7cd2d2c53e4caa05b2c399ee683e58bf5fbf0cd80a3c45cac69376da0239b11"
     },
     {
       "path": "research/rights-evidence.json",
@@ -44,7 +48,7 @@
     },
     {
       "path": "DATA-LICENSE-MATRIX.md",
-      "sha256": "62a6e8d32c479447c551c849832211b967d8fe8df95918282289a36cacba7685"
+      "sha256": "6daff2528007b5a79fead00b31fedcf4158d0de3c2b635138b74a2f9834749a3"
     },
     {
       "path": "NOTICE",
@@ -56,7 +60,7 @@
     },
     {
       "path": "scripts/build_review.py",
-      "sha256": "665a2799830a84578c2568ddb7ecf8e20e745f66a5c1632ef50928ffca4e8265"
+      "sha256": "b966b4213d2cc699462dfbd55f126c7eba39db0e497cc9ce85607ac64083d6a3"
     },
     {
       "path": "scripts/validate_review.py",
@@ -64,7 +68,7 @@
     }
   ],
   "packet_count": 54,
-  "source_checked_records": 7,
+  "source_checked_records": 25,
   "independently_reviewed_records": 0,
   "admitted_records": 0,
   "handoff_status": "PREPARED_FOR_RECORD_LEVEL_REVIEW; SOURCE_ACQUISITION_AND_COLLATION_STILL_INCOMPLETE",

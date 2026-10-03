@@ -5,7 +5,7 @@ Source label: N 17 (Sofular)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `b2265ce386231946eb414e3f883bbb0fdeacce6d1680988e37b09ed7b28c61cf`
-Evidence fingerprint: `5a7689ec73e6254e114c92d9f040a728d2592c86cd39369ecd2f1bfb58b4848f`
+Evidence fingerprint: `0cbf6104761ab6e71d78f6ba5a8a058922996ad9bca84998ec2ab35eef0d1bc6`
 
 ## Captured source evidence
 
@@ -26,7 +26,16 @@ Source row · 1; JSON pointer:
 
 ## Source checks and unresolved questions
 
-No targeted source inspection has yet been linked to this record. Consult the edition citations and [source access log](../../research/source-access.json).
+### PIS-N17-HISTORICAL-NONREADING
+
+Source: [https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf](https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf)
+
+Locators: printed p.362 (PDF page 372), no.17; captured citations: Borchhardt et al.1975 pp.71f.; Brixhe 2016 p.85
+
+Ramsay describes no.17 as a stele without an inscription, while the frozen N17 record contains a reading and cites later publications. Preserve this as publication history requiring the 1975 edition; do not infer that the modern reading is false or that no inscription can now be read.
+
+- Determine how later examination identified or read the inscription
+- Inspect Borchhardt et al.1975 directly and reconcile object identity
 
 ## Record a decision
 

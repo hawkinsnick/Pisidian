@@ -5,7 +5,7 @@ Source label: N 04 (Sofular)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `81756cd42f15d9d73418abc02aa5cfc2366ce9deca2ccaca33c2ac3c4aaec206`
-Evidence fingerprint: `5a7689ec73e6254e114c92d9f040a728d2592c86cd39369ecd2f1bfb58b4848f`
+Evidence fingerprint: `0cbf6104761ab6e71d78f6ba5a8a058922996ad9bca84998ec2ab35eef0d1bc6`
 
 ## Captured source evidence
 
@@ -33,7 +33,16 @@ Source row · 2; JSON pointer:
 
 ## Source checks and unresolved questions
 
-No targeted source inspection has yet been linked to this record. Consult the edition citations and [source access log](../../research/source-access.json).
+### PIS-RAMSAY1895-4
+
+Source: [https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf](https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf)
+
+Locators: printed p.358 (PDF page 368), inscription no.4
+
+The numbered historical entry supplies a direct edition locator for the corresponding modern N4 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.
+
+- Collate each sign and uncertainty with the original drawing and later editions
+- Verify that modern numbering refers to the same physical object
 
 ## Record a decision
 
