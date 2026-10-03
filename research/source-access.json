@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "attempts": [
+    {
+      "source_url": "https://www.persee.fr/doc/ista_0000-0000_2013_act_1277_2_3754?pageId=T15_236",
+      "checked_on": "2026-10-03",
+      "access_state": "PRIMARY_EDITION_PAGE_TEXT_INSPECTED",
+      "sha256": "c505a08028b581a0f55a8b5cfc6117ab33336f5b93477b5dae1ab68d76620d63",
+      "redistribution": "Source files and images not redistributed; metadata, paraphrase and precise locators only"
+    },
+    {
+      "source_url": "https://www.jolr.ru/files/(202)jlr2017-15-1-2(1-18).pdf",
+      "checked_on": "2026-10-03",
+      "access_state": "PDF_TEXT_AND_PRINTED_PAGES_VISUALLY_CHECKED",
+      "sha256": "d0188f7ef0f76f340c37c656d69dc05ddb02f25a3ac4a212fe475f1ccdc986b8",
+      "redistribution": "Source files and images not redistributed; metadata, paraphrase and precise locators only"
+    },
+    {
+      "source_url": "https://www.persee.fr/docAsPDF/ista_0000-0000_2013_act_1277_2_3754.pdf",
+      "checked_on": "2026-10-03",
+      "access_state": "PDF_DOWNLOAD_REQUIRES_CAPTCHA; NOT_ACQUIRED",
+      "next_action": "Use publicly accessible article page text and image locators; no challenge bypass"
+    }
+  ],
+  "scope": "Targeted edition access attempts; not exhaustive global availability search"
+}
