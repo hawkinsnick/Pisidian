@@ -4,7 +4,7 @@ Choose a record below. Read the [review guide](../docs/EXPERT-REVIEW.md) for the
 
 | Record | Source label | Priority |
 |---|---|---|
-| [pisidian:ediana:0](records/pisidian-ediana-0.md) | N 01 (Sofular) | BASELINE_COLLATION |
+| [pisidian:ediana:0](records/pisidian-ediana-0.md) | N 01 (Sofular) | TARGETED_SOURCE_CONFLICT |
 | [pisidian:ediana:1](records/pisidian-ediana-1.md) | N 02 (Sofular) | BASELINE_COLLATION |
 | [pisidian:ediana:2](records/pisidian-ediana-2.md) | N 03 (Sofular) | BASELINE_COLLATION |
 | [pisidian:ediana:3](records/pisidian-ediana-3.md) | N 04 (Sofular) | BASELINE_COLLATION |
@@ -27,8 +27,8 @@ Choose a record below. Read the [review guide](../docs/EXPERT-REVIEW.md) for the
 | [pisidian:ediana:20](records/pisidian-ediana-20.md) | N 21 (Collection Rahmi Koç) | BASELINE_COLLATION |
 | [pisidian:ediana:21](records/pisidian-ediana-21.md) | N 22 (Collection Rahmi Koç) | BASELINE_COLLATION |
 | [pisidian:ediana:22](records/pisidian-ediana-22.md) | N 23 (Sofular) | BASELINE_COLLATION |
-| [pisidian:ediana:23](records/pisidian-ediana-23.md) | N 24 (Sofular) | BASELINE_COLLATION |
-| [pisidian:ediana:24](records/pisidian-ediana-24.md) | N 25 (Sofular) | BASELINE_COLLATION |
+| [pisidian:ediana:23](records/pisidian-ediana-23.md) | N 24 (Sofular) | TARGETED_SOURCE_CONFLICT |
+| [pisidian:ediana:24](records/pisidian-ediana-24.md) | N 25 (Sofular) | TARGETED_SOURCE_CONFLICT |
 | [pisidian:ediana:25](records/pisidian-ediana-25.md) | N 26 (Sofular) | BASELINE_COLLATION |
 | [pisidian:ediana:26](records/pisidian-ediana-26.md) | N 27 (Sofular) | BASELINE_COLLATION |
 | [pisidian:ediana:27](records/pisidian-ediana-27.md) | N 28 (Sofular) | BASELINE_COLLATION |

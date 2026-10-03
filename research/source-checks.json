@@ -135,6 +135,114 @@
         "Confirm edition-to-object identity",
         "Collate the preserved signs, editorial alternatives and prior editions"
       ]
+    },
+    {
+      "check_id": "PIS-N25-2023",
+      "record_ids": [
+        "pisidian:ediana:24"
+      ],
+      "inspection": "PDF_TEXT_CHECKED; TARGETED_READING_OR_DRAWING_PAGE_VISUALLY_CHECKED; NOT_FULL_COLLATION",
+      "source_url": "https://akmedmedia.ku.edu.tr/Adalya/Adalya_2023/Coskun_Abuagla_Offprint.pdf",
+      "source_sha256": "7115ca75d7f94dcd72832f244a2b35561f2a268408c7c499cb969e65618bd29d",
+      "locators": [
+        "printed p.188 no.2, n.12 (PDF page 10); fig.2"
+      ],
+      "finding": "The 2023 paper separates the ending into a third name, challenging the older continuous reading. Both reading and grammatical analysis require adjudication.",
+      "canonical_change": false,
+      "bibliography": {
+        "author": "Asuman Coşkun Abuagla",
+        "year": 2023,
+        "title": "Nominative and Genitive Endings of Some Epichoric Personal Names in Light of Inscriptions from Tymbriada",
+        "journal": "Adalya",
+        "volume": "26",
+        "pages": "185–196",
+        "doi": "10.47589/adalya.1414560"
+      },
+      "source_pointer": "/N 25 (Sofular)/1",
+      "captured_reading": "βα νωμος",
+      "proposal_scope": "names_and_segmentation; published vacat markers omitted from this comparison excerpt",
+      "proposed_reading": "Βα Νω Ρις",
+      "proposal_state": "ATTRIBUTED_SCHOLARLY_PROPOSAL",
+      "object_inventory_source_assertion": {
+        "institution": "Isparta Archaeology Museum",
+        "inventory": "6.9.82",
+        "asserted_in": 2023,
+        "current_location_verified": false
+      },
+      "independence": "2023 paper reports stone and squeeze examination; project inspected publication only, not objects",
+      "expert_questions": [
+        "Verify inventory concordance and current location",
+        "Compare signs and line division against the published photographs and squeezes",
+        "Assess grammatical interpretation separately from transcription"
+      ]
+    },
+    {
+      "check_id": "PIS-N24-2023",
+      "record_ids": [
+        "pisidian:ediana:23"
+      ],
+      "inspection": "PDF_TEXT_CHECKED; TARGETED_READING_OR_DRAWING_PAGE_VISUALLY_CHECKED; NOT_FULL_COLLATION",
+      "source_url": "https://akmedmedia.ku.edu.tr/Adalya/Adalya_2023/Coskun_Abuagla_Offprint.pdf",
+      "source_sha256": "7115ca75d7f94dcd72832f244a2b35561f2a268408c7c499cb969e65618bd29d",
+      "locators": [
+        "printed p.190 no.7, n.25 (PDF page 12); fig.7"
+      ],
+      "finding": "The proposed sign reading and two-line division differ from the captured single-row form. Preserve both; reassessment of names is not an accepted corpus correction.",
+      "canonical_change": false,
+      "bibliography": {
+        "author": "Asuman Coşkun Abuagla",
+        "year": 2023,
+        "title": "Nominative and Genitive Endings of Some Epichoric Personal Names in Light of Inscriptions from Tymbriada",
+        "journal": "Adalya",
+        "volume": "26",
+        "pages": "185–196",
+        "doi": "10.47589/adalya.1414560"
+      },
+      "source_pointer": "/N 24 (Sofular)/1",
+      "captured_reading": "εδδι μιμουσις",
+      "proposal_scope": "names_and_segmentation; published vacat markers omitted from this comparison excerpt",
+      "proposed_reading": "Εδδι Τλι\nΜουσις",
+      "proposal_state": "ATTRIBUTED_SCHOLARLY_PROPOSAL",
+      "object_inventory_source_assertion": {
+        "institution": "Isparta Archaeology Museum",
+        "inventory": "6.7.82",
+        "asserted_in": 2023,
+        "current_location_verified": false
+      },
+      "independence": "2023 paper reports stone and squeeze examination; project inspected publication only, not objects",
+      "expert_questions": [
+        "Verify inventory concordance and current location",
+        "Compare signs and line division against the published photographs and squeezes",
+        "Assess grammatical interpretation separately from transcription"
+      ]
+    },
+    {
+      "check_id": "PIS-RAMSAY1895-LOCATOR",
+      "record_ids": [
+        "pisidian:ediana:0"
+      ],
+      "inspection": "PDF_TEXT_CHECKED; TARGETED_READING_OR_DRAWING_PAGE_VISUALLY_CHECKED; NOT_FULL_COLLATION",
+      "source_url": "https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf",
+      "source_sha256": "7f72c7628e3da1360d9f9b136a3ac08cd1a60c6f6a84834945fc1361f6a0f1e1",
+      "locators": [
+        "printed pp.353–362 (PDF pages 363–372), article",
+        "printed p.356 (PDF page 366), inscription no.1 and drawing"
+      ],
+      "finding": "The cited article and no.1 drawing are accessible. This provides a direct historical edition locator; OCR is unreliable for the Greek signs, and a complete row-by-row comparison remains pending.",
+      "canonical_change": false,
+      "bibliography": {
+        "author": "William M. Ramsay",
+        "year": 1895,
+        "title": "Inscriptions en langue pisidienne",
+        "journal": "Revue des universités du Midi",
+        "volume": "1",
+        "pages": "353–362"
+      },
+      "independence": "Historical source in the existing edition lineage; no independent project object examination",
+      "expert_questions": [
+        "Compare all signs and line breaks with later editions",
+        "Check copies, revisions and object identity separately"
+      ]
     }
   ],
   "source_check_is_not_independent_review": true

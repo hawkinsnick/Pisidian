@@ -1,0 +1,1392 @@
+{
+  "schema_version": "1.0",
+  "scope": "Frozen digital snapshot; not a language-wide inventory or completeness claim",
+  "record_count": 54,
+  "distinct_citation_count": 48,
+  "records_without_captured_citations": [
+    "pisidian:ediana:15"
+  ],
+  "bibliographic_candidates_path": "data/upstream/ediana/bibliography.json",
+  "access_log_path": "research/source-access.json",
+  "new_publication_leads_path": "research/source-frontier.json",
+  "citation_dependencies": [
+    {
+      "citation_verbatim": "Borchhardt et al. 1975a:71f., Brixhe 2016a:85",
+      "record_ids": [
+        "pisidian:ediana:16"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe & Gibson 1982a160f., Brixhe 2016a:86f.",
+      "record_ids": [
+        "pisidian:ediana:20"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe & Gibson 1982a:147-149, Brixhe 2016a:86",
+      "record_ids": [
+        "pisidian:ediana:17"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe & Gibson 1982a:151f., Brixhe 2016a:86",
+      "record_ids": [
+        "pisidian:ediana:18"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe & Gibson 1982a:155f., Adiego 2012b:23, Brixhe 2016a:86",
+      "record_ids": [
+        "pisidian:ediana:19"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe & Gibson 1982a:164-166, Brixhe 2016a:87",
+      "record_ids": [
+        "pisidian:ediana:21"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe & Özsait 2001a:156-166, Adiego 2012b:17-20, Brixhe 2016a:91f.",
+      "record_ids": [
+        "pisidian:ediana:37"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe & Özsait 2001a:166-169, Adiego 2012b:25, Brixhe 2016a:93",
+      "record_ids": [
+        "pisidian:ediana:38"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe & Özsait 2013a:233f., Brixhe 2016a:99f.",
+      "record_ids": [
+        "pisidian:ediana:52"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe & Özsait 2013a:235, Brixhe 2016a:97f.",
+      "record_ids": [
+        "pisidian:ediana:50"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe & Özsait 2013a:236f., Brixhe 2016a:98f.",
+      "record_ids": [
+        "pisidian:ediana:51"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe 2016a:93",
+      "record_ids": [
+        "pisidian:ediana:39"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe 2016a:93f.",
+      "record_ids": [
+        "pisidian:ediana:40"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe 2016a:94",
+      "record_ids": [
+        "pisidian:ediana:41",
+        "pisidian:ediana:42",
+        "pisidian:ediana:43"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe 2016a:94f.",
+      "record_ids": [
+        "pisidian:ediana:44"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe 2016a:95",
+      "record_ids": [
+        "pisidian:ediana:45",
+        "pisidian:ediana:46",
+        "pisidian:ediana:47"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe 2016a:95f.",
+      "record_ids": [
+        "pisidian:ediana:48"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe 2016a:96",
+      "record_ids": [
+        "pisidian:ediana:49"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe et al. 1987a:135f., Adiego 2012b:23, Brixhe 2016a:87",
+      "record_ids": [
+        "pisidian:ediana:22"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe et al. 1987a:136f., Adiego 2012b:24, Brixhe 2016a:87",
+      "record_ids": [
+        "pisidian:ediana:23"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe et al. 1987a:138f., Adiego 2012b:24, Brixhe 2016a:88",
+      "record_ids": [
+        "pisidian:ediana:25"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe et al. 1987a:139, Adiego 2012b:24, Brixhe 2016a:88",
+      "record_ids": [
+        "pisidian:ediana:26"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe et al. 1987a:140, Adiego 2012b:24, Brixhe 2016a:88",
+      "record_ids": [
+        "pisidian:ediana:27"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe et al. 1987a:142-44, Adiego 2012b:24, Brixhe 2016a:88f.",
+      "record_ids": [
+        "pisidian:ediana:28"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe et al. 1987a:147f., Adiego 2012b:24, Brixhe 2016a:89",
+      "record_ids": [
+        "pisidian:ediana:29"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe et al. 1987a:148-151, Adiego 2012b:24, Brixhe 2016a:89",
+      "record_ids": [
+        "pisidian:ediana:30"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe et al. 1987a:151f., Brixhe 2016a:89f.",
+      "record_ids": [
+        "pisidian:ediana:31"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe et al. 1987a:155-157, Adiego 2012b:24, Brixhe 2016a:90",
+      "record_ids": [
+        "pisidian:ediana:32"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe et al. 1987a:158f., Adiego 2012b:24, Brixhe 2016a:90f.",
+      "record_ids": [
+        "pisidian:ediana:33"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe et al. 1987a:164, Brixhe 2016a:91",
+      "record_ids": [
+        "pisidian:ediana:35"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe et al. 1987a:164f., Brixhe 2016a:91",
+      "record_ids": [
+        "pisidian:ediana:36"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe et al. 1987a:91, Brixhe 2016a:91",
+      "record_ids": [
+        "pisidian:ediana:34"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Brixhe et al.1987a:137f., Adiego 2012b:24, Brixhe 2016a:88",
+      "record_ids": [
+        "pisidian:ediana:24"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Neumann & Fuhrmann 2005a:13-18, Brixhe & Özsait 2013a:234, 245f., Adiego 2012b:21, 25, Brixhe 2016a:100-102",
+      "record_ids": [
+        "pisidian:ediana:53"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Ramsay 1895a:356f., Brixhe 2016a:78f.",
+      "record_ids": [
+        "pisidian:ediana:0"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Ramsay 1895a:357, Borchhardt et al. 1975a:69, Brixhe 2016a:79",
+      "record_ids": [
+        "pisidian:ediana:1"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Ramsay 1895a:357f., Brixhe 2016a:79",
+      "record_ids": [
+        "pisidian:ediana:2"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Ramsay 1895a:358, Borchhardt et al. 1975a:70, Brixhe 2016a:80",
+      "record_ids": [
+        "pisidian:ediana:4"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Ramsay 1895a:358, Brixhe 2016a:79",
+      "record_ids": [
+        "pisidian:ediana:3"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Ramsay 1895a:359, Brixhe 2016a:80",
+      "record_ids": [
+        "pisidian:ediana:5"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Ramsay 1895a:359, Brixhe 2016a:80f.",
+      "record_ids": [
+        "pisidian:ediana:6"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Ramsay 1895a:359, Brixhe 2016a:81",
+      "record_ids": [
+        "pisidian:ediana:7",
+        "pisidian:ediana:8"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Ramsay 1895a:360, Brixhe 2016a:81f.",
+      "record_ids": [
+        "pisidian:ediana:9"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Ramsay 1895a:360f., Borchhardt et al. 1975a:70f., Brixhe 2016a:82",
+      "record_ids": [
+        "pisidian:ediana:10"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Ramsay 1895a:361,  Brixhe 2016a:82f.",
+      "record_ids": [
+        "pisidian:ediana:11"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Ramsay 1895a:361f., Brixhe 2016a:83f.",
+      "record_ids": [
+        "pisidian:ediana:12"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Ramsay 1895a:362, Brixhe 2016a:84",
+      "record_ids": [
+        "pisidian:ediana:13",
+        "pisidian:ediana:14"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    },
+    {
+      "citation_verbatim": "Ramsay 1895a:362, Brixhe 2016a:84f.",
+      "record_ids": [
+        "pisidian:ediana:16"
+      ],
+      "join_state": "UNRESOLVED; title, edition and locator must be checked separately",
+      "next_action": "Acquire the exact cited edition and collate the indicated passage; do not equate a bibliography search hit with inspected content"
+    }
+  ],
+  "record_work": [
+    {
+      "record_id": "pisidian:ediana:0",
+      "review_page": "review/records/pisidian-ediana-0.md",
+      "citations_verbatim": [
+        "Ramsay 1895a:356f., Brixhe 2016a:78f."
+      ],
+      "source_check_ids": [
+        "PIS-RAMSAY1895-LOCATOR"
+      ],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:1",
+      "review_page": "review/records/pisidian-ediana-1.md",
+      "citations_verbatim": [
+        "Ramsay 1895a:357, Borchhardt et al. 1975a:69, Brixhe 2016a:79"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:2",
+      "review_page": "review/records/pisidian-ediana-2.md",
+      "citations_verbatim": [
+        "Ramsay 1895a:357f., Brixhe 2016a:79"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:3",
+      "review_page": "review/records/pisidian-ediana-3.md",
+      "citations_verbatim": [
+        "Ramsay 1895a:358, Brixhe 2016a:79"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:4",
+      "review_page": "review/records/pisidian-ediana-4.md",
+      "citations_verbatim": [
+        "Ramsay 1895a:358, Borchhardt et al. 1975a:70, Brixhe 2016a:80"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:5",
+      "review_page": "review/records/pisidian-ediana-5.md",
+      "citations_verbatim": [
+        "Ramsay 1895a:359, Brixhe 2016a:80"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:6",
+      "review_page": "review/records/pisidian-ediana-6.md",
+      "citations_verbatim": [
+        "Ramsay 1895a:359, Brixhe 2016a:80f."
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:7",
+      "review_page": "review/records/pisidian-ediana-7.md",
+      "citations_verbatim": [
+        "Ramsay 1895a:359, Brixhe 2016a:81"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:8",
+      "review_page": "review/records/pisidian-ediana-8.md",
+      "citations_verbatim": [
+        "Ramsay 1895a:359, Brixhe 2016a:81"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:9",
+      "review_page": "review/records/pisidian-ediana-9.md",
+      "citations_verbatim": [
+        "Ramsay 1895a:360, Brixhe 2016a:81f."
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:10",
+      "review_page": "review/records/pisidian-ediana-10.md",
+      "citations_verbatim": [
+        "Ramsay 1895a:360f., Borchhardt et al. 1975a:70f., Brixhe 2016a:82"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:11",
+      "review_page": "review/records/pisidian-ediana-11.md",
+      "citations_verbatim": [
+        "Ramsay 1895a:361,  Brixhe 2016a:82f."
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:12",
+      "review_page": "review/records/pisidian-ediana-12.md",
+      "citations_verbatim": [
+        "Ramsay 1895a:361f., Brixhe 2016a:83f."
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:13",
+      "review_page": "review/records/pisidian-ediana-13.md",
+      "citations_verbatim": [
+        "Ramsay 1895a:362, Brixhe 2016a:84"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:14",
+      "review_page": "review/records/pisidian-ediana-14.md",
+      "citations_verbatim": [
+        "Ramsay 1895a:362, Brixhe 2016a:84"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:15",
+      "review_page": "review/records/pisidian-ediana-15.md",
+      "citations_verbatim": [],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:16",
+      "review_page": "review/records/pisidian-ediana-16.md",
+      "citations_verbatim": [
+        "Ramsay 1895a:362, Brixhe 2016a:84f.",
+        "Borchhardt et al. 1975a:71f., Brixhe 2016a:85"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:17",
+      "review_page": "review/records/pisidian-ediana-17.md",
+      "citations_verbatim": [
+        "Brixhe & Gibson 1982a:147-149, Brixhe 2016a:86"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:18",
+      "review_page": "review/records/pisidian-ediana-18.md",
+      "citations_verbatim": [
+        "Brixhe & Gibson 1982a:151f., Brixhe 2016a:86"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:19",
+      "review_page": "review/records/pisidian-ediana-19.md",
+      "citations_verbatim": [
+        "Brixhe & Gibson 1982a:155f., Adiego 2012b:23, Brixhe 2016a:86"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:20",
+      "review_page": "review/records/pisidian-ediana-20.md",
+      "citations_verbatim": [
+        "Brixhe & Gibson 1982a160f., Brixhe 2016a:86f."
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:21",
+      "review_page": "review/records/pisidian-ediana-21.md",
+      "citations_verbatim": [
+        "Brixhe & Gibson 1982a:164-166, Brixhe 2016a:87"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:22",
+      "review_page": "review/records/pisidian-ediana-22.md",
+      "citations_verbatim": [
+        "Brixhe et al. 1987a:135f., Adiego 2012b:23, Brixhe 2016a:87"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:23",
+      "review_page": "review/records/pisidian-ediana-23.md",
+      "citations_verbatim": [
+        "Brixhe et al. 1987a:136f., Adiego 2012b:24, Brixhe 2016a:87"
+      ],
+      "source_check_ids": [
+        "PIS-N24-2023"
+      ],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:24",
+      "review_page": "review/records/pisidian-ediana-24.md",
+      "citations_verbatim": [
+        "Brixhe et al.1987a:137f., Adiego 2012b:24, Brixhe 2016a:88"
+      ],
+      "source_check_ids": [
+        "PIS-N25-2023"
+      ],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:25",
+      "review_page": "review/records/pisidian-ediana-25.md",
+      "citations_verbatim": [
+        "Brixhe et al. 1987a:138f., Adiego 2012b:24, Brixhe 2016a:88"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:26",
+      "review_page": "review/records/pisidian-ediana-26.md",
+      "citations_verbatim": [
+        "Brixhe et al. 1987a:139, Adiego 2012b:24, Brixhe 2016a:88"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:27",
+      "review_page": "review/records/pisidian-ediana-27.md",
+      "citations_verbatim": [
+        "Brixhe et al. 1987a:140, Adiego 2012b:24, Brixhe 2016a:88"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:28",
+      "review_page": "review/records/pisidian-ediana-28.md",
+      "citations_verbatim": [
+        "Brixhe et al. 1987a:142-44, Adiego 2012b:24, Brixhe 2016a:88f."
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:29",
+      "review_page": "review/records/pisidian-ediana-29.md",
+      "citations_verbatim": [
+        "Brixhe et al. 1987a:147f., Adiego 2012b:24, Brixhe 2016a:89"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:30",
+      "review_page": "review/records/pisidian-ediana-30.md",
+      "citations_verbatim": [
+        "Brixhe et al. 1987a:148-151, Adiego 2012b:24, Brixhe 2016a:89"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:31",
+      "review_page": "review/records/pisidian-ediana-31.md",
+      "citations_verbatim": [
+        "Brixhe et al. 1987a:151f., Brixhe 2016a:89f."
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:32",
+      "review_page": "review/records/pisidian-ediana-32.md",
+      "citations_verbatim": [
+        "Brixhe et al. 1987a:155-157, Adiego 2012b:24, Brixhe 2016a:90"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:33",
+      "review_page": "review/records/pisidian-ediana-33.md",
+      "citations_verbatim": [
+        "Brixhe et al. 1987a:158f., Adiego 2012b:24, Brixhe 2016a:90f."
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:34",
+      "review_page": "review/records/pisidian-ediana-34.md",
+      "citations_verbatim": [
+        "Brixhe et al. 1987a:91, Brixhe 2016a:91"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:35",
+      "review_page": "review/records/pisidian-ediana-35.md",
+      "citations_verbatim": [
+        "Brixhe et al. 1987a:164, Brixhe 2016a:91"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:36",
+      "review_page": "review/records/pisidian-ediana-36.md",
+      "citations_verbatim": [
+        "Brixhe et al. 1987a:164f., Brixhe 2016a:91"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:37",
+      "review_page": "review/records/pisidian-ediana-37.md",
+      "citations_verbatim": [
+        "Brixhe & Özsait 2001a:156-166, Adiego 2012b:17-20, Brixhe 2016a:91f."
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:38",
+      "review_page": "review/records/pisidian-ediana-38.md",
+      "citations_verbatim": [
+        "Brixhe & Özsait 2001a:166-169, Adiego 2012b:25, Brixhe 2016a:93"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:39",
+      "review_page": "review/records/pisidian-ediana-39.md",
+      "citations_verbatim": [
+        "Brixhe 2016a:93"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:40",
+      "review_page": "review/records/pisidian-ediana-40.md",
+      "citations_verbatim": [
+        "Brixhe 2016a:93f."
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:41",
+      "review_page": "review/records/pisidian-ediana-41.md",
+      "citations_verbatim": [
+        "Brixhe 2016a:94"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:42",
+      "review_page": "review/records/pisidian-ediana-42.md",
+      "citations_verbatim": [
+        "Brixhe 2016a:94"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:43",
+      "review_page": "review/records/pisidian-ediana-43.md",
+      "citations_verbatim": [
+        "Brixhe 2016a:94"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:44",
+      "review_page": "review/records/pisidian-ediana-44.md",
+      "citations_verbatim": [
+        "Brixhe 2016a:94f."
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:45",
+      "review_page": "review/records/pisidian-ediana-45.md",
+      "citations_verbatim": [
+        "Brixhe 2016a:95"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:46",
+      "review_page": "review/records/pisidian-ediana-46.md",
+      "citations_verbatim": [
+        "Brixhe 2016a:95"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:47",
+      "review_page": "review/records/pisidian-ediana-47.md",
+      "citations_verbatim": [
+        "Brixhe 2016a:95"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:48",
+      "review_page": "review/records/pisidian-ediana-48.md",
+      "citations_verbatim": [
+        "Brixhe 2016a:95f."
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:49",
+      "review_page": "review/records/pisidian-ediana-49.md",
+      "citations_verbatim": [
+        "Brixhe 2016a:96"
+      ],
+      "source_check_ids": [],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:50",
+      "review_page": "review/records/pisidian-ediana-50.md",
+      "citations_verbatim": [
+        "Brixhe & Özsait 2013a:235, Brixhe 2016a:97f."
+      ],
+      "source_check_ids": [
+        "PIS-PRIMARY-50"
+      ],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:51",
+      "review_page": "review/records/pisidian-ediana-51.md",
+      "citations_verbatim": [
+        "Brixhe & Özsait 2013a:236f., Brixhe 2016a:98f."
+      ],
+      "source_check_ids": [
+        "PIS-KESME2-PRIMARY",
+        "PIS-KESME2-AMBIGUITIES"
+      ],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:52",
+      "review_page": "review/records/pisidian-ediana-52.md",
+      "citations_verbatim": [
+        "Brixhe & Özsait 2013a:233f., Brixhe 2016a:99f."
+      ],
+      "source_check_ids": [
+        "PIS-PRIMARY-52"
+      ],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    },
+    {
+      "record_id": "pisidian:ediana:53",
+      "review_page": "review/records/pisidian-ediana-53.md",
+      "citations_verbatim": [
+        "Neumann & Fuhrmann 2005a:13-18, Brixhe & Özsait 2013a:234, 245f., Adiego 2012b:21, 25, Brixhe 2016a:100-102"
+      ],
+      "source_check_ids": [
+        "PIS-PRIMARY-53"
+      ],
+      "remaining_work": [
+        "Confirm edition-to-record concordance",
+        "Collate every source row, including uncertainty and layout",
+        "Reconcile object identity and inventory",
+        "Establish applicable reuse rights",
+        "Obtain independent expert review"
+      ],
+      "primary_edition_verified": false,
+      "physical_object_verified": false,
+      "admitted": false
+    }
+  ]
+}

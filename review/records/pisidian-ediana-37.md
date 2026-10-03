@@ -5,7 +5,7 @@ Source label: N 37 (Yayla de Senitli)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `27171d6f8199346ddfa97cb38c7c282cc6b1af481f5c6ba87a2ab3a815e4bffc`
-Evidence fingerprint: `2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324`
+Evidence fingerprint: `5a7689ec73e6254e114c92d9f040a728d2592c86cd39369ecd2f1bfb58b4848f`
 
 ## Captured source evidence
 

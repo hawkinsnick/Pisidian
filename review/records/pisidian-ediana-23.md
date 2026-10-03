@@ -5,7 +5,7 @@ Source label: N 24 (Sofular)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `1317c8893f287cc5326c89ec77b4117c0099beec30b706e1c807b9124d2625e0`
-Evidence fingerprint: `2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324`
+Evidence fingerprint: `5a7689ec73e6254e114c92d9f040a728d2592c86cd39369ecd2f1bfb58b4848f`
 
 ## Captured source evidence
 
@@ -25,7 +25,24 @@ Source row · 1; JSON pointer:
 
 ## Source checks and unresolved questions
 
-No targeted source inspection has yet been linked to this record. Consult the edition citations and [source access log](../../research/source-access.json).
+### PIS-N24-2023
+
+Source: [https://akmedmedia.ku.edu.tr/Adalya/Adalya_2023/Coskun_Abuagla_Offprint.pdf](https://akmedmedia.ku.edu.tr/Adalya/Adalya_2023/Coskun_Abuagla_Offprint.pdf)
+
+Locators: printed p.190 no.7, n.25 (PDF page 12); fig.7
+
+The proposed sign reading and two-line division differ from the captured single-row form. Preserve both; reassessment of names is not an accepted corpus correction.
+
+Attributed scholarly proposal for names_and_segmentation; published vacat markers omitted from this comparison excerpt:
+
+````text
+Εδδι Τλι
+Μουσις
+````
+
+- Verify inventory concordance and current location
+- Compare signs and line division against the published photographs and squeezes
+- Assess grammatical interpretation separately from transcription
 
 ## Record a decision
 

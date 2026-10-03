@@ -1,14 +1,14 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "fa066f59a2a293d93c9da7c2a5f09d482d77fbb5",
-  "evidence_fingerprint_sha256": "b51d4cb3c765132264bf1ff57f75e8c25d3bb3832295a2fc5f192e09810f042d",
+  "source_commit": "cd14de9d2f704be0cefa6378be95256f4d114297",
+  "evidence_fingerprint_sha256": "302d968953677674dfb297c3ae18ecc84e489492b98a546cc3d19fa55f99aa75",
   "canonical_repository": true,
   "artifacts": [
     {
       "role": "current_status",
       "path": "analysis/current-status.json",
-      "sha256": "e5134f78dcb25d3619b669df0f4f1b4a3040377e3a9074fd06392443be0146f1",
+      "sha256": "e22145809464bb709bea0cd013eb89b1d3843932afff38658e3f78f78b12ec96",
       "bytes": 919
     },
     {
@@ -26,8 +26,8 @@
     {
       "role": "rights_matrix",
       "path": "DATA-LICENSE-MATRIX.md",
-      "sha256": "0ef333ce1272445875f78bdf058b078c0b619d41a8e30657af6a39759b652879",
-      "bytes": 941
+      "sha256": "62a6e8d32c479447c551c849832211b967d8fe8df95918282289a36cacba7685",
+      "bytes": 1238
     },
     {
       "role": "rights_evidence",
@@ -56,7 +56,7 @@
     {
       "role": "benchmark-status",
       "path": "analysis/benchmark-status.json",
-      "sha256": "251f4f7b8ed0ec5edb2eb988a8346c5582c7e0ed87aee636e5a86eacc72d5466",
+      "sha256": "cc51d236e59f6ebb59756c87d93dd5aeec01c321938617db912b168a0d268247",
       "bytes": 1303
     },
     {
@@ -74,14 +74,14 @@
     {
       "role": "source-frontier",
       "path": "research/source-frontier.json",
-      "sha256": "8c5156b59ab393009adec6697ed50d1937e7afea8a933b78f09b457e9ee5aad7",
-      "bytes": 895
+      "sha256": "620e9ee41fe33d4c6e281e5d5ecbb106f324ad7f5d1935405fd5295457f6fc77",
+      "bytes": 1404
     },
     {
       "role": "source-issues",
       "path": "research/source-issues.json",
-      "sha256": "79f8b0a12e133cdf02661605e04c8813f29a26e57a5276abb6e6c54764d6b942",
-      "bytes": 704
+      "sha256": "c6a7bc889fa15a797d4a90978cd3a5a26d3eeea82f50b0bc1233d92528ffe521",
+      "bytes": 947
     },
     {
       "role": "pre-expert-maximum",
@@ -104,32 +104,38 @@
     {
       "role": "SKILL",
       "path": "ai-skill/SKILL.md",
-      "sha256": "3185e16c44370efd947e67fda6b346bd0c60a66f186628d6c270f4e89cb5b320",
-      "bytes": 3636
+      "sha256": "9e6c63497e2fac06400c85073aa49fcabd66aa8532dc10a504b967ac4e94dcf1",
+      "bytes": 4124
     },
     {
       "role": "source-checks",
       "path": "research/source-checks.json",
-      "sha256": "67fac98ba4e38697f340d84b2f7ddb0ca2ec7b5c69bf3bb1976bd45567b7137d",
-      "bytes": 6110
+      "sha256": "6bd3d8fa6840b342453adddce82ff8862336bb325c289310ffab2e1ffe2d2f5b",
+      "bytes": 11401
     },
     {
       "role": "source-access",
       "path": "research/source-access.json",
-      "sha256": "8b35c1886a164b247c2989a0293af3e80e3c04414318687541e3f15bf34ca4e7",
-      "bytes": 1258
+      "sha256": "341ec6750060081a1cd59647a1be0d8fd1a5bae8d0bea6a38c81d53235877329",
+      "bytes": 2893
     },
     {
       "role": "packets",
       "path": "review/packets.json",
-      "sha256": "442b5b19b14dd66714bba9baef81e4dead67f44484b1f3b1f15a593888d71922",
-      "bytes": 57484
+      "sha256": "0b163afc92a89c58f930d88e27658f3e20ad6a181bbfdf7f6c79cd584e88de56",
+      "bytes": 57590
     },
     {
       "role": "handoff-manifest",
       "path": "review/handoff-manifest.json",
-      "sha256": "23ecbd07c28cf0dcdce2bb306c3610a7e907a6fbbc2c3c3ee54867b79b48c8a2",
-      "bytes": 2225
+      "sha256": "5363fc23eebcf576036492fbae5491dc76bb7488db6064139d6b4aff3a053aa4",
+      "bytes": 2514
+    },
+    {
+      "role": "source-worklist",
+      "path": "research/source-worklist.json",
+      "sha256": "b4b2186b5e6f71b76e45fa0328d472c65c4de94dc7ca978bfa8c46a0976b1e6a",
+      "bytes": 54048
     },
     {
       "role": "raw_source",

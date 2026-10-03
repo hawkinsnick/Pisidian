@@ -5,7 +5,7 @@ Source label: N 01 (Sofular)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `c558ffc29e2f3f4f7e44f64b160fc194e50a5e5b34310ba481d36f0e88370f2d`
-Evidence fingerprint: `2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324`
+Evidence fingerprint: `5a7689ec73e6254e114c92d9f040a728d2592c86cd39369ecd2f1bfb58b4848f`
 
 ## Captured source evidence
 
@@ -33,7 +33,16 @@ Source row · 2; JSON pointer:
 
 ## Source checks and unresolved questions
 
-No targeted source inspection has yet been linked to this record. Consult the edition citations and [source access log](../../research/source-access.json).
+### PIS-RAMSAY1895-LOCATOR
+
+Source: [https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf](https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pdf)
+
+Locators: printed pp.353–362 (PDF pages 363–372), article; printed p.356 (PDF page 366), inscription no.1 and drawing
+
+The cited article and no.1 drawing are accessible. This provides a direct historical edition locator; OCR is unreliable for the Greek signs, and a complete row-by-row comparison remains pending.
+
+- Compare all signs and line breaks with later editions
+- Check copies, revisions and object identity separately
 
 ## Record a decision
 
