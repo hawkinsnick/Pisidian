@@ -5,7 +5,7 @@ Source label: S 01 (Kesme)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `cf5917a34d087a4f99118fff97abd05c1dff683778229e2cda14dec70cbbb76e`
-Evidence fingerprint: `4999ab260287f8a98341c27d63c301a8921887a44c92c912e12db276ea046eb5`
+Evidence fingerprint: `2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324`
 
 ## Captured source evidence
 

@@ -5,7 +5,7 @@ Source label: N 06 (Sofular)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `387ca9940c88c4af3e793060266c00d4256309abd228132a4839d57127ccda78`
-Evidence fingerprint: `4999ab260287f8a98341c27d63c301a8921887a44c92c912e12db276ea046eb5`
+Evidence fingerprint: `2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324`
 
 ## Captured source evidence
 

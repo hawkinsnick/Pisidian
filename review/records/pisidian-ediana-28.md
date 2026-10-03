@@ -5,7 +5,7 @@ Source label: N 29 (Zindan Mağarası)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `62a5f4d52c801e9daa17cad60c1400221459497dc88b733d82c03f944d6b3a8e`
-Evidence fingerprint: `4999ab260287f8a98341c27d63c301a8921887a44c92c912e12db276ea046eb5`
+Evidence fingerprint: `2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324`
 
 ## Captured source evidence
 
