@@ -1,0 +1,227 @@
+{
+  "source_url": "https://www.ediana.gwi.uni-muenchen.de/literature.php",
+  "api_url": "https://www.ediana.gwi.uni-muenchen.de/includes/api.php",
+  "captured_on": "2026-10-03",
+  "license": "CC-BY-SA-4.0",
+  "queries": [
+    {
+      "query": "Adiego 2012b",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Adiego 2012b"
+      },
+      "response_sha256": "3826f1e5327820a0453f81c7f4d5ac3b7e0a4079d33436f7c62efcc60eb1f759",
+      "response": [
+        {
+          "ref_wpid": "3287",
+          "ref_sigle": "Adiego 2012b",
+          "ref_id": "956",
+          "ref_year": "2012",
+          "ref_type": "volume article",
+          "ref_pages": "17-26",
+          "ref_exc_avail": "0",
+          "ref_title_jv": "Per Roberto Gusmani. Linguistica storica e teorica. Studi in ricordo I",
+          "ref_title": "Minima Pisidica"
+        }
+      ],
+      "status": "ACQUIRED"
+    },
+    {
+      "query": "Borchhardt et al. 1975a",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Borchhardt et al. 1975a"
+      },
+      "response_sha256": "93ec537f24c9fd5709743f8a4c473c93965d54b63191a43436fb7d97d5423bff",
+      "response": [],
+      "status": "ACQUIRED"
+    },
+    {
+      "query": "Brixhe & Gibson 1982a",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Brixhe & Gibson 1982a"
+      },
+      "response_sha256": "063d33105e79efc7c5ac96a8b272f13cf3916f07e46f6931c6a3accdcef6a2f4",
+      "response": [
+        {
+          "ref_wpid": "6030",
+          "ref_sigle": "Brixhe & Gibson 1982a",
+          "ref_id": "2477",
+          "ref_year": "1988",
+          "ref_type": "journal article",
+          "ref_pages": "130-169",
+          "ref_exc_avail": "0",
+          "ref_title_jv": "Kadmos",
+          "ref_title": "Monuments from Pisidia in the Rahmi Koç Collection"
+        }
+      ],
+      "status": "ACQUIRED"
+    },
+    {
+      "query": "Brixhe & Özsait 2001a",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Brixhe & Özsait 2001a"
+      },
+      "response_sha256": "c1dbf3a1149b55b25d2383524f7bcf3ca609d2d0748f2870db547f16374322f8",
+      "response": [
+        {
+          "ref_wpid": "6029",
+          "ref_sigle": "Brixhe & Özsait 2001a",
+          "ref_id": "2476",
+          "ref_year": "2001",
+          "ref_type": "journal article",
+          "ref_pages": "155-176",
+          "ref_exc_avail": "0",
+          "ref_title_jv": "Kadmos",
+          "ref_title": "Nouvelles inscriptions pisidiennes et grecques de Timbriada"
+        }
+      ],
+      "status": "ACQUIRED"
+    },
+    {
+      "query": "Brixhe & Özsait 2013a",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Brixhe & Özsait 2013a"
+      },
+      "response_sha256": "fa69a86f670892c07281bc3af1ceb563448c739f65a8e2c12a1f1a1279c6811d",
+      "response": [
+        {
+          "ref_wpid": "7399",
+          "ref_sigle": "Brixhe & Özsait 2013a",
+          "ref_id": "2924",
+          "ref_year": "2013",
+          "ref_type": "volume article",
+          "ref_pages": "231-250",
+          "ref_exc_avail": "0",
+          "ref_title_jv": "L'Anatolie des peuples, des cités et des cultures (IIe millénaire av. J.-C. - Ve siècle ap. J.-C.",
+          "ref_title": "Cours moyen de l'Eurymédon: apparition du pisidien"
+        }
+      ],
+      "status": "ACQUIRED"
+    },
+    {
+      "query": "Brixhe 2016a",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Brixhe 2016a"
+      },
+      "response_sha256": "5358ceef3d24aed0705dde24bee946ab8080d9cc10f0765011af64887df6eaa4",
+      "response": [
+        {
+          "ref_wpid": "6521",
+          "ref_sigle": "Brixhe 2016a",
+          "ref_id": "2658",
+          "ref_year": "2016",
+          "ref_type": "monograph",
+          "ref_pages": "",
+          "ref_exc_avail": "0",
+          "ref_title_jv": "",
+          "ref_title": "Stèles et langue de Pisidie"
+        }
+      ],
+      "status": "ACQUIRED"
+    },
+    {
+      "query": "Brixhe et al. 1987a",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Brixhe et al. 1987a"
+      },
+      "response_sha256": "93ec537f24c9fd5709743f8a4c473c93965d54b63191a43436fb7d97d5423bff",
+      "response": [],
+      "status": "ACQUIRED"
+    },
+    {
+      "query": "Neumann & Fuhrmann 2005a",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Neumann & Fuhrmann 2005a"
+      },
+      "response_sha256": "db6f6e382478e4d0ad80ec12acb6a13c4abb2062da3f90de821916b779dda295",
+      "response": [
+        {
+          "ref_wpid": "3252",
+          "ref_sigle": "Neumann & Fuhrmann 2005a",
+          "ref_id": "926",
+          "ref_year": "2005",
+          "ref_type": "journal article",
+          "ref_pages": "7-18",
+          "ref_exc_avail": "0",
+          "ref_title_jv": "Kadmos. Zeitschrift für vor- und frühgriechische Epigraphik",
+          "ref_title": "Zwei epichorische Inschriften aus dem pisidischen Bergland"
+        }
+      ],
+      "status": "ACQUIRED"
+    },
+    {
+      "query": "Ramsay 1895a",
+      "request_fields": {
+        "lit_search": "true",
+        "author": "",
+        "year": "",
+        "title": "",
+        "journal": "",
+        "type": "",
+        "sigle": "Ramsay 1895a"
+      },
+      "response_sha256": "a643315b1e2dccae144bb9b144027fd2c24f2d3aab1198334093a6a3246a4db5",
+      "response": [
+        {
+          "ref_wpid": "5325",
+          "ref_sigle": "Ramsay 1895a",
+          "ref_id": "2212",
+          "ref_year": "1895",
+          "ref_type": "journal article",
+          "ref_pages": "353-362",
+          "ref_exc_avail": "0",
+          "ref_title_jv": "Revue des Universités du Midi",
+          "ref_title": "Inscriptions en langue pisidenne"
+        }
+      ],
+      "status": "ACQUIRED"
+    }
+  ]
+}
