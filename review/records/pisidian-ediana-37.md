@@ -5,7 +5,7 @@ Source label: N 37 (Yayla de Senitli)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `27171d6f8199346ddfa97cb38c7c282cc6b1af481f5c6ba87a2ab3a815e4bffc`
-Evidence fingerprint: `2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324`
+Evidence fingerprint: `0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358`
 
 ## Captured source evidence
 
@@ -25,7 +25,16 @@ Source row · 1; JSON pointer:
 
 ## Source checks and unresolved questions
 
-No targeted source inspection has yet been linked to this record. Consult the edition citations and [source access log](../../research/source-access.json).
+### PIS-ADIEGO2012-N37
+
+Source: [https://forumeditrice.it/percorsi/lingua-e-letteratura/studi-in-onore/per-roberto-gusmani/minima-pisidica-nota-sobre-la-estructura-de-una/download_capitolo](https://forumeditrice.it/percorsi/lingua-e-letteratura/studi-in-onore/per-roberto-gusmani/minima-pisidica-nota-sobre-la-estructura-de-una/download_capitolo)
+
+Locators: printed pp.17–19 (PDF pages2–4); appendix p.25 no.41
+
+The author proposes treating Pigerdotaris as one compound genitive rather than splitting Piger Dotaris, obtaining eight onomastic formulas rather than thirteen. These are segmentation and grammatical interpretations, not independently observed person counts. The p.19 table retains a question mark in the restored Tas formula. Appendix no.41 corresponds to this modern N37 candidate via Brixhe–Özsait 2001 no.1; do not join by ordinal.
+
+- Establish edition-specific concordance before comparing interpretations
+- Retain uncertainty and separate script, language and object identity
 
 ## Record a decision
 

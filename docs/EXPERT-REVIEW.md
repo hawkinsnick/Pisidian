@@ -13,3 +13,11 @@ Technical validation: `python scripts/validate_review.py your-review.json`. It c
 Open a GitHub pull request with your review and supporting locators. Avoid uploading images or publications without permission. No outreach has been sent on your behalf.
 
 Source acquisition and collation are still incomplete. `research/source-access.json` records targeted attempts; `research/pre-expert-maximum.json` lists remaining machine work. The review packets are usable now and can be regenerated as evidence improves.
+
+## Work remaining before adjudication
+
+The [source worklist](../research/source-worklist.json) lists every captured citation and every record, including records with no attached edition reference. It links targeted checks without treating them as completed collation. The [access log](../research/source-access.json) distinguishes usable scans from blocked downloads. Readings, current museum locations and language assignments remain pending expert assessment.
+
+The [2023 publication reconciliation](../research/publication-reconciliation.json) accounts for all nine discussed stelae. Four have text-and-edition concordance candidates; five remain unmatched or need classification and identity work. “Unmatched” means unresolved here, not necessarily a newly discovered Pisidian-language object. A cited parallel for a personal name cannot identify a stone.
+
+Adiego2012 provides a targeted N37 segmentation comparison (pp.17–19), but its appendix no.41 is not modern N41. The appendix’s no.17 refers to the1975 no.18, and printed no.33 is absent (pp.23–24). These source-number differences must remain explicit. Its p.18 n.2 also warns that geography alone does not securely identify the language of the2005 inscriptions.

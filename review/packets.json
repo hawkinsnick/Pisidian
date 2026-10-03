@@ -1,7 +1,7 @@
 [
   {
     "record_id": "pisidian:ediana:0",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "c558ffc29e2f3f4f7e44f64b160fc194e50a5e5b34310ba481d36f0e88370f2d",
     "source_catalog_label": "N 01 (Sofular)",
     "source_headings": [
@@ -16,8 +16,10 @@
     "edition_citations_verbatim": [
       "Ramsay 1895a:356f., Brixhe 2016a:78f."
     ],
-    "source_checks": [],
-    "priority": "BASELINE_COLLATION",
+    "source_checks": [
+      "PIS-RAMSAY1895-LOCATOR"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [
       "PRIMARY_EDITION_NOT_COLLATED",
       "PHYSICAL_OBJECT_NOT_RECONCILED",
@@ -34,7 +36,7 @@
   },
   {
     "record_id": "pisidian:ediana:1",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "61bc4e920053ed093a793b20c714178fe76ef4e99e6a6632422427a6c0037de1",
     "source_catalog_label": "N 02 (Sofular)",
     "source_headings": [
@@ -49,8 +51,10 @@
     "edition_citations_verbatim": [
       "Ramsay 1895a:357, Borchhardt et al. 1975a:69, Brixhe 2016a:79"
     ],
-    "source_checks": [],
-    "priority": "BASELINE_COLLATION",
+    "source_checks": [
+      "PIS-RAMSAY1895-2"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [
       "PRIMARY_EDITION_NOT_COLLATED",
       "PHYSICAL_OBJECT_NOT_RECONCILED",
@@ -67,7 +71,7 @@
   },
   {
     "record_id": "pisidian:ediana:2",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "d4dcc589efb39acd6268b870b01d6ac6b633c0dd096b8b522d18bff1c29097c0",
     "source_catalog_label": "N 03 (Sofular)",
     "source_headings": [
@@ -82,8 +86,10 @@
     "edition_citations_verbatim": [
       "Ramsay 1895a:357f., Brixhe 2016a:79"
     ],
-    "source_checks": [],
-    "priority": "BASELINE_COLLATION",
+    "source_checks": [
+      "PIS-RAMSAY1895-3"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [
       "PRIMARY_EDITION_NOT_COLLATED",
       "PHYSICAL_OBJECT_NOT_RECONCILED",
@@ -100,7 +106,7 @@
   },
   {
     "record_id": "pisidian:ediana:3",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "81756cd42f15d9d73418abc02aa5cfc2366ce9deca2ccaca33c2ac3c4aaec206",
     "source_catalog_label": "N 04 (Sofular)",
     "source_headings": [
@@ -115,8 +121,10 @@
     "edition_citations_verbatim": [
       "Ramsay 1895a:358, Brixhe 2016a:79"
     ],
-    "source_checks": [],
-    "priority": "BASELINE_COLLATION",
+    "source_checks": [
+      "PIS-RAMSAY1895-4"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [
       "PRIMARY_EDITION_NOT_COLLATED",
       "PHYSICAL_OBJECT_NOT_RECONCILED",
@@ -133,7 +141,7 @@
   },
   {
     "record_id": "pisidian:ediana:4",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "534454bc07162129a83effb5b0830694ac5a368ec25cfb9a8e2302fe8c85a5f9",
     "source_catalog_label": "N 05 (Sofular)",
     "source_headings": [
@@ -148,8 +156,10 @@
     "edition_citations_verbatim": [
       "Ramsay 1895a:358, Borchhardt et al. 1975a:70, Brixhe 2016a:80"
     ],
-    "source_checks": [],
-    "priority": "BASELINE_COLLATION",
+    "source_checks": [
+      "PIS-RAMSAY1895-5"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [
       "PRIMARY_EDITION_NOT_COLLATED",
       "PHYSICAL_OBJECT_NOT_RECONCILED",
@@ -166,7 +176,7 @@
   },
   {
     "record_id": "pisidian:ediana:5",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "387ca9940c88c4af3e793060266c00d4256309abd228132a4839d57127ccda78",
     "source_catalog_label": "N 06 (Sofular)",
     "source_headings": [
@@ -181,8 +191,10 @@
     "edition_citations_verbatim": [
       "Ramsay 1895a:359, Brixhe 2016a:80"
     ],
-    "source_checks": [],
-    "priority": "BASELINE_COLLATION",
+    "source_checks": [
+      "PIS-RAMSAY1895-6"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [
       "PRIMARY_EDITION_NOT_COLLATED",
       "PHYSICAL_OBJECT_NOT_RECONCILED",
@@ -199,7 +211,7 @@
   },
   {
     "record_id": "pisidian:ediana:6",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "0fc9e7f42d5f895eda6cd6432903d902cd96d6511a0d2de6b748fc840b215848",
     "source_catalog_label": "N 07 (Sofular)",
     "source_headings": [
@@ -214,8 +226,10 @@
     "edition_citations_verbatim": [
       "Ramsay 1895a:359, Brixhe 2016a:80f."
     ],
-    "source_checks": [],
-    "priority": "BASELINE_COLLATION",
+    "source_checks": [
+      "PIS-RAMSAY1895-7"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [
       "PRIMARY_EDITION_NOT_COLLATED",
       "PHYSICAL_OBJECT_NOT_RECONCILED",
@@ -232,7 +246,7 @@
   },
   {
     "record_id": "pisidian:ediana:7",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "44e2fe413cf09421c5dd2c32110f7ef29dba9608bbd2454caf1f97392b310c59",
     "source_catalog_label": "N 08 (Sofular)",
     "source_headings": [
@@ -246,8 +260,10 @@
     "edition_citations_verbatim": [
       "Ramsay 1895a:359, Brixhe 2016a:81"
     ],
-    "source_checks": [],
-    "priority": "BASELINE_COLLATION",
+    "source_checks": [
+      "PIS-RAMSAY1895-8"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [
       "PRIMARY_EDITION_NOT_COLLATED",
       "PHYSICAL_OBJECT_NOT_RECONCILED",
@@ -264,7 +280,7 @@
   },
   {
     "record_id": "pisidian:ediana:8",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "aa79c5f2b44d9d403935fd898be171df68959ff89929cf3d3a3afb1e303a7901",
     "source_catalog_label": "N 09 (Sofular)",
     "source_headings": [
@@ -278,8 +294,10 @@
     "edition_citations_verbatim": [
       "Ramsay 1895a:359, Brixhe 2016a:81"
     ],
-    "source_checks": [],
-    "priority": "BASELINE_COLLATION",
+    "source_checks": [
+      "PIS-RAMSAY1895-9"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [
       "PRIMARY_EDITION_NOT_COLLATED",
       "PHYSICAL_OBJECT_NOT_RECONCILED",
@@ -296,7 +314,7 @@
   },
   {
     "record_id": "pisidian:ediana:9",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "2c1d625dd59a1b1e9394cd0bb0788a492ca053ddbe69bbd975c143d091f79fa5",
     "source_catalog_label": "N 10 (Sofular)",
     "source_headings": [
@@ -311,8 +329,10 @@
     "edition_citations_verbatim": [
       "Ramsay 1895a:360, Brixhe 2016a:81f."
     ],
-    "source_checks": [],
-    "priority": "BASELINE_COLLATION",
+    "source_checks": [
+      "PIS-RAMSAY1895-10"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [
       "PRIMARY_EDITION_NOT_COLLATED",
       "PHYSICAL_OBJECT_NOT_RECONCILED",
@@ -329,7 +349,7 @@
   },
   {
     "record_id": "pisidian:ediana:10",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "0124fec98e23f665d2a5b5df4a04e910e48c3916363a55e0373d321bc037f5b4",
     "source_catalog_label": "N 11 (Sofular)",
     "source_headings": [
@@ -343,8 +363,10 @@
     "edition_citations_verbatim": [
       "Ramsay 1895a:360f., Borchhardt et al. 1975a:70f., Brixhe 2016a:82"
     ],
-    "source_checks": [],
-    "priority": "BASELINE_COLLATION",
+    "source_checks": [
+      "PIS-RAMSAY1895-11"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [
       "PRIMARY_EDITION_NOT_COLLATED",
       "PHYSICAL_OBJECT_NOT_RECONCILED",
@@ -361,7 +383,7 @@
   },
   {
     "record_id": "pisidian:ediana:11",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "2bda72d41ae8215393d4b98d9d85593c7ae3c9dea0f2ebbbdd271eb8d2ac1ccb",
     "source_catalog_label": "N 12 (Sofular)",
     "source_headings": [
@@ -377,8 +399,10 @@
     "edition_citations_verbatim": [
       "Ramsay 1895a:361,  Brixhe 2016a:82f."
     ],
-    "source_checks": [],
-    "priority": "BASELINE_COLLATION",
+    "source_checks": [
+      "PIS-RAMSAY1895-12"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [
       "PRIMARY_EDITION_NOT_COLLATED",
       "PHYSICAL_OBJECT_NOT_RECONCILED",
@@ -395,7 +419,7 @@
   },
   {
     "record_id": "pisidian:ediana:12",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "1a8a81309df0df02068106b90e2b955be485af412c8f3a548110bc8e7910026b",
     "source_catalog_label": "N 13 (Sofular)",
     "source_headings": [
@@ -410,8 +434,10 @@
     "edition_citations_verbatim": [
       "Ramsay 1895a:361f., Brixhe 2016a:83f."
     ],
-    "source_checks": [],
-    "priority": "BASELINE_COLLATION",
+    "source_checks": [
+      "PIS-RAMSAY1895-13"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [
       "PRIMARY_EDITION_NOT_COLLATED",
       "PHYSICAL_OBJECT_NOT_RECONCILED",
@@ -428,7 +454,7 @@
   },
   {
     "record_id": "pisidian:ediana:13",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "8f0f0136b4908b50f6b33c33fbc1ca754b6da7194d103012f39ae455987bce3b",
     "source_catalog_label": "N 14 (Sofular)",
     "source_headings": [
@@ -443,8 +469,10 @@
     "edition_citations_verbatim": [
       "Ramsay 1895a:362, Brixhe 2016a:84"
     ],
-    "source_checks": [],
-    "priority": "BASELINE_COLLATION",
+    "source_checks": [
+      "PIS-RAMSAY1895-14"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [
       "PRIMARY_EDITION_NOT_COLLATED",
       "PHYSICAL_OBJECT_NOT_RECONCILED",
@@ -461,7 +489,7 @@
   },
   {
     "record_id": "pisidian:ediana:14",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "03c66166f094fa96a55749d63df712345f33cfc64e8028444c633b7902953639",
     "source_catalog_label": "N 15 (Sofular)",
     "source_headings": [
@@ -475,8 +503,10 @@
     "edition_citations_verbatim": [
       "Ramsay 1895a:362, Brixhe 2016a:84"
     ],
-    "source_checks": [],
-    "priority": "BASELINE_COLLATION",
+    "source_checks": [
+      "PIS-RAMSAY1895-15"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [
       "PRIMARY_EDITION_NOT_COLLATED",
       "PHYSICAL_OBJECT_NOT_RECONCILED",
@@ -493,7 +523,7 @@
   },
   {
     "record_id": "pisidian:ediana:15",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "ca4396f29495c2acf722908905684fc9b5e6545a195b08d353d57852f905d601",
     "source_catalog_label": "N 16 (Sofular)",
     "source_headings": [
@@ -505,8 +535,10 @@
       "/N 16 (Sofular)/1"
     ],
     "edition_citations_verbatim": [],
-    "source_checks": [],
-    "priority": "EDITION_LOCATOR_MISSING",
+    "source_checks": [
+      "PIS-RAMSAY1895-16"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [
       "PRIMARY_EDITION_NOT_COLLATED",
       "PHYSICAL_OBJECT_NOT_RECONCILED",
@@ -523,7 +555,7 @@
   },
   {
     "record_id": "pisidian:ediana:16",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "b2265ce386231946eb414e3f883bbb0fdeacce6d1680988e37b09ed7b28c61cf",
     "source_catalog_label": "N 17 (Sofular)",
     "source_headings": [
@@ -538,8 +570,11 @@
       "Ramsay 1895a:362, Brixhe 2016a:84f.",
       "Borchhardt et al. 1975a:71f., Brixhe 2016a:85"
     ],
-    "source_checks": [],
-    "priority": "BASELINE_COLLATION",
+    "source_checks": [
+      "PIS-N17-HISTORICAL-NONREADING",
+      "PIS-ADIEGO2012-NUMBERING"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [
       "PRIMARY_EDITION_NOT_COLLATED",
       "PHYSICAL_OBJECT_NOT_RECONCILED",
@@ -556,7 +591,7 @@
   },
   {
     "record_id": "pisidian:ediana:17",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "c1a88163522706bb3e5698f722f839b55cdc9928fef87d270b16c64aca32b47e",
     "source_catalog_label": "N 18 (Collection Rahmi Koç)",
     "source_headings": [
@@ -589,7 +624,7 @@
   },
   {
     "record_id": "pisidian:ediana:18",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "d84c2ada9f81cc73b7b381a35f2ade5faef9b01060195580da90e3534c85b7be",
     "source_catalog_label": "N 19 (Collection Rahmi Koç)",
     "source_headings": [
@@ -622,7 +657,7 @@
   },
   {
     "record_id": "pisidian:ediana:19",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "4c8a90ebc803bcc9895ec556d14adbb7674dc05512df7b5b9ef86c1bef3656f9",
     "source_catalog_label": "N 20 (Collection Rahmi Koç)",
     "source_headings": [
@@ -655,7 +690,7 @@
   },
   {
     "record_id": "pisidian:ediana:20",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "92b02b184e4a05c9dcdf6d42392214455cf57eeeab413e3e88d3e9483c49c5c9",
     "source_catalog_label": "N 21 (Collection Rahmi Koç)",
     "source_headings": [
@@ -687,7 +722,7 @@
   },
   {
     "record_id": "pisidian:ediana:21",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "0b01de8f174ba2227dfd13856e319db2617db3b8d8f692ac4911aa6f04cabf7c",
     "source_catalog_label": "N 22 (Collection Rahmi Koç)",
     "source_headings": [
@@ -720,7 +755,7 @@
   },
   {
     "record_id": "pisidian:ediana:22",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "ba8840b4be69ccc3a38f43692a0732912e1a82971e306f8d5aed38ebe63727a8",
     "source_catalog_label": "N 23 (Sofular)",
     "source_headings": [
@@ -753,7 +788,7 @@
   },
   {
     "record_id": "pisidian:ediana:23",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "1317c8893f287cc5326c89ec77b4117c0099beec30b706e1c807b9124d2625e0",
     "source_catalog_label": "N 24 (Sofular)",
     "source_headings": [
@@ -767,8 +802,10 @@
     "edition_citations_verbatim": [
       "Brixhe et al. 1987a:136f., Adiego 2012b:24, Brixhe 2016a:87"
     ],
-    "source_checks": [],
-    "priority": "BASELINE_COLLATION",
+    "source_checks": [
+      "PIS-N24-2023"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [
       "PRIMARY_EDITION_NOT_COLLATED",
       "PHYSICAL_OBJECT_NOT_RECONCILED",
@@ -785,7 +822,7 @@
   },
   {
     "record_id": "pisidian:ediana:24",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "b5e0936dfe0157656e29cd23d12db28264ae2eee72c7f8f88a9da6cf1a410e18",
     "source_catalog_label": "N 25 (Sofular)",
     "source_headings": [
@@ -799,8 +836,10 @@
     "edition_citations_verbatim": [
       "Brixhe et al.1987a:137f., Adiego 2012b:24, Brixhe 2016a:88"
     ],
-    "source_checks": [],
-    "priority": "BASELINE_COLLATION",
+    "source_checks": [
+      "PIS-N25-2023"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [
       "PRIMARY_EDITION_NOT_COLLATED",
       "PHYSICAL_OBJECT_NOT_RECONCILED",
@@ -817,7 +856,7 @@
   },
   {
     "record_id": "pisidian:ediana:25",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "5c4ad1b972efbc98e6ae7398ecb41bd9ff91cee9ac963b0cc801f19d48687a5a",
     "source_catalog_label": "N 26 (Sofular)",
     "source_headings": [
@@ -849,7 +888,7 @@
   },
   {
     "record_id": "pisidian:ediana:26",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "39777c18d5e1b89338e1380009180b4afe10ee114919cf5a02a48edbf3ec7e8c",
     "source_catalog_label": "N 27 (Sofular)",
     "source_headings": [
@@ -881,7 +920,7 @@
   },
   {
     "record_id": "pisidian:ediana:27",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "0ee4cd176474a6981fde2b4e5c27ed25a1c6f3252b6d4ded630e9eea09828c43",
     "source_catalog_label": "N 28 (Sofular)",
     "source_headings": [
@@ -913,7 +952,7 @@
   },
   {
     "record_id": "pisidian:ediana:28",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "62a5f4d52c801e9daa17cad60c1400221459497dc88b733d82c03f944d6b3a8e",
     "source_catalog_label": "N 29 (Zindan Mağarası)",
     "source_headings": [
@@ -945,7 +984,7 @@
   },
   {
     "record_id": "pisidian:ediana:29",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "a1ec50a2ff03cdaad4f9409b254db5d2c392ffcdb6bb595c1d2be283bb0fbd95",
     "source_catalog_label": "N 30 (Zindan Mağarası)",
     "source_headings": [
@@ -977,7 +1016,7 @@
   },
   {
     "record_id": "pisidian:ediana:30",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "4fa097aa554d142731321baac5378faeeb9c8570df4bed60040a7b0ce67ded42",
     "source_catalog_label": "N 31 (Zindan Mağarası)",
     "source_headings": [
@@ -1009,7 +1048,7 @@
   },
   {
     "record_id": "pisidian:ediana:31",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "abfd7edfab29771b8167f71478516da6442a850c82024ab3690f17c8b5ec43f2",
     "source_catalog_label": "N 32 (Zindan Mağarası)",
     "source_headings": [
@@ -1041,7 +1080,7 @@
   },
   {
     "record_id": "pisidian:ediana:32",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "90065f6633806294a5e27f06f65868405648f31f80946b40daae0173ccea27bd",
     "source_catalog_label": "N 33 (Sofular)",
     "source_headings": [
@@ -1055,8 +1094,10 @@
     "edition_citations_verbatim": [
       "Brixhe et al. 1987a:155-157, Adiego 2012b:24, Brixhe 2016a:90"
     ],
-    "source_checks": [],
-    "priority": "BASELINE_COLLATION",
+    "source_checks": [
+      "PIS-2023-CATALOG-5"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [
       "PRIMARY_EDITION_NOT_COLLATED",
       "PHYSICAL_OBJECT_NOT_RECONCILED",
@@ -1073,7 +1114,7 @@
   },
   {
     "record_id": "pisidian:ediana:33",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "5224f3a6a75d41a2e699749442317171ef0a584ee1a1621ec6da5ae485c2ae01",
     "source_catalog_label": "N 34 (Sofular)",
     "source_headings": [
@@ -1105,7 +1146,7 @@
   },
   {
     "record_id": "pisidian:ediana:34",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "35ab93a255f7d138476cbdb9657f6b62973693d14ebe49867b7181bc44b6718d",
     "source_catalog_label": "N 35 (Zindan Mağarası)",
     "source_headings": [
@@ -1137,7 +1178,7 @@
   },
   {
     "record_id": "pisidian:ediana:35",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "68b6c3b400522f0fb6166ea24f1ce06efd3b89efe7d9a41cd5acdc12c583d377",
     "source_catalog_label": "N 35a (Sofular)",
     "source_headings": [
@@ -1169,7 +1210,7 @@
   },
   {
     "record_id": "pisidian:ediana:36",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "dd7bbf7b76abe9f413c7dc941a1471d04380a007af063b2d1de2d76aff4d2b9c",
     "source_catalog_label": "N 36 (Sofular)",
     "source_headings": [
@@ -1201,7 +1242,7 @@
   },
   {
     "record_id": "pisidian:ediana:37",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "27171d6f8199346ddfa97cb38c7c282cc6b1af481f5c6ba87a2ab3a815e4bffc",
     "source_catalog_label": "N 37 (Yayla de Senitli)",
     "source_headings": [
@@ -1215,8 +1256,10 @@
     "edition_citations_verbatim": [
       "Brixhe & Özsait 2001a:156-166, Adiego 2012b:17-20, Brixhe 2016a:91f."
     ],
-    "source_checks": [],
-    "priority": "BASELINE_COLLATION",
+    "source_checks": [
+      "PIS-ADIEGO2012-N37"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [
       "PRIMARY_EDITION_NOT_COLLATED",
       "PHYSICAL_OBJECT_NOT_RECONCILED",
@@ -1233,7 +1276,7 @@
   },
   {
     "record_id": "pisidian:ediana:38",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "17bab040cc1b748b97882c40ba360b877ae853ed87a1d334f61d1e275f806fb4",
     "source_catalog_label": "N 38 (Yayla de Senitli)",
     "source_headings": [
@@ -1265,7 +1308,7 @@
   },
   {
     "record_id": "pisidian:ediana:39",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "dea4dc69b489636e3523367e47742195f596d1fce3196a0fe92fa2972278916e",
     "source_catalog_label": "N 39",
     "source_headings": [
@@ -1279,8 +1322,10 @@
     "edition_citations_verbatim": [
       "Brixhe 2016a:93"
     ],
-    "source_checks": [],
-    "priority": "BASELINE_COLLATION",
+    "source_checks": [
+      "PIS-2023-CATALOG-3"
+    ],
+    "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [
       "PRIMARY_EDITION_NOT_COLLATED",
       "PHYSICAL_OBJECT_NOT_RECONCILED",
@@ -1297,7 +1342,7 @@
   },
   {
     "record_id": "pisidian:ediana:40",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "e93ef9fbacd3d3947052e78b01268b0ded0cad36ada61e8149392396bf5d2cf9",
     "source_catalog_label": "N 40",
     "source_headings": [
@@ -1330,7 +1375,7 @@
   },
   {
     "record_id": "pisidian:ediana:41",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "1e84c0414913c0b6181c7b649b34c1338990e525ab62673249d5336156367392",
     "source_catalog_label": "N 41",
     "source_headings": [
@@ -1362,7 +1407,7 @@
   },
   {
     "record_id": "pisidian:ediana:42",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "9f1f95b9f551ae03ed8c1cedd1651d8ba241857325f657024f636278d230aa46",
     "source_catalog_label": "N 42",
     "source_headings": [
@@ -1397,7 +1442,7 @@
   },
   {
     "record_id": "pisidian:ediana:43",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "e0819d5ea09fc4c4988598eafb2fbd13e6e1a03ae1379682646e305726d89a6c",
     "source_catalog_label": "N 43",
     "source_headings": [
@@ -1430,7 +1475,7 @@
   },
   {
     "record_id": "pisidian:ediana:44",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "49b050c5ead85b5cd1add110d2ee455a5d72436ec84a221b73eaea808282c4d4",
     "source_catalog_label": "N 44",
     "source_headings": [
@@ -1462,7 +1507,7 @@
   },
   {
     "record_id": "pisidian:ediana:45",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "a2538a476ff280e2b6a7d5669dfe75cbed5d351ad0d9d1f3958183b329eabf08",
     "source_catalog_label": "N 45",
     "source_headings": [
@@ -1495,7 +1540,7 @@
   },
   {
     "record_id": "pisidian:ediana:46",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "c0ce86bcdc1299c199ceaae13fb5909e0a3f10dc316d31d9d7ee1bcf3b17c56e",
     "source_catalog_label": "N 46",
     "source_headings": [
@@ -1527,7 +1572,7 @@
   },
   {
     "record_id": "pisidian:ediana:47",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "5aadf894cb11bad47647cfb97a0bc4565642b0bc1abf03a298cdccc6fde5b077",
     "source_catalog_label": "N 47",
     "source_headings": [
@@ -1560,7 +1605,7 @@
   },
   {
     "record_id": "pisidian:ediana:48",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "c1b40e0469f80f07ead1a39f0b06b68e0b96bbf076dd28ea98d8f8e3ba38887e",
     "source_catalog_label": "N 48",
     "source_headings": [
@@ -1594,7 +1639,7 @@
   },
   {
     "record_id": "pisidian:ediana:49",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "fd29aa2b71b718fba71328a7ff103d6187dfebcf3a3c15b42379f99f029135f4",
     "source_catalog_label": "N 49",
     "source_headings": [
@@ -1628,7 +1673,7 @@
   },
   {
     "record_id": "pisidian:ediana:50",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "cf5917a34d087a4f99118fff97abd05c1dff683778229e2cda14dec70cbbb76e",
     "source_catalog_label": "S 01 (Kesme)",
     "source_headings": [
@@ -1665,7 +1710,7 @@
   },
   {
     "record_id": "pisidian:ediana:51",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "b07c62ac14e2c7d0886e47810d64390e49a13b5afb6a730e2811344016dd0cff",
     "source_catalog_label": "S 02 (Kesme)",
     "source_headings": [
@@ -1712,7 +1757,7 @@
   },
   {
     "record_id": "pisidian:ediana:52",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "ed33eeddd078b57e120146d61f0a9163bcbe8f3ecada375cce5b97a50ca68a8d",
     "source_catalog_label": "S 03 (Değirmenözü)",
     "source_headings": [
@@ -1751,7 +1796,7 @@
   },
   {
     "record_id": "pisidian:ediana:53",
-    "evidence_fingerprint": "2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324",
+    "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
     "record_sha256": "e39d9bb6f2d1fbfa5100eddcebfec1287704a8e9359ca43e4208e8df1ce5f9d4",
     "source_catalog_label": "S 04 (Değirmenözü)",
     "source_headings": [
@@ -1769,7 +1814,8 @@
       "Neumann & Fuhrmann 2005a:13-18, Brixhe & Özsait 2013a:234, 245f., Adiego 2012b:21, 25, Brixhe 2016a:100-102"
     ],
     "source_checks": [
-      "PIS-PRIMARY-53"
+      "PIS-PRIMARY-53",
+      "PIS-ADIEGO2012-CLASSIFICATION"
     ],
     "priority": "TARGETED_SOURCE_CONFLICT",
     "blocked_reasons": [

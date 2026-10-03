@@ -5,7 +5,7 @@ Source label: N 25 (Sofular)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `b5e0936dfe0157656e29cd23d12db28264ae2eee72c7f8f88a9da6cf1a410e18`
-Evidence fingerprint: `2f599770518c4f500348624e343bc82652421efa35fb1b8ba0f9c28445f5b324`
+Evidence fingerprint: `0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358`
 
 ## Captured source evidence
 
@@ -25,7 +25,23 @@ Source row · 1; JSON pointer:
 
 ## Source checks and unresolved questions
 
-No targeted source inspection has yet been linked to this record. Consult the edition citations and [source access log](../../research/source-access.json).
+### PIS-N25-2023
+
+Source: [https://akmedmedia.ku.edu.tr/Adalya/Adalya_2023/Coskun_Abuagla_Offprint.pdf](https://akmedmedia.ku.edu.tr/Adalya/Adalya_2023/Coskun_Abuagla_Offprint.pdf)
+
+Locators: printed p.188 no.2, n.12 (PDF page 10); fig.2
+
+The 2023 paper separates the ending into a third name, challenging the older continuous reading. Both reading and grammatical analysis require adjudication.
+
+Attributed scholarly proposal for names_and_segmentation; published vacat markers omitted from this comparison excerpt:
+
+````text
+Βα Νω Ρις
+````
+
+- Verify inventory concordance and current location
+- Compare signs and line division against the published photographs and squeezes
+- Assess grammatical interpretation separately from transcription
 
 ## Record a decision
 
