@@ -1,0 +1,22 @@
+{
+  "checked_on": "2026-10-03",
+  "scope": "Discovery and inspection leads; no automatic snapshot expansion",
+  "entries": [
+    {
+      "title": "The longest Pisidian inscription (Kesme 2)",
+      "attribution": "Ignasi-Xavier Adiego, 2017",
+      "locator": "https://www.jolr.ru/files/(202)jlr2017-15-1-2(1-18).pdf",
+      "inspection_state": "FULL_TEXT_ACQUIRED; edition interpretation not admitted",
+      "canonical_admission": false,
+      "redistribution_permission": "NOT_ESTABLISHED; link and metadata only"
+    },
+    {
+      "title": "Marginal Languages: Sidetic and Pisidian",
+      "attribution": "Stella Merlin and Valerio Pisaniello, 2025",
+      "locator": "10.1163/9789004729704_017",
+      "inspection_state": "METADATA_ONLY; full PDF access blocked",
+      "canonical_admission": false,
+      "redistribution_permission": "NOT_ESTABLISHED; link and metadata only"
+    }
+  ]
+}

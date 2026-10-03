@@ -1,0 +1,19 @@
+{
+  "issues": [
+    {
+      "issue": "Unresolved bibliography keys",
+      "keys": [
+        "Borchhardt et al. 1975a",
+        "Brixhe et al. 1987a"
+      ],
+      "decision": "Empty literature-manager results are unresolved, not evidence that publications do not exist"
+    }
+  ],
+  "correction_history": [
+    {
+      "date": "2026-10-03",
+      "version": "0.2.0",
+      "change": "Added governance controls without replacing source readings or admitting objects"
+    }
+  ]
+}

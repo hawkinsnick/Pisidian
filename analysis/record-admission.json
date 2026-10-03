@@ -1,0 +1,1334 @@
+[
+  {
+    "record_id": "pisidian:ediana:0",
+    "lines": [
+      {
+        "source_pointer": "/N 01 (Sofular)/1",
+        "reading_sha256": "7b5cd6f79b003b45d6109b24c000e4f7c7d8a215c97efabfd04dfa8b5d925806",
+        "syntactic_flags": [
+          "brackets"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/N 01 (Sofular)/2",
+        "reading_sha256": "03d9c79b3cb37f5ccef44db4c8e06237cfbbd618793225e0b11241932011bb92",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:1",
+    "lines": [
+      {
+        "source_pointer": "/N 02 (Sofular)/1",
+        "reading_sha256": "468eabd5b8690bc28e16af570a076a0c2a7be679e3a8fa14706754f110a82f56",
+        "syntactic_flags": [
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/N 02 (Sofular)/2",
+        "reading_sha256": "e9dd5c9e061e2228228558c8f88c9c03e1c7e690d452cfb4f41f7f1addc0cca0",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:2",
+    "lines": [
+      {
+        "source_pointer": "/N 03 (Sofular)/1",
+        "reading_sha256": "a3584258c6fceea38ee865c9c431e86d71a6b9b0477fc75adfd827b7506b3b1e",
+        "syntactic_flags": [
+          "brackets"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:3",
+    "lines": [
+      {
+        "source_pointer": "/N 04 (Sofular)/1",
+        "reading_sha256": "b64e17a207edf0c184801c676b1fe7768fd070b1596fa6066ebe039a4379de0b",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/N 04 (Sofular)/2",
+        "reading_sha256": "37884dcb9aa913e8601442b05e209f4d9f1c6dee6f793c9bd58f6454c7510e6b",
+        "syntactic_flags": [
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:4",
+    "lines": [
+      {
+        "source_pointer": "/N 05 (Sofular)/1",
+        "reading_sha256": "4e159d7347602e4fe67cf019b9df188afcecdcb8137b0d438646b55fd67f3b48",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/N 05 (Sofular)/2",
+        "reading_sha256": "bc3f4bfb0588fb4feebbb8fb583d5826f3ed2da29d2f0a2262a2ccad7d4d46a4",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:5",
+    "lines": [
+      {
+        "source_pointer": "/N 06 (Sofular)/1",
+        "reading_sha256": "5daa17c0041e42f91bfd52173c35b74842b28c17bc144df854c6899e73a0d701",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:6",
+    "lines": [
+      {
+        "source_pointer": "/N 07 (Sofular)/1",
+        "reading_sha256": "4e159d7347602e4fe67cf019b9df188afcecdcb8137b0d438646b55fd67f3b48",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/N 07 (Sofular)/2",
+        "reading_sha256": "04c9e31c6d40230a8b52aaf912d1791ee35856366f9ba56891bfbfbab949ee8e",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:7",
+    "lines": [
+      {
+        "source_pointer": "/N 08 (Sofular)/1",
+        "reading_sha256": "2ed5ac5b9c8ade9409baa6c21350f8a3bc768cf4c5afc3d42ca09a018534338e",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:8",
+    "lines": [
+      {
+        "source_pointer": "/N 09 (Sofular)/1",
+        "reading_sha256": "620ad3115ed6fa098590d26fd518e0aeb95ea87d44b7da199840e823c9c4ccf9",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:9",
+    "lines": [
+      {
+        "source_pointer": "/N 10 (Sofular)/1",
+        "reading_sha256": "f2058552f225ac9f926f008baebc7552555f9afe5a04fb8c7673e74a67d83ad1",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/N 10 (Sofular)/2",
+        "reading_sha256": "99b6c510d06616cab6b5bfed87f735a5622da3495d9dfda9200e317b6b8d9a0a",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:10",
+    "lines": [
+      {
+        "source_pointer": "/N 11 (Sofular)/1",
+        "reading_sha256": "eca80257b950343218e670597e495160a9eabe6f8903bf21f4c5395a5daa9000",
+        "syntactic_flags": [
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:11",
+    "lines": [
+      {
+        "source_pointer": "/N 12 (Sofular)/1",
+        "reading_sha256": "62702dd5d8144d5bc4cee0f03da4e19324dbd614c645e08a8d062f39b566be1a",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/N 12 (Sofular)/2",
+        "reading_sha256": "4d4d647d5fb83704ae9975d95941289da84d307d9b7530326fa9a60a6607f36a",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:12",
+    "lines": [
+      {
+        "source_pointer": "/N 13 (Sofular)/1",
+        "reading_sha256": "5d0d934e40e1f4e53a02398502f0edf45356f4e18d168af8764948c5ae503f58",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/N 13 (Sofular)/2",
+        "reading_sha256": "4bdbd6ea85f6c385469f4cd23724cd811fee315d321cd82f55151455478f9357",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:13",
+    "lines": [
+      {
+        "source_pointer": "/N 14 (Sofular)/1",
+        "reading_sha256": "74a9d5ba37cfa82c52581d4cd1b722f93ae37f312a79cd294ad3a16201e61d5f",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:14",
+    "lines": [
+      {
+        "source_pointer": "/N 15 (Sofular)/1",
+        "reading_sha256": "cc9ba04af269d0a9d781e6d57e3ee8feb9fbf9ff9c08c0d6d5171fd678dd1f11",
+        "syntactic_flags": [
+          "brackets"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:15",
+    "lines": [
+      {
+        "source_pointer": "/N 16 (Sofular)/1",
+        "reading_sha256": "e26189eb21fc47b130c4c2ad1a6f598ce7338fb764aa7b554878667607755da7",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "NO_ROW_EDITION_CITATION"
+  },
+  {
+    "record_id": "pisidian:ediana:16",
+    "lines": [
+      {
+        "source_pointer": "/N 17 (Sofular)/1",
+        "reading_sha256": "1920133bd6717533deea9cd749d512c07019052578fb6182ae8a686e84c81e59",
+        "syntactic_flags": [
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:17",
+    "lines": [
+      {
+        "source_pointer": "/N 18 (Collection Rahmi Koç)/1",
+        "reading_sha256": "9db7f98d0276625c894d87a7d07b15430108088e8cd449c73b6f748229072fd2",
+        "syntactic_flags": [
+          "brackets",
+          "combining_underdot",
+          "ellipsis"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/N 18 (Collection Rahmi Koç)/2",
+        "reading_sha256": "0af2664156f8e397b51a8876b2c19c8706556f82856bf5f0808ac24c0ffc1a25",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:18",
+    "lines": [
+      {
+        "source_pointer": "/N 19 (Collection Rahmi Koç)/1",
+        "reading_sha256": "71b6af91e32873426c976321255990ca9707fa95859abe6d4803f44167d5f14e",
+        "syntactic_flags": [
+          "brackets",
+          "ellipsis"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/N 19 (Collection Rahmi Koç)/2",
+        "reading_sha256": "f952a6e3a14dafef666e09d96784a9535d79e13ef0982cbefcd14318c8bc7678",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:19",
+    "lines": [
+      {
+        "source_pointer": "/N 20 (Collection Rahmi Koç)/1",
+        "reading_sha256": "c69a0a4b51670b1cd620d1c32a1368fc0991ee9151b2c5bbb9578c56f58baba5",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:20",
+    "lines": [
+      {
+        "source_pointer": "/N 21 (Collection Rahmi Koç)/1",
+        "reading_sha256": "8760bc4ee20174b852f623fde993826b3f7bf418ddce30f6659c4f5602950e3f",
+        "syntactic_flags": [
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:21",
+    "lines": [
+      {
+        "source_pointer": "/N 22 (Collection Rahmi Koç)/1",
+        "reading_sha256": "fc4575633650f32c90f1e5c38bac217e95ad1d91ec58669ac29c6b58c4188c0a",
+        "syntactic_flags": [
+          "brackets",
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/N 22 (Collection Rahmi Koç)/2",
+        "reading_sha256": "fdc3311b85836ad2667397a72cb39868d63c2453ad0d556993cd827d9da99c71",
+        "syntactic_flags": [
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:22",
+    "lines": [
+      {
+        "source_pointer": "/N 23 (Sofular)/1",
+        "reading_sha256": "34975ca1d5ea90dc67630276b73887735aa6b9a88cc8610effdb8ff726c92ae5",
+        "syntactic_flags": [
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/N 23 (Sofular)/2",
+        "reading_sha256": "5ac8e53e911a518e53b933087320c62e33d9b684c8f9b897ea950bfc6f29c04c",
+        "syntactic_flags": [
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:23",
+    "lines": [
+      {
+        "source_pointer": "/N 24 (Sofular)/1",
+        "reading_sha256": "0d257cf1a6c8f21837e045555f7e9fdf8290484bd6202937afb6f2a19afe27d3",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:24",
+    "lines": [
+      {
+        "source_pointer": "/N 25 (Sofular)/1",
+        "reading_sha256": "a8ae7354219134dc78d8384fcd8177c9128b506f61dbf85141d9d242ed06b00e",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:25",
+    "lines": [
+      {
+        "source_pointer": "/N 26 (Sofular)/1",
+        "reading_sha256": "fb28a50129a5e27a95a712dca69be531990fb499afe9c5ef2ad49068f11a8cae",
+        "syntactic_flags": [
+          "brackets",
+          "ellipsis"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:26",
+    "lines": [
+      {
+        "source_pointer": "/N 27 (Sofular)/1",
+        "reading_sha256": "1b248d8393a87771982fb9ba495e163ae8e63bc11d2b6995a43f9b41b5466a03",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:27",
+    "lines": [
+      {
+        "source_pointer": "/N 28 (Sofular)/1",
+        "reading_sha256": "fb5fd4e4a71711d74397cdaa7642cb033442a36db84d280e073ca69a7c59192a",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:28",
+    "lines": [
+      {
+        "source_pointer": "/N 29 (Zindan Mağarası)/1",
+        "reading_sha256": "3b8a91ace6e90768a4c140980f32413140dfd13bf18f49a8fc36aa15019ad111",
+        "syntactic_flags": [
+          "brackets"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:29",
+    "lines": [
+      {
+        "source_pointer": "/N 30 (Zindan Mağarası)/1",
+        "reading_sha256": "909003514bcc5e536dcf7402eae27b82602ea596853db52ed828befbf9733f4d",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:30",
+    "lines": [
+      {
+        "source_pointer": "/N 31 (Zindan Mağarası)/1",
+        "reading_sha256": "6dcd73b57375f34d2da78993bca5b5a1c352d9c12f1e72840b7fb5921e7a69f8",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:31",
+    "lines": [
+      {
+        "source_pointer": "/N 32 (Zindan Mağarası)/1",
+        "reading_sha256": "4b6ea489f010eaaff83a8d30c4a47d2aca7a51be54d1db8832013620395e9b08",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:32",
+    "lines": [
+      {
+        "source_pointer": "/N 33 (Sofular)/1",
+        "reading_sha256": "0ce5c1a35a8a97d55e8af0a95cc057ea0c082dfcaa0363d60daaaef439112e0d",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:33",
+    "lines": [
+      {
+        "source_pointer": "/N 34 (Sofular)/1",
+        "reading_sha256": "a0adf870ece5000a2bc3a7fed736aa11d04e064a13a1af9b49a9f3b454fcbedf",
+        "syntactic_flags": [
+          "brackets"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:34",
+    "lines": [
+      {
+        "source_pointer": "/N 35 (Zindan Mağarası)/1",
+        "reading_sha256": "8a8a76052a022ab3648b43b22749ee3bcfd9a307779792ff5fd441411a2db948",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:35",
+    "lines": [
+      {
+        "source_pointer": "/N 35a (Sofular)/1",
+        "reading_sha256": "f87e57811180cc82425bad0405617829a58a42f19949bc8e63d04b9233d8ef7a",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:36",
+    "lines": [
+      {
+        "source_pointer": "/N 36 (Sofular)/1",
+        "reading_sha256": "8c14c3557397944cd2ad7ad73415269637144a6bf51a563ae22a9d8088fee363",
+        "syntactic_flags": [
+          "ellipsis"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:37",
+    "lines": [
+      {
+        "source_pointer": "/N 37 (Yayla de Senitli)/1",
+        "reading_sha256": "4de7af6dd41a2fb2f28d7857e77a46af320f03b3d12560f1a6523dfe52802c90",
+        "syntactic_flags": [
+          "brackets",
+          "question_mark"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:38",
+    "lines": [
+      {
+        "source_pointer": "/N 38 (Yayla de Senitli)/1",
+        "reading_sha256": "3e0b5f9094bca7d214c3f3c29d83aec44b87ac12c8f77b6c27eed26dea2c903e",
+        "syntactic_flags": [
+          "brackets"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:39",
+    "lines": [
+      {
+        "source_pointer": "/N 39/1",
+        "reading_sha256": "fd76cc418aab35568c789c3a7ff2d00d9c3743b2d1f512d543fb0ff8cdad6aa9",
+        "syntactic_flags": [
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:40",
+    "lines": [
+      {
+        "source_pointer": "/N 40/1",
+        "reading_sha256": "5ed7d629908d6fe8d3222b531187854af881579f0e50cc55312803702f3ab5bd",
+        "syntactic_flags": [
+          "brackets",
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/N 40/2",
+        "reading_sha256": "a7fe96ef87025153b21ec679af322394160ea18c5c9bd3c9fd8926fe4d85b4fe",
+        "syntactic_flags": [
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:41",
+    "lines": [
+      {
+        "source_pointer": "/N 41/1",
+        "reading_sha256": "2cc38bbfe9bbc843dd1ea2834d800f6a132cbe1fd4f3e8e1b6abace009088f87",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:42",
+    "lines": [
+      {
+        "source_pointer": "/N 42/1",
+        "reading_sha256": "e867373a0cf76c04cf33b336f1f4c8897c4e63d4eb8a352414b848edc892edc7",
+        "syntactic_flags": [
+          "brackets",
+          "combining_underdot",
+          "ellipsis"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/N 42/2",
+        "reading_sha256": "83778cfcb1ddd76843628fac010dff868bd4e91c8e786db858fe25a0ff68caa8",
+        "syntactic_flags": [
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/N 42/3",
+        "reading_sha256": "660178a39c7614bac18521f09cd6729c02b55c3102af1c3c92167e3f668d8f1d",
+        "syntactic_flags": [
+          "brackets",
+          "combining_underdot",
+          "ellipsis"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/N 42/4",
+        "reading_sha256": "5dd06394f1481e8ef13df3b8547934c3e20c8d3ef8dddaa9556dbd20c16798d4",
+        "syntactic_flags": [
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:43",
+    "lines": [
+      {
+        "source_pointer": "/N 43/1",
+        "reading_sha256": "1287b32952b609a26634ea54f23eb9e65ce29a04a4734f18f57e25bf9d55b916",
+        "syntactic_flags": [
+          "brackets",
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/N 43/2",
+        "reading_sha256": "81c865b142080c23301c2b8d86935d9cf963dd43f8df7d72c2a79517138b3c94",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:44",
+    "lines": [
+      {
+        "source_pointer": "/N 44/1",
+        "reading_sha256": "3eb59fe97666cc74398e85fc507bae07865e862f8e9b31465da85a207a204550",
+        "syntactic_flags": [
+          "brackets",
+          "ellipsis"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:45",
+    "lines": [
+      {
+        "source_pointer": "/N 45/1",
+        "reading_sha256": "0143a285c14878cfff8bb6f4d01d219a83c0748e427b925117557f18f9654e7c",
+        "syntactic_flags": [
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/N 45/2",
+        "reading_sha256": "6635ca2d19e6000e5372c9fe1723b54803d142733b3b22d7f419b2a10dfa1cba",
+        "syntactic_flags": [
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:46",
+    "lines": [
+      {
+        "source_pointer": "/N 46/1",
+        "reading_sha256": "d4e7494aaa800bdfa6129ff4416a0861b1b2361f805087c8b07f8bbffd84279c",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:47",
+    "lines": [
+      {
+        "source_pointer": "/N 47/1",
+        "reading_sha256": "e466dca665a937829accef417588ab2527afebc21a17eb9a0d61f4047ac81774",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/N 47/2",
+        "reading_sha256": "bfcb5a0450239223b36f72e1862410b60784f99ef6073da2dcf7e8189da9398a",
+        "syntactic_flags": [
+          "brackets",
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:48",
+    "lines": [
+      {
+        "source_pointer": "/N 48/1",
+        "reading_sha256": "a9aa6d719107fd5c23a2b439ee0fb56f7bc98a25365c217132893c795e499350",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/N 48/2",
+        "reading_sha256": "f37ecae9c1ce6c1b7e088faed561974fb2bc29258623f8c8cd7c496778d40cce",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:49",
+    "lines": [
+      {
+        "source_pointer": "/N 49/1",
+        "reading_sha256": "11cb4b62c411802f833fe1e9be46ccb878578618f9833e3df507eea6f9b14855",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/N 49/2",
+        "reading_sha256": "bdf7c46866b308ec2c5dca85f380b39fed22f28435778ccaf6c1018fa3cff80f",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/N 49/3",
+        "reading_sha256": "8497e9561f0ec162d504167e9caf3f999ce1b8143ff2e2ca22e3a31f3f6ec4f7",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:50",
+    "lines": [
+      {
+        "source_pointer": "/S 01 (Kesme)/1",
+        "reading_sha256": "0e8e093e53baadf08740d162e929b4da70c287afa9feba799684ab85d988231d",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 01 (Kesme)/2",
+        "reading_sha256": "992f5c120bfeff355416bc93f209d3bd3fcbc2ec1010436d7c161e4f1393a310",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 01 (Kesme)/3",
+        "reading_sha256": "8e2cc44fb4b246223acbfac540157a1a98aa822c8df5e8a85015357f9e25b2d1",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 01 (Kesme)/4",
+        "reading_sha256": "78d86d66a463ba1e8168b48059b1198ec2d69c2191b91a2222a241877b907621",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:51",
+    "lines": [
+      {
+        "source_pointer": "/S 02 (Kesme)/1",
+        "reading_sha256": "7e21d7cc2d4928b32449fcc18dc00d964a0fcf252925e0fefed550eaf1895c94",
+        "syntactic_flags": [
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 02 (Kesme)/2",
+        "reading_sha256": "726b2fbf7486c2e0df82800c7d8c5047ff709bcf5ecc3e616e72522f54af8496",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 02 (Kesme)/3",
+        "reading_sha256": "658330e9ec73ba284d1a25e63b7253635d926a45401e6cab9258106ffc3b73ba",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 02 (Kesme)/4",
+        "reading_sha256": "bccb457d0289e516d0461b0c67d6f13c1ed1307b9ab2922a126f8cecff109979",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 02 (Kesme)/5",
+        "reading_sha256": "0f02121e476752c17d6a47b2e50cf0aadbcfd5a4afef7afa4d7e074039676dd5",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 02 (Kesme)/6",
+        "reading_sha256": "26cf95f3aa46c5cf6fe3d22361da14511b1697daf0648447fa68be9544cd640a",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 02 (Kesme)/7",
+        "reading_sha256": "1d7b0dc3cf524fec305af1302d42c1b487b643a82f88ee7588fc0dca04ab568d",
+        "syntactic_flags": [
+          "question_mark"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 02 (Kesme)/8",
+        "reading_sha256": "a08c36685eb30080e7b24255d304e567a70f85e91ba04dc6b5f1fa0bed1d2dde",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 02 (Kesme)/9",
+        "reading_sha256": "6f3a2c8ed12bca9e2efd19575f5bb59a8d15836b7d7334e3700422d265f5278f",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 02 (Kesme)/10",
+        "reading_sha256": "b24fef985ab1e487fae0a4e098fb472f0e8f41241fcfbfa8ced52066a4cdb1ff",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 02 (Kesme)/11",
+        "reading_sha256": "8548738149c564ed7cba8b8b418207c9cc12cdee9ddf1ad85f9ef18837dfb88c",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 02 (Kesme)/12",
+        "reading_sha256": "7095e5435ef9a195f802ac555abf9639af9732221f171738b9ef9b31a22ef3f4",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 02 (Kesme)/13",
+        "reading_sha256": "83aa4928f7249523aed6dd1f0a81f7ccaff9c9741ee90013ca210717f0a70891",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:52",
+    "lines": [
+      {
+        "source_pointer": "/S 03 (Değirmenözü)/1",
+        "reading_sha256": "e06061634b2f75b7cedccbe719eca1269710919464b2ddd3bcff4f3706b1832d",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 03 (Değirmenözü)/2",
+        "reading_sha256": "e18b6c45a741702319aac76f0af3e9a9834c44654776ea0dffb3efa55f1042a8",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 03 (Değirmenözü)/3",
+        "reading_sha256": "a7ebe4c015ef279657de8336a0890cac176d42bf1eb00b2aa30f6c57e7f0f124",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 03 (Değirmenözü)/4",
+        "reading_sha256": "82eb0b4664d9244fbe4bf8a5f6d0d618743011108db0764ee5b4f6c34a6613c0",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 03 (Değirmenözü)/5",
+        "reading_sha256": "ec072b4c184847b32a8a47bb9d9220d196c280113e8d3115ee0e3112a4677bf0",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 03 (Değirmenözü)/6",
+        "reading_sha256": "76a61fdae4fae62315e2033f9a7b5e8bca109986989736f022ceb582c03598c0",
+        "syntactic_flags": [],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  },
+  {
+    "record_id": "pisidian:ediana:53",
+    "lines": [
+      {
+        "source_pointer": "/S 04 (Değirmenözü)/1",
+        "reading_sha256": "a0dc79cc7158371fb6c3d1ae83bf8d7f369589eb8988252ddcd0b1ed4727b481",
+        "syntactic_flags": [
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 04 (Değirmenözü)/2",
+        "reading_sha256": "7fbe5aed6e35be576d1a0025f70f607c25e6ba8f50a172c26926314714beef99",
+        "syntactic_flags": [
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 04 (Değirmenözü)/3",
+        "reading_sha256": "810bbb506a26a91a6e5d01c6fbf5f7afdb28e1c9456648388f405ba2f23c1e0e",
+        "syntactic_flags": [
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      },
+      {
+        "source_pointer": "/S 04 (Değirmenözü)/4",
+        "reading_sha256": "9834ec4de6dabae86c60acd0f98a343d5e13490f1238f1fd8bcbd217683042e0",
+        "syntactic_flags": [
+          "combining_underdot"
+        ],
+        "epigraphic_certainty": "NOT_ADJUDICATED"
+      }
+    ],
+    "analytical_admission": false,
+    "blocked_reasons": [
+      "PRIMARY_EDITION_NOT_COLLATED",
+      "PHYSICAL_OBJECT_NOT_RECONCILED",
+      "INDEPENDENT_REVIEW_ABSENT"
+    ],
+    "edition_locator_status": "SOURCE_CITATIONS_UNRESOLVED"
+  }
+]

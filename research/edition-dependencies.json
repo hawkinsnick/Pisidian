@@ -1,0 +1,817 @@
+[
+  {
+    "record_id": "pisidian:ediana:0",
+    "source_document_id": "0",
+    "catalog_label": "N 01 (Sofular)",
+    "source_headings": [
+      "· N1 (2 men, 1 woman)"
+    ],
+    "source_citations_verbatim": [
+      "Ramsay 1895a:356f., Brixhe 2016a:78f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:1",
+    "source_document_id": "1",
+    "catalog_label": "N 02 (Sofular)",
+    "source_headings": [
+      "· N2 (bust of a man)"
+    ],
+    "source_citations_verbatim": [
+      "Ramsay 1895a:357, Borchhardt et al. 1975a:69, Brixhe 2016a:79"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:2",
+    "source_document_id": "2",
+    "catalog_label": "N 03 (Sofular)",
+    "source_headings": [
+      "· N3 (1 man)",
+      "· 2"
+    ],
+    "source_citations_verbatim": [
+      "Ramsay 1895a:357f., Brixhe 2016a:79"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:3",
+    "source_document_id": "3",
+    "catalog_label": "N 04 (Sofular)",
+    "source_headings": [
+      "· N4 (1 man, 1 woman carrying a child)"
+    ],
+    "source_citations_verbatim": [
+      "Ramsay 1895a:358, Brixhe 2016a:79"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:4",
+    "source_document_id": "4",
+    "catalog_label": "N 05 (Sofular)",
+    "source_headings": [
+      "· N5 (1 man)"
+    ],
+    "source_citations_verbatim": [
+      "Ramsay 1895a:358, Borchhardt et al. 1975a:70, Brixhe 2016a:80"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:5",
+    "source_document_id": "5",
+    "catalog_label": "N 06 (Sofular)",
+    "source_headings": [
+      "· N6 (1 man)",
+      "· 2"
+    ],
+    "source_citations_verbatim": [
+      "Ramsay 1895a:359, Brixhe 2016a:80"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:6",
+    "source_document_id": "6",
+    "catalog_label": "N 07 (Sofular)",
+    "source_headings": [
+      "· N7 (1 man)"
+    ],
+    "source_citations_verbatim": [
+      "Ramsay 1895a:359, Brixhe 2016a:80f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:7",
+    "source_document_id": "7",
+    "catalog_label": "N 08 (Sofular)",
+    "source_headings": [
+      "· N8 (1 woman)"
+    ],
+    "source_citations_verbatim": [
+      "Ramsay 1895a:359, Brixhe 2016a:81"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:8",
+    "source_document_id": "8",
+    "catalog_label": "N 09 (Sofular)",
+    "source_headings": [
+      "· N9 (1 woman)"
+    ],
+    "source_citations_verbatim": [
+      "Ramsay 1895a:359, Brixhe 2016a:81"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:9",
+    "source_document_id": "9",
+    "catalog_label": "N 10 (Sofular)",
+    "source_headings": [
+      "· N10 (1 man, 1 woman)"
+    ],
+    "source_citations_verbatim": [
+      "Ramsay 1895a:360, Brixhe 2016a:81f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:10",
+    "source_document_id": "10",
+    "catalog_label": "N 11 (Sofular)",
+    "source_headings": [
+      "· N11 (1 man, 1 woman)"
+    ],
+    "source_citations_verbatim": [
+      "Ramsay 1895a:360f., Borchhardt et al. 1975a:70f., Brixhe 2016a:82"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:11",
+    "source_document_id": "11",
+    "catalog_label": "N 12 (Sofular)",
+    "source_headings": [
+      "· N12 (bust of a man)",
+      "· 3"
+    ],
+    "source_citations_verbatim": [
+      "Ramsay 1895a:361,  Brixhe 2016a:82f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:12",
+    "source_document_id": "12",
+    "catalog_label": "N 13 (Sofular)",
+    "source_headings": [
+      "· N13 (1 man, 1 woman)"
+    ],
+    "source_citations_verbatim": [
+      "Ramsay 1895a:361f., Brixhe 2016a:83f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:13",
+    "source_document_id": "13",
+    "catalog_label": "N 14 (Sofular)",
+    "source_headings": [
+      "· N14 (1 woman)",
+      "· 2"
+    ],
+    "source_citations_verbatim": [
+      "Ramsay 1895a:362, Brixhe 2016a:84"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:14",
+    "source_document_id": "14",
+    "catalog_label": "N 15 (Sofular)",
+    "source_headings": [
+      "· N15 (1 man)"
+    ],
+    "source_citations_verbatim": [
+      "Ramsay 1895a:362, Brixhe 2016a:84"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:15",
+    "source_document_id": "15",
+    "catalog_label": "N 16 (Sofular)",
+    "source_headings": [
+      "· N16 (1 woman)"
+    ],
+    "source_citations_verbatim": [],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:16",
+    "source_document_id": "16",
+    "catalog_label": "N 17 (Sofular)",
+    "source_headings": [
+      "· N17 (bust of a man)"
+    ],
+    "source_citations_verbatim": [
+      "Ramsay 1895a:362, Brixhe 2016a:84f.",
+      "Borchhardt et al. 1975a:71f., Brixhe 2016a:85"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:17",
+    "source_document_id": "17",
+    "catalog_label": "N 18 (Collection Rahmi Koç)",
+    "source_headings": [
+      "· N18 (1 man, 1 woman, 1 man)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe & Gibson 1982a:147-149, Brixhe 2016a:86"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:18",
+    "source_document_id": "18",
+    "catalog_label": "N 19 (Collection Rahmi Koç)",
+    "source_headings": [
+      "· N19 (1 man, 1 girl, 1 woman)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe & Gibson 1982a:151f., Brixhe 2016a:86"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:19",
+    "source_document_id": "19",
+    "catalog_label": "N 20 (Collection Rahmi Koç)",
+    "source_headings": [
+      "· N20 (2 women)",
+      "· 2"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe & Gibson 1982a:155f., Adiego 2012b:23, Brixhe 2016a:86"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:20",
+    "source_document_id": "20",
+    "catalog_label": "N 21 (Collection Rahmi Koç)",
+    "source_headings": [
+      "· N21 (2 women)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe & Gibson 1982a160f., Brixhe 2016a:86f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:21",
+    "source_document_id": "21",
+    "catalog_label": "N 22 (Collection Rahmi Koç)",
+    "source_headings": [
+      "· N22 (1 woman, 2 men)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe & Gibson 1982a:164-166, Brixhe 2016a:87"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:22",
+    "source_document_id": "22",
+    "catalog_label": "N 23 (Sofular)",
+    "source_headings": [
+      "· N23 (1 man)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe et al. 1987a:135f., Adiego 2012b:23, Brixhe 2016a:87"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:23",
+    "source_document_id": "23",
+    "catalog_label": "N 24 (Sofular)",
+    "source_headings": [
+      "· N24 (bust of a man)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe et al. 1987a:136f., Adiego 2012b:24, Brixhe 2016a:87"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:24",
+    "source_document_id": "24",
+    "catalog_label": "N 25 (Sofular)",
+    "source_headings": [
+      "· N25 (bust of a man)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe et al.1987a:137f., Adiego 2012b:24, Brixhe 2016a:88"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:25",
+    "source_document_id": "25",
+    "catalog_label": "N 26 (Sofular)",
+    "source_headings": [
+      "· N26 (1 man)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe et al. 1987a:138f., Adiego 2012b:24, Brixhe 2016a:88"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:26",
+    "source_document_id": "26",
+    "catalog_label": "N 27 (Sofular)",
+    "source_headings": [
+      "· N27 (1 man)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe et al. 1987a:139, Adiego 2012b:24, Brixhe 2016a:88"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:27",
+    "source_document_id": "27",
+    "catalog_label": "N 28 (Sofular)",
+    "source_headings": [
+      "· N28. (no relief)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe et al. 1987a:140, Adiego 2012b:24, Brixhe 2016a:88"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:28",
+    "source_document_id": "28",
+    "catalog_label": "N 29 (Zindan Mağarası)",
+    "source_headings": [
+      "· N29 (1 man, 2 women)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe et al. 1987a:142-44, Adiego 2012b:24, Brixhe 2016a:88f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:29",
+    "source_document_id": "29",
+    "catalog_label": "N 30 (Zindan Mağarası)",
+    "source_headings": [
+      "· N30 (1 woman)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe et al. 1987a:147f., Adiego 2012b:24, Brixhe 2016a:89"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:30",
+    "source_document_id": "30",
+    "catalog_label": "N 31 (Zindan Mağarası)",
+    "source_headings": [
+      "· N31 (1 man, 2 women)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe et al. 1987a:148-151, Adiego 2012b:24, Brixhe 2016a:89"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:31",
+    "source_document_id": "31",
+    "catalog_label": "N 32 (Zindan Mağarası)",
+    "source_headings": [
+      "· N32 (1 man, 1 woman)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe et al. 1987a:151f., Brixhe 2016a:89f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:32",
+    "source_document_id": "32",
+    "catalog_label": "N 33 (Sofular)",
+    "source_headings": [
+      "· N33 (1 man, 1 girl, 1 woman)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe et al. 1987a:155-157, Adiego 2012b:24, Brixhe 2016a:90"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:33",
+    "source_document_id": "33",
+    "catalog_label": "N 34 (Sofular)",
+    "source_headings": [
+      "· N34 (relief lost?)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe et al. 1987a:158f., Adiego 2012b:24, Brixhe 2016a:90f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:34",
+    "source_document_id": "34",
+    "catalog_label": "N 35 (Zindan Mağarası)",
+    "source_headings": [
+      "· N 35 (no humans)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe et al. 1987a:91, Brixhe 2016a:91"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:35",
+    "source_document_id": "35",
+    "catalog_label": "N 35a (Sofular)",
+    "source_headings": [
+      "· N35a (bust of a woman)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe et al. 1987a:164, Brixhe 2016a:91"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:36",
+    "source_document_id": "36",
+    "catalog_label": "N 36 (Sofular)",
+    "source_headings": [
+      "· N36 (1 man)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe et al. 1987a:164f., Brixhe 2016a:91"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:37",
+    "source_document_id": "37",
+    "catalog_label": "N 37 (Yayla de Senitli)",
+    "source_headings": [
+      "· N37 (no relief)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe & Özsait 2001a:156-166, Adiego 2012b:17-20, Brixhe 2016a:91f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:38",
+    "source_document_id": "38",
+    "catalog_label": "N 38 (Yayla de Senitli)",
+    "source_headings": [
+      "· N38 (relief lost?)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe & Özsait 2001a:166-169, Adiego 2012b:25, Brixhe 2016a:93"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:39",
+    "source_document_id": "39",
+    "catalog_label": "N 39",
+    "source_headings": [
+      "· N39 (two women)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe 2016a:93"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:40",
+    "source_document_id": "40",
+    "catalog_label": "N 40",
+    "source_headings": [
+      "· N40 (one man)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe 2016a:93f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:41",
+    "source_document_id": "41",
+    "catalog_label": "N 41",
+    "source_headings": [
+      "· N41 (one or two men)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe 2016a:94"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:42",
+    "source_document_id": "42",
+    "catalog_label": "N 42",
+    "source_headings": [
+      "· N42 (one woman, three men)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe 2016a:94"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:43",
+    "source_document_id": "43",
+    "catalog_label": "N 43",
+    "source_headings": [
+      "· N43 (one woman, two men)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe 2016a:94"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:44",
+    "source_document_id": "44",
+    "catalog_label": "N 44",
+    "source_headings": [
+      "· N44 (one man, one woman, one child)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe 2016a:94f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:45",
+    "source_document_id": "45",
+    "catalog_label": "N 45",
+    "source_headings": [
+      "· N45 (two men)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe 2016a:95"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:46",
+    "source_document_id": "46",
+    "catalog_label": "N 46",
+    "source_headings": [
+      "· N46 (one man, one woman)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe 2016a:95"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:47",
+    "source_document_id": "47",
+    "catalog_label": "N 47",
+    "source_headings": [
+      "· N47 (two men, one woman)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe 2016a:95"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:48",
+    "source_document_id": "48",
+    "catalog_label": "N 48",
+    "source_headings": [
+      "· N48 (one man, one woman)",
+      "· 3"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe 2016a:95f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:49",
+    "source_document_id": "49",
+    "catalog_label": "N 49",
+    "source_headings": [
+      "· N49 (two men, one woman)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe 2016a:96"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:50",
+    "source_document_id": "50",
+    "catalog_label": "S 01 (Kesme)",
+    "source_headings": [
+      "· S1 (iconography lost?)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe & Özsait 2013a:235, Brixhe 2016a:97f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:51",
+    "source_document_id": "51",
+    "catalog_label": "S 02 (Kesme)",
+    "source_headings": [
+      "· S2 (iconography lost?)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe & Özsait 2013a:236f., Brixhe 2016a:98f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:52",
+    "source_document_id": "52",
+    "catalog_label": "S 03 (Değirmenözü)",
+    "source_headings": [
+      "· S3 (graffito)"
+    ],
+    "source_citations_verbatim": [
+      "Brixhe & Özsait 2013a:233f., Brixhe 2016a:99f."
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  },
+  {
+    "record_id": "pisidian:ediana:53",
+    "source_document_id": "53",
+    "catalog_label": "S 04 (Değirmenözü)",
+    "source_headings": [
+      "· S4 (no relief)"
+    ],
+    "source_citations_verbatim": [
+      "Neumann & Fuhrmann 2005a:13-18, Brixhe & Özsait 2013a:234, 245f., Adiego 2012b:21, 25, Brixhe 2016a:100-102"
+    ],
+    "citation_join": "UNRESOLVED; bibliographic search results are candidates, not edition equivalences",
+    "witness_family": "ediana-digital-snapshot",
+    "physical_object_id": null,
+    "independent_witness_count": null
+  }
+]
