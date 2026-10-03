@@ -1,0 +1,1798 @@
+[
+  {
+    "record_id": "pisidian:ediana:0",
+    "source_document_id": "0",
+    "source_catalog_label": "N 01 (Sofular)",
+    "source_response_groups": [
+      "N 01 (Sofular)"
+    ],
+    "source_headings": [
+      "· N1 (2 men, 1 woman)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "δωταρι μοσητως ειη δωτ[α]ρις",
+        "source_pointer": "/N 01 (Sofular)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "δωταρι ενεις",
+        "source_pointer": "/N 01 (Sofular)/2"
+      }
+    ],
+    "references": [
+      "Ramsay 1895a:356f., Brixhe 2016a:78f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:1",
+    "source_document_id": "1",
+    "source_catalog_label": "N 02 (Sofular)",
+    "source_response_groups": [
+      "N 02 (Sofular)"
+    ],
+    "source_headings": [
+      "· N2 (bust of a man)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "νι̣ μουσητος",
+        "source_pointer": "/N 02 (Sofular)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "δοτες",
+        "source_pointer": "/N 02 (Sofular)/2"
+      }
+    ],
+    "references": [
+      "Ramsay 1895a:357, Borchhardt et al. 1975a:69, Brixhe 2016a:79"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:2",
+    "source_document_id": "2",
+    "source_catalog_label": "N 03 (Sofular)",
+    "source_response_groups": [
+      "N 03 (Sofular)"
+    ],
+    "source_headings": [
+      "· N3 (1 man)",
+      "· 2"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "μοσητα δ[ο]τες",
+        "source_pointer": "/N 03 (Sofular)/1"
+      }
+    ],
+    "references": [
+      "Ramsay 1895a:357f., Brixhe 2016a:79"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:3",
+    "source_document_id": "3",
+    "source_catalog_label": "N 04 (Sofular)",
+    "source_response_groups": [
+      "N 04 (Sofular)"
+    ],
+    "source_headings": [
+      "· N4 (1 man, 1 woman carrying a child)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "μεμουα μουσητα",
+        "source_pointer": "/N 04 (Sofular)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "μα ε̣ιλ̣ος",
+        "source_pointer": "/N 04 (Sofular)/2"
+      }
+    ],
+    "references": [
+      "Ramsay 1895a:358, Brixhe 2016a:79"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:4",
+    "source_document_id": "4",
+    "source_catalog_label": "N 05 (Sofular)",
+    "source_response_groups": [
+      "N 05 (Sofular)"
+    ],
+    "source_headings": [
+      "· N5 (1 man)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "μουσητα",
+        "source_pointer": "/N 05 (Sofular)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "τας",
+        "source_pointer": "/N 05 (Sofular)/2"
+      }
+    ],
+    "references": [
+      "Ramsay 1895a:358, Borchhardt et al. 1975a:70, Brixhe 2016a:80"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:5",
+    "source_document_id": "5",
+    "source_catalog_label": "N 06 (Sofular)",
+    "source_response_groups": [
+      "N 06 (Sofular)"
+    ],
+    "source_headings": [
+      "· N6 (1 man)",
+      "· 2"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "γπουρωξα μουσητος",
+        "source_pointer": "/N 06 (Sofular)/1"
+      }
+    ],
+    "references": [
+      "Ramsay 1895a:359, Brixhe 2016a:80"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:6",
+    "source_document_id": "6",
+    "source_catalog_label": "N 07 (Sofular)",
+    "source_response_groups": [
+      "N 07 (Sofular)"
+    ],
+    "source_headings": [
+      "· N7 (1 man)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "μουσητα",
+        "source_pointer": "/N 07 (Sofular)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "γδασας",
+        "source_pointer": "/N 07 (Sofular)/2"
+      }
+    ],
+    "references": [
+      "Ramsay 1895a:359, Brixhe 2016a:80f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:7",
+    "source_document_id": "7",
+    "source_catalog_label": "N 08 (Sofular)",
+    "source_response_groups": [
+      "N 08 (Sofular)"
+    ],
+    "source_headings": [
+      "· N8 (1 woman)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "σλπουροξα (or read ΕΛΠΟΥΡΟΞΑ)",
+        "source_pointer": "/N 08 (Sofular)/1"
+      }
+    ],
+    "references": [
+      "Ramsay 1895a:359, Brixhe 2016a:81"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:8",
+    "source_document_id": "8",
+    "source_catalog_label": "N 09 (Sofular)",
+    "source_response_groups": [
+      "N 09 (Sofular)"
+    ],
+    "source_headings": [
+      "· N9 (1 woman)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "εια νις δοταις",
+        "source_pointer": "/N 09 (Sofular)/1"
+      }
+    ],
+    "references": [
+      "Ramsay 1895a:359, Brixhe 2016a:81"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:9",
+    "source_document_id": "9",
+    "source_catalog_label": "N 10 (Sofular)",
+    "source_response_groups": [
+      "N 10 (Sofular)"
+    ],
+    "source_headings": [
+      "· N10 (1 man, 1 woman)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "μενουα γδαβος",
+        "source_pointer": "/N 10 (Sofular)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "ουα νις βαβος!",
+        "source_pointer": "/N 10 (Sofular)/2"
+      }
+    ],
+    "references": [
+      "Ramsay 1895a:360, Brixhe 2016a:81f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:10",
+    "source_document_id": "10",
+    "source_catalog_label": "N 11 (Sofular)",
+    "source_response_groups": [
+      "N 11 (Sofular)"
+    ],
+    "source_headings": [
+      "· N11 (1 man, 1 woman)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "τ̣α γδαβος εδα γδαβος",
+        "source_pointer": "/N 11 (Sofular)/1"
+      }
+    ],
+    "references": [
+      "Ramsay 1895a:360f., Borchhardt et al. 1975a:70f., Brixhe 2016a:82"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:11",
+    "source_document_id": "11",
+    "source_catalog_label": "N 12 (Sofular)",
+    "source_response_groups": [
+      "N 12 (Sofular)"
+    ],
+    "source_headings": [
+      "· N12 (bust of a man)",
+      "· 3"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "γδαβα μηνες",
+        "source_pointer": "/N 12 (Sofular)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "γδεβετις!",
+        "source_pointer": "/N 12 (Sofular)/2"
+      }
+    ],
+    "references": [
+      "Ramsay 1895a:361,  Brixhe 2016a:82f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:12",
+    "source_document_id": "12",
+    "source_catalog_label": "N 13 (Sofular)",
+    "source_response_groups": [
+      "N 13 (Sofular)"
+    ],
+    "source_headings": [
+      "· N13 (1 man, 1 woman)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "μηνει γδεβετις",
+        "source_pointer": "/N 13 (Sofular)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "ενα ουπερδοταις",
+        "source_pointer": "/N 13 (Sofular)/2"
+      }
+    ],
+    "references": [
+      "Ramsay 1895a:361f., Brixhe 2016a:83f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:13",
+    "source_document_id": "13",
+    "source_catalog_label": "N 14 (Sofular)",
+    "source_response_groups": [
+      "N 14 (Sofular)"
+    ],
+    "source_headings": [
+      "· N14 (1 woman)",
+      "· 2"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "εια γδεβετις",
+        "source_pointer": "/N 14 (Sofular)/1"
+      }
+    ],
+    "references": [
+      "Ramsay 1895a:362, Brixhe 2016a:84"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:14",
+    "source_document_id": "14",
+    "source_catalog_label": "N 15 (Sofular)",
+    "source_response_groups": [
+      "N 15 (Sofular)"
+    ],
+    "source_headings": [
+      "· N15 (1 man)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "τ[β]ερι νεις",
+        "source_pointer": "/N 15 (Sofular)/1"
+      }
+    ],
+    "references": [
+      "Ramsay 1895a:362, Brixhe 2016a:84"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:15",
+    "source_document_id": "15",
+    "source_catalog_label": "N 16 (Sofular)",
+    "source_response_groups": [
+      "N 16 (Sofular)"
+    ],
+    "source_headings": [
+      "· N16 (1 woman)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "νηλι κας",
+        "source_pointer": "/N 16 (Sofular)/1"
+      }
+    ],
+    "references": [],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:16",
+    "source_document_id": "16",
+    "source_catalog_label": "N 17 (Sofular)",
+    "source_response_groups": [
+      "N 17 (Sofular)"
+    ],
+    "source_headings": [
+      "· N17 (bust of a man)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": ".β̣ω τας νις",
+        "source_pointer": "/N 17 (Sofular)/1"
+      }
+    ],
+    "references": [
+      "Ramsay 1895a:362, Brixhe 2016a:84f.",
+      "Borchhardt et al. 1975a:71f., Brixhe 2016a:85"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:17",
+    "source_document_id": "17",
+    "source_catalog_label": "N 18 (Collection Rahmi Koç)",
+    "source_response_groups": [
+      "N 18 (Collection Rahmi Koç)"
+    ],
+    "source_headings": [
+      "· N18 (1 man, 1 woman, 1 man)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "πα μουος ο̣α̣σι̣ κεν[...]ος πυ̣σ̣α",
+        "source_pointer": "/N 18 (Collection Rahmi Koç)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "μουος",
+        "source_pointer": "/N 18 (Collection Rahmi Koç)/2"
+      }
+    ],
+    "references": [
+      "Brixhe & Gibson 1982a:147-149, Brixhe 2016a:86"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:18",
+    "source_document_id": "18",
+    "source_catalog_label": "N 19 (Collection Rahmi Koç)",
+    "source_response_groups": [
+      "N 19 (Collection Rahmi Koç)"
+    ],
+    "source_headings": [
+      "· N19 (1 man, 1 girl, 1 woman)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "[...] μα[..]σις δυ.α",
+        "source_pointer": "/N 19 (Collection Rahmi Koç)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "μουος γδεκω",
+        "source_pointer": "/N 19 (Collection Rahmi Koç)/2"
+      }
+    ],
+    "references": [
+      "Brixhe & Gibson 1982a:151f., Brixhe 2016a:86"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:19",
+    "source_document_id": "19",
+    "source_catalog_label": "N 20 (Collection Rahmi Koç)",
+    "source_response_groups": [
+      "N 20 (Collection Rahmi Koç)"
+    ],
+    "source_headings": [
+      "· N20 (2 women)",
+      "· 2"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "πιλια πιλιας σενα πιλιας",
+        "source_pointer": "/N 20 (Collection Rahmi Koç)/1"
+      }
+    ],
+    "references": [
+      "Brixhe & Gibson 1982a:155f., Adiego 2012b:23, Brixhe 2016a:86"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:20",
+    "source_document_id": "20",
+    "source_catalog_label": "N 21 (Collection Rahmi Koç)",
+    "source_response_groups": [
+      "N 21 (Collection Rahmi Koç)"
+    ],
+    "source_headings": [
+      "· N21 (2 women)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "αννα ζα̣ζι βοινας",
+        "source_pointer": "/N 21 (Collection Rahmi Koç)/1"
+      }
+    ],
+    "references": [
+      "Brixhe & Gibson 1982a160f., Brixhe 2016a:86f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:21",
+    "source_document_id": "21",
+    "source_catalog_label": "N 22 (Collection Rahmi Koç)",
+    "source_response_groups": [
+      "N 22 (Collection Rahmi Koç)"
+    ],
+    "source_headings": [
+      "· N22 (1 woman, 2 men)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "μ̣α̣[..]α ε̣ιδ[ις] σα μουος",
+        "source_pointer": "/N 22 (Collection Rahmi Koç)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "ιαμουτ̣α ειδις",
+        "source_pointer": "/N 22 (Collection Rahmi Koç)/2"
+      }
+    ],
+    "references": [
+      "Brixhe & Gibson 1982a:164-166, Brixhe 2016a:87"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:22",
+    "source_document_id": "22",
+    "source_catalog_label": "N 23 (Sofular)",
+    "source_response_groups": [
+      "N 23 (Sofular)"
+    ],
+    "source_headings": [
+      "· N23 (1 man)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "μουση̣τα̣",
+        "source_pointer": "/N 23 (Sofular)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "ν̣ας μουος",
+        "source_pointer": "/N 23 (Sofular)/2"
+      }
+    ],
+    "references": [
+      "Brixhe et al. 1987a:135f., Adiego 2012b:23, Brixhe 2016a:87"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:23",
+    "source_document_id": "23",
+    "source_catalog_label": "N 24 (Sofular)",
+    "source_response_groups": [
+      "N 24 (Sofular)"
+    ],
+    "source_headings": [
+      "· N24 (bust of a man)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "εδδι μιμουσις",
+        "source_pointer": "/N 24 (Sofular)/1"
+      }
+    ],
+    "references": [
+      "Brixhe et al. 1987a:136f., Adiego 2012b:24, Brixhe 2016a:87"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:24",
+    "source_document_id": "24",
+    "source_catalog_label": "N 25 (Sofular)",
+    "source_response_groups": [
+      "N 25 (Sofular)"
+    ],
+    "source_headings": [
+      "· N25 (bust of a man)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "βα νωμος",
+        "source_pointer": "/N 25 (Sofular)/1"
+      }
+    ],
+    "references": [
+      "Brixhe et al.1987a:137f., Adiego 2012b:24, Brixhe 2016a:88"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:25",
+    "source_document_id": "25",
+    "source_catalog_label": "N 26 (Sofular)",
+    "source_response_groups": [
+      "N 26 (Sofular)"
+    ],
+    "source_headings": [
+      "· N26 (1 man)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "εδδι [...]ας",
+        "source_pointer": "/N 26 (Sofular)/1"
+      }
+    ],
+    "references": [
+      "Brixhe et al. 1987a:138f., Adiego 2012b:24, Brixhe 2016a:88"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:26",
+    "source_document_id": "26",
+    "source_catalog_label": "N 27 (Sofular)",
+    "source_response_groups": [
+      "N 27 (Sofular)"
+    ],
+    "source_headings": [
+      "· N27 (1 man)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "τα γδαβος",
+        "source_pointer": "/N 27 (Sofular)/1"
+      }
+    ],
+    "references": [
+      "Brixhe et al. 1987a:139, Adiego 2012b:24, Brixhe 2016a:88"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:27",
+    "source_document_id": "27",
+    "source_catalog_label": "N 28 (Sofular)",
+    "source_response_groups": [
+      "N 28 (Sofular)"
+    ],
+    "source_headings": [
+      "· N28. (no relief)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "εδδι",
+        "source_pointer": "/N 28 (Sofular)/1"
+      }
+    ],
+    "references": [
+      "Brixhe et al. 1987a:140, Adiego 2012b:24, Brixhe 2016a:88"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:28",
+    "source_document_id": "28",
+    "source_catalog_label": "N 29 (Zindan Mağarası)",
+    "source_response_groups": [
+      "N 29 (Zindan Mağarası)"
+    ],
+    "source_headings": [
+      "· N29 (1 man, 2 women)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "νι γλεβος λ!οι νις δοιπου νενο[υ]ος",
+        "source_pointer": "/N 29 (Zindan Mağarası)/1"
+      }
+    ],
+    "references": [
+      "Brixhe et al. 1987a:142-44, Adiego 2012b:24, Brixhe 2016a:88f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:29",
+    "source_document_id": "29",
+    "source_catalog_label": "N 30 (Zindan Mağarası)",
+    "source_response_groups": [
+      "N 30 (Zindan Mağarası)"
+    ],
+    "source_headings": [
+      "· N30 (1 woman)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "παπα σγαλλος",
+        "source_pointer": "/N 30 (Zindan Mağarası)/1"
+      }
+    ],
+    "references": [
+      "Brixhe et al. 1987a:147f., Adiego 2012b:24, Brixhe 2016a:89"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:30",
+    "source_document_id": "30",
+    "source_catalog_label": "N 31 (Zindan Mağarası)",
+    "source_response_groups": [
+      "N 31 (Zindan Mağarası)"
+    ],
+    "source_headings": [
+      "· N31 (1 man, 2 women)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "μηνι τιτου τατι τιτου νεμεσις μηνις",
+        "source_pointer": "/N 31 (Zindan Mağarası)/1"
+      }
+    ],
+    "references": [
+      "Brixhe et al. 1987a:148-151, Adiego 2012b:24, Brixhe 2016a:89"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:31",
+    "source_document_id": "31",
+    "source_catalog_label": "N 32 (Zindan Mağarası)",
+    "source_response_groups": [
+      "N 32 (Zindan Mağarası)"
+    ],
+    "source_headings": [
+      "· N32 (1 man, 1 woman)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "τουαμουσι εδδας μουος τοινα",
+        "source_pointer": "/N 32 (Zindan Mağarası)/1"
+      }
+    ],
+    "references": [
+      "Brixhe et al. 1987a:151f., Brixhe 2016a:89f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:32",
+    "source_document_id": "32",
+    "source_catalog_label": "N 33 (Sofular)",
+    "source_response_groups": [
+      "N 33 (Sofular)"
+    ],
+    "source_headings": [
+      "· N33 (1 man, 1 girl, 1 woman)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ατουρζετα στανεις σουματα στανει",
+        "source_pointer": "/N 33 (Sofular)/1"
+      }
+    ],
+    "references": [
+      "Brixhe et al. 1987a:155-157, Adiego 2012b:24, Brixhe 2016a:90"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:33",
+    "source_document_id": "33",
+    "source_catalog_label": "N 34 (Sofular)",
+    "source_response_groups": [
+      "N 34 (Sofular)"
+    ],
+    "source_headings": [
+      "· N34 (relief lost?)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "κουα τας στεφανος ουρζες μουα σ![τ]εφανου να ουρζες εδα στεφανου",
+        "source_pointer": "/N 34 (Sofular)/1"
+      }
+    ],
+    "references": [
+      "Brixhe et al. 1987a:158f., Adiego 2012b:24, Brixhe 2016a:90f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:34",
+    "source_document_id": "34",
+    "source_catalog_label": "N 35 (Zindan Mağarası)",
+    "source_response_groups": [
+      "N 35 (Zindan Mağarası)"
+    ],
+    "source_headings": [
+      "· N 35 (no humans)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "που κκαδδις",
+        "source_pointer": "/N 35 (Zindan Mağarası)/1"
+      }
+    ],
+    "references": [
+      "Brixhe et al. 1987a:91, Brixhe 2016a:91"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:35",
+    "source_document_id": "35",
+    "source_catalog_label": "N 35a (Sofular)",
+    "source_response_groups": [
+      "N 35a (Sofular)"
+    ],
+    "source_headings": [
+      "· N35a (bust of a woman)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "τα τας",
+        "source_pointer": "/N 35a (Sofular)/1"
+      }
+    ],
+    "references": [
+      "Brixhe et al. 1987a:164, Brixhe 2016a:91"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:36",
+    "source_document_id": "36",
+    "source_catalog_label": "N 36 (Sofular)",
+    "source_response_groups": [
+      "N 36 (Sofular)"
+    ],
+    "source_headings": [
+      "· N36 (1 man)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "λ.λου δ.πι ...",
+        "source_pointer": "/N 36 (Sofular)/1"
+      }
+    ],
+    "references": [
+      "Brixhe et al. 1987a:164f., Brixhe 2016a:91"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:37",
+    "source_document_id": "37",
+    "source_catalog_label": "N 37 (Yayla de Senitli)",
+    "source_response_groups": [
+      "N 37 (Yayla de Senitli)"
+    ],
+    "source_headings": [
+      "· N37 (no relief)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "[.?]ουορζου τας πιγερδοτα[ρις . . .] τας πιγερδοταρις παπα [τας] [π]ιγερδοταρις ειη τας πιγερδοτ[α]ρις ναλι τας πιγερδοταρις μηνει ουγοιδις νως παπα ουγοιδις νως",
+        "source_pointer": "/N 37 (Yayla de Senitli)/1"
+      }
+    ],
+    "references": [
+      "Brixhe & Özsait 2001a:156-166, Adiego 2012b:17-20, Brixhe 2016a:91f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:38",
+    "source_document_id": "38",
+    "source_catalog_label": "N 38 (Yayla de Senitli)",
+    "source_response_groups": [
+      "N 38 (Yayla de Senitli)"
+    ],
+    "source_headings": [
+      "· N38 (relief lost?)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "μηνι σουρζους μουα μηνις ουα μην[ις]",
+        "source_pointer": "/N 38 (Yayla de Senitli)/1"
+      }
+    ],
+    "references": [
+      "Brixhe & Özsait 2001a:166-169, Adiego 2012b:25, Brixhe 2016a:93"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:39",
+    "source_document_id": "39",
+    "source_catalog_label": "N 39",
+    "source_response_groups": [
+      "N 39"
+    ],
+    "source_headings": [
+      "· N39 (two women)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ν̣η̣λι νηι",
+        "source_pointer": "/N 39/1"
+      }
+    ],
+    "references": [
+      "Brixhe 2016a:93"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:40",
+    "source_document_id": "40",
+    "source_catalog_label": "N 40",
+    "source_response_groups": [
+      "N 40"
+    ],
+    "source_headings": [
+      "· N40 (one man)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "μην[ι σ]ουρζος τα̣",
+        "source_pointer": "/N 40/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "δ̣οτεες",
+        "source_pointer": "/N 40/2"
+      }
+    ],
+    "references": [
+      "Brixhe 2016a:93f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:41",
+    "source_document_id": "41",
+    "source_catalog_label": "N 41",
+    "source_response_groups": [
+      "N 41"
+    ],
+    "source_headings": [
+      "· N41 (one or two men)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ταρη(- )μινα(- )κιται ηνες",
+        "source_pointer": "/N 41/1"
+      }
+    ],
+    "references": [
+      "Brixhe 2016a:94"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:42",
+    "source_document_id": "42",
+    "source_catalog_label": "N 42",
+    "source_response_groups": [
+      "N 42"
+    ],
+    "source_headings": [
+      "· N42 (one woman, three men)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "κλωη̣ ν̣ις αμω[…] μα̣ν̣ις",
+        "source_pointer": "/N 42/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "ιρα̣μουσ̣ι μα̣μις",
+        "source_pointer": "/N 42/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "ιδα̣μουσι ιδρι[…]",
+        "source_pointer": "/N 42/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "μουοτα̣ κ̣ιουκι̣ς",
+        "source_pointer": "/N 42/4"
+      }
+    ],
+    "references": [
+      "Brixhe 2016a:94"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:43",
+    "source_document_id": "43",
+    "source_catalog_label": "N 43",
+    "source_response_groups": [
+      "N 43"
+    ],
+    "source_headings": [
+      "· N43 (one woman, two men)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "μηνι τα̣ς σατα μην[ι]ς",
+        "source_pointer": "/N 43/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "να μηνις",
+        "source_pointer": "/N 43/2"
+      }
+    ],
+    "references": [
+      "Brixhe 2016a:94"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:44",
+    "source_document_id": "44",
+    "source_catalog_label": "N 44",
+    "source_response_groups": [
+      "N 44"
+    ],
+    "source_headings": [
+      "· N44 (one man, one woman, one child)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "κοα κατησε[……]ες",
+        "source_pointer": "/N 44/1"
+      }
+    ],
+    "references": [
+      "Brixhe 2016a:94f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:45",
+    "source_document_id": "45",
+    "source_catalog_label": "N 45",
+    "source_response_groups": [
+      "N 45"
+    ],
+    "source_headings": [
+      "· N45 (two men)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "οσπουνα̣",
+        "source_pointer": "/N 45/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "ιλα (OR ιδα) νο̣υς",
+        "source_pointer": "/N 45/2"
+      }
+    ],
+    "references": [
+      "Brixhe 2016a:95"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:46",
+    "source_document_id": "46",
+    "source_catalog_label": "N 46",
+    "source_response_groups": [
+      "N 46"
+    ],
+    "source_headings": [
+      "· N46 (one man, one woman)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "αυα μου",
+        "source_pointer": "/N 46/1"
+      }
+    ],
+    "references": [
+      "Brixhe 2016a:95"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:47",
+    "source_document_id": "47",
+    "source_catalog_label": "N 47",
+    "source_response_groups": [
+      "N 47"
+    ],
+    "source_headings": [
+      "· N47 (two men, one woman)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "βα κουως",
+        "source_pointer": "/N 47/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "κουα β̣α[ς]",
+        "source_pointer": "/N 47/2"
+      }
+    ],
+    "references": [
+      "Brixhe 2016a:95"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:48",
+    "source_document_id": "48",
+    "source_catalog_label": "N 48",
+    "source_response_groups": [
+      "N 48"
+    ],
+    "source_headings": [
+      "· N48 (one man, one woman)",
+      "· 3"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "βει περδοτες",
+        "source_pointer": "/N 48/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "ειη βειγαδ/λας",
+        "source_pointer": "/N 48/2"
+      }
+    ],
+    "references": [
+      "Brixhe 2016a:95f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:49",
+    "source_document_id": "49",
+    "source_catalog_label": "N 49",
+    "source_response_groups": [
+      "N 49"
+    ],
+    "source_headings": [
+      "· N49 (two men, one woman)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "μηνι ελινις",
+        "source_pointer": "/N 49/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "βυ μουος",
+        "source_pointer": "/N 49/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "ελινι μηνις",
+        "source_pointer": "/N 49/3"
+      }
+    ],
+    "references": [
+      "Brixhe 2016a:96"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:50",
+    "source_document_id": "50",
+    "source_catalog_label": "S 01 (Kesme)",
+    "source_response_groups": [
+      "S 01 (Kesme)"
+    ],
+    "source_headings": [
+      "· S1 (iconography lost?)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ϝα κδας μτο",
+        "source_pointer": "/S 01 (Kesme)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "ωορμεις",
+        "source_pointer": "/S 01 (Kesme)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "ποτοα ϝιρυτις",
+        "source_pointer": "/S 01 (Kesme)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "οπιμε",
+        "source_pointer": "/S 01 (Kesme)/4"
+      }
+    ],
+    "references": [
+      "Brixhe & Özsait 2013a:235, Brixhe 2016a:97f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:51",
+    "source_document_id": "51",
+    "source_catalog_label": "S 02 (Kesme)",
+    "source_response_groups": [
+      "S 02 (Kesme)"
+    ],
+    "source_headings": [
+      "· S2 (iconography lost?)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "μεκλωρε̣γο ουαρπλιο ειδ",
+        "source_pointer": "/S 02 (Kesme)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "ο αδιαμοσο τοστο μλα",
+        "source_pointer": "/S 02 (Kesme)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "γα καиη ωρας 3 οαιαρπι",
+        "source_pointer": "/S 02 (Kesme)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "ποσι τιπαδοστο τωκο",
+        "source_pointer": "/S 02 (Kesme)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": "καиη τοτολαοιασο ειασиα",
+        "source_pointer": "/S 02 (Kesme)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "ρουσιτο κϝαρουδα-τι",
+        "source_pointer": "/S 02 (Kesme)/6"
+      },
+      {
+        "source_row_label": "· 7",
+        "reading": ".?απανινουτι ευοημερεν",
+        "source_pointer": "/S 02 (Kesme)/7"
+      },
+      {
+        "source_row_label": "· 8",
+        "reading": "οαναει-ς-иαρειиα τιπαδο",
+        "source_pointer": "/S 02 (Kesme)/8"
+      },
+      {
+        "source_row_label": "· 9",
+        "reading": "στο κϝαρουδα-σο ιαδιασο",
+        "source_pointer": "/S 02 (Kesme)/9"
+      },
+      {
+        "source_row_label": "· 10",
+        "reading": "καиη иαиοειε αρρη 15 τοκρ",
+        "source_pointer": "/S 02 (Kesme)/10"
+      },
+      {
+        "source_row_label": "· 11",
+        "reading": ".ους иαиοειε ειδι-иεδαπα-ειασ",
+        "source_pointer": "/S 02 (Kesme)/11"
+      },
+      {
+        "source_row_label": "· 12",
+        "reading": "иεδι αρρι 2 ουεορεσιε αρραια",
+        "source_pointer": "/S 02 (Kesme)/12"
+      },
+      {
+        "source_row_label": "· 13",
+        "reading": ".ο μλαγα σεοκοπλουσοας",
+        "source_pointer": "/S 02 (Kesme)/13"
+      }
+    ],
+    "references": [
+      "Brixhe & Özsait 2013a:236f., Brixhe 2016a:98f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:52",
+    "source_document_id": "52",
+    "source_catalog_label": "S 03 (Değirmenözü)",
+    "source_response_groups": [
+      "S 03 (Değirmenözü)"
+    ],
+    "source_headings": [
+      "· S3 (graffito)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ϝερλα λϝεις",
+        "source_pointer": "/S 03 (Değirmenözü)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "κεσδι μουλος",
+        "source_pointer": "/S 03 (Değirmenözü)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "4αωиωρο",
+        "source_pointer": "/S 03 (Değirmenözü)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": "τιρια4ατεμ",
+        "source_pointer": "/S 03 (Değirmenözü)/4"
+      },
+      {
+        "source_row_label": "· 5",
+        "reading": ".ειμε4μι.",
+        "source_pointer": "/S 03 (Değirmenözü)/5"
+      },
+      {
+        "source_row_label": "· 6",
+        "reading": "4ζιμι",
+        "source_pointer": "/S 03 (Değirmenözü)/6"
+      }
+    ],
+    "references": [
+      "Brixhe & Özsait 2013a:233f., Brixhe 2016a:99f."
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  },
+  {
+    "record_id": "pisidian:ediana:53",
+    "source_document_id": "53",
+    "source_catalog_label": "S 04 (Değirmenözü)",
+    "source_response_groups": [
+      "S 04 (Değirmenözü)"
+    ],
+    "source_headings": [
+      "· S4 (no relief)"
+    ],
+    "lines": [
+      {
+        "source_row_label": "· 1",
+        "reading": "ι̣ο̣ερμουασεμιδα",
+        "source_pointer": "/S 04 (Değirmenözü)/1"
+      },
+      {
+        "source_row_label": "· 2",
+        "reading": "μ̣υ̣αισπυαδογиεσ̣ι",
+        "source_pointer": "/S 04 (Değirmenözü)/2"
+      },
+      {
+        "source_row_label": "· 3",
+        "reading": "σ̣πυδδετω̣σπυα̣δο",
+        "source_pointer": "/S 04 (Değirmenözü)/3"
+      },
+      {
+        "source_row_label": "· 4",
+        "reading": ".иεσιατετελιαρει̣",
+        "source_pointer": "/S 04 (Değirmenözü)/4"
+      }
+    ],
+    "references": [
+      "Neumann & Fuhrmann 2005a:13-18, Brixhe & Özsait 2013a:234, 245f., Adiego 2012b:21, 25, Brixhe 2016a:100-102"
+    ],
+    "source_url": "https://www.ediana.gwi.uni-muenchen.de/corpus.php",
+    "source_response_path": "data/upstream/ediana/response.json",
+    "source_license": "CC-BY-SA-4.0",
+    "evidence_layer": "digital_reference",
+    "primary_edition_verified": false,
+    "physical_object_id": null,
+    "independent_review": false,
+    "acquisition_state": "ACQUIRED"
+  }
+]
