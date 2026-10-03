@@ -2,7 +2,7 @@
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
   "source_commit": "cd14de9d2f704be0cefa6378be95256f4d114297",
-  "evidence_fingerprint_sha256": "61040a9acee3293e24513af9d053c7b6af3e7ba4b0fd8125a87718c884af01a2",
+  "evidence_fingerprint_sha256": "9cfb488f6db2c16a6f57096d395af5b36cf3b1cb53f474a2178f1408a5ea72d7",
   "canonical_repository": true,
   "artifacts": [
     {
@@ -74,8 +74,8 @@
     {
       "role": "source-frontier",
       "path": "research/source-frontier.json",
-      "sha256": "620e9ee41fe33d4c6e281e5d5ecbb106f324ad7f5d1935405fd5295457f6fc77",
-      "bytes": 1404
+      "sha256": "aa5c63a35e38f69ca1d62c50e3b2e141a0e18392511d6b5ed0e80a6382d634f2",
+      "bytes": 1881
     },
     {
       "role": "source-issues",
@@ -110,32 +110,32 @@
     {
       "role": "source-checks",
       "path": "research/source-checks.json",
-      "sha256": "f3657bc780dd59fdb638c6004b7e82bc8a32f2d8f7929d093174a89cb8f2f902",
-      "bytes": 32200
+      "sha256": "b6add789bd9f6a5ad36269274a99c4818cf20a466d10d6a7573242b27b70f827",
+      "bytes": 36619
     },
     {
       "role": "source-access",
       "path": "research/source-access.json",
-      "sha256": "341ec6750060081a1cd59647a1be0d8fd1a5bae8d0bea6a38c81d53235877329",
-      "bytes": 2893
+      "sha256": "a6aa23627292fe239e08de5a2948d2620e12e2722479cc161b6ba2d8ec452233",
+      "bytes": 3581
     },
     {
       "role": "packets",
       "path": "review/packets.json",
-      "sha256": "ed6759d43d106981694d93a613b236fc68383f0d80eccafe311782ab52c1b864",
-      "bytes": 58257
+      "sha256": "c7c4408138b637fab549bb4f90db16814f5a777d05c338c7c1fad45e3bf5699a",
+      "bytes": 58368
     },
     {
       "role": "handoff-manifest",
       "path": "review/handoff-manifest.json",
-      "sha256": "ec24d09f664ae3a925ea6ffdfccd15287d7b002e05124cd65faa54f3c82fd6fd",
+      "sha256": "bff6b4ff8cde8af5a626879becf89900028a93dfc60a5f2cda333694e0250da8",
       "bytes": 2669
     },
     {
       "role": "source-worklist",
       "path": "research/source-worklist.json",
-      "sha256": "9fcfc96c9678d53762adfdf1c30d269ffc6b97b07d65552bebcff5d704ecf9c9",
-      "bytes": 54684
+      "sha256": "f2c4905dddfb5fbfb26740c7040d2f7fa19baf19d3717c847fa022a49594b153",
+      "bytes": 54797
     },
     {
       "role": "publication-reconciliation",

@@ -5,7 +5,7 @@ Source label: S 04 (Değirmenözü)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `e39d9bb6f2d1fbfa5100eddcebfec1287704a8e9359ca43e4208e8df1ce5f9d4`
-Evidence fingerprint: `0cbf6104761ab6e71d78f6ba5a8a058922996ad9bca84998ec2ab35eef0d1bc6`
+Evidence fingerprint: `0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358`
 
 ## Captured source evidence
 
@@ -59,6 +59,17 @@ This edition section provides a record-specific publication locator and discusse
 
 - Confirm edition-to-object identity
 - Collate the preserved signs, editorial alternatives and prior editions
+
+### PIS-ADIEGO2012-CLASSIFICATION
+
+Source: [https://forumeditrice.it/percorsi/lingua-e-letteratura/studi-in-onore/per-roberto-gusmani/minima-pisidica-nota-sobre-la-estructura-de-una/download_capitolo](https://forumeditrice.it/percorsi/lingua-e-letteratura/studi-in-onore/per-roberto-gusmani/minima-pisidica-nota-sobre-la-estructura-de-una/download_capitolo)
+
+Locators: printed p.18 n.2 (PDF page3); appendix p.25 no.44 (PDF page10)
+
+The author explicitly questions attribution of the two 2005 inscriptions to Pisidian when based primarily on geography. The modern S04 record cites Neumann–Fuhrmann 2005 and Adiego 2012; classification and exact concordance require the original edition and later rereading, not automatic corpus admission.
+
+- Establish edition-specific concordance before comparing interpretations
+- Retain uncertainty and separate script, language and object identity
 
 ## Record a decision
 

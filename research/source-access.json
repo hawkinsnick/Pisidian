@@ -44,6 +44,15 @@
       "access_state": "NOT_ACQUIRED",
       "attempt_result": "HTTP 403 on text routes; accessible alternative acquired from Internet Archive",
       "next_action": "Use the acquired alternative scan with its own page numbering and hash"
+    },
+    {
+      "source_url": "https://forumeditrice.it/percorsi/lingua-e-letteratura/studi-in-onore/per-roberto-gusmani/minima-pisidica-nota-sobre-la-estructura-de-una/download_capitolo",
+      "checked_on": "2026-10-03",
+      "access_state": "VALID_PUBLISHER_PDF_ACQUIRED; TARGETED_SEGMENTATION_AND_NUMBERING_CHECKS",
+      "source_sha256": "c149054ecffba2e7f5cbe03ba61c04a610cd76f0ee6c4995c5ba516709f26314",
+      "attempt_result": "11-page publisher PDF; chapter pp.17–26 after metadata cover",
+      "redistribution": "No paper scan or figure imported; permission not established",
+      "next_action": "Complete original2001/2005 edition comparisons and sign-level collation"
     }
   ],
   "scope": "Targeted edition access attempts; not exhaustive global availability search"

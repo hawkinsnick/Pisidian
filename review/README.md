@@ -41,7 +41,7 @@ Choose a record below. Read the [review guide](../docs/EXPERT-REVIEW.md) for the
 | [pisidian:ediana:34](records/pisidian-ediana-34.md) | N 35 (Zindan Mağarası) | BASELINE_COLLATION |
 | [pisidian:ediana:35](records/pisidian-ediana-35.md) | N 35a (Sofular) | BASELINE_COLLATION |
 | [pisidian:ediana:36](records/pisidian-ediana-36.md) | N 36 (Sofular) | BASELINE_COLLATION |
-| [pisidian:ediana:37](records/pisidian-ediana-37.md) | N 37 (Yayla de Senitli) | BASELINE_COLLATION |
+| [pisidian:ediana:37](records/pisidian-ediana-37.md) | N 37 (Yayla de Senitli) | TARGETED_SOURCE_CONFLICT |
 | [pisidian:ediana:38](records/pisidian-ediana-38.md) | N 38 (Yayla de Senitli) | BASELINE_COLLATION |
 | [pisidian:ediana:39](records/pisidian-ediana-39.md) | N 39 | TARGETED_SOURCE_CONFLICT |
 | [pisidian:ediana:40](records/pisidian-ediana-40.md) | N 40 | BASELINE_COLLATION |

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "evidence_fingerprint": "0cbf6104761ab6e71d78f6ba5a8a058922996ad9bca84998ec2ab35eef0d1bc6",
+  "evidence_fingerprint": "0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358",
   "input_fingerprints": [
     {
       "path": "data/reference/records.json",
@@ -24,15 +24,15 @@
     },
     {
       "path": "research/source-checks.json",
-      "sha256": "f3657bc780dd59fdb638c6004b7e82bc8a32f2d8f7929d093174a89cb8f2f902"
+      "sha256": "b6add789bd9f6a5ad36269274a99c4818cf20a466d10d6a7573242b27b70f827"
     },
     {
       "path": "research/source-access.json",
-      "sha256": "341ec6750060081a1cd59647a1be0d8fd1a5bae8d0bea6a38c81d53235877329"
+      "sha256": "a6aa23627292fe239e08de5a2948d2620e12e2722479cc161b6ba2d8ec452233"
     },
     {
       "path": "research/source-worklist.json",
-      "sha256": "9fcfc96c9678d53762adfdf1c30d269ffc6b97b07d65552bebcff5d704ecf9c9"
+      "sha256": "f2c4905dddfb5fbfb26740c7040d2f7fa19baf19d3717c847fa022a49594b153"
     },
     {
       "path": "research/publication-reconciliation.json",
@@ -68,7 +68,7 @@
     }
   ],
   "packet_count": 54,
-  "source_checked_records": 25,
+  "source_checked_records": 26,
   "independently_reviewed_records": 0,
   "admitted_records": 0,
   "handoff_status": "PREPARED_FOR_RECORD_LEVEL_REVIEW; SOURCE_ACQUISITION_AND_COLLATION_STILL_INCOMPLETE",

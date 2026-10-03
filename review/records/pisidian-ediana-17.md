@@ -5,7 +5,7 @@ Source label: N 18 (Collection Rahmi Koç)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `c1a88163522706bb3e5698f722f839b55cdc9928fef87d270b16c64aca32b47e`
-Evidence fingerprint: `0cbf6104761ab6e71d78f6ba5a8a058922996ad9bca84998ec2ab35eef0d1bc6`
+Evidence fingerprint: `0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358`
 
 ## Captured source evidence
 

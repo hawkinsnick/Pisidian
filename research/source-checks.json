@@ -556,11 +556,11 @@
         "printed p.362 (PDF page 372), no.17",
         "captured citations: Borchhardt et al.1975 pp.71f.; Brixhe 2016 p.85"
       ],
-      "finding": "Ramsay describes no.17 as a stele without an inscription, while the frozen N17 record contains a reading and cites later publications. Preserve this as publication history requiring the 1975 edition; do not infer that the modern reading is false or that no inscription can now be read.",
+      "finding": "Ramsay no.17 is described as a stele without an inscription. Adiego 2012 p.23 instead links his no.17 to Borchhardt–Neumann–Schulz 1975 no.18. Do not assume Ramsay no.17 and modern N17 are the same object: this is a numbering/concordance problem, not evidence that the modern reading is false.",
       "canonical_change": false,
       "expert_questions": [
-        "Determine how later examination identified or read the inscription",
-        "Inspect Borchhardt et al.1975 directly and reconcile object identity"
+        "Inspect Borchhardt et al.1975 no.18 and establish its modern concordance independently",
+        "Explain the captured Ramsay p.362 citation without importing ordinal identity"
       ]
     },
     {
@@ -609,6 +609,81 @@
       "expert_questions": [
         "Confirm the inventory concordance and current location",
         "Collate sign uncertainty, line layout and interpretations separately"
+      ]
+    },
+    {
+      "check_id": "PIS-ADIEGO2012-N37",
+      "record_ids": [
+        "pisidian:ediana:37"
+      ],
+      "inspection": "PUBLISHER_PDF_TEXT_CHECKED; N37_TABLE_AND_APPENDIX_SEQUENCE_VISUALLY_CHECKED; NOT_FULL_SIGN_ADJUDICATION",
+      "source_url": "https://forumeditrice.it/percorsi/lingua-e-letteratura/studi-in-onore/per-roberto-gusmani/minima-pisidica-nota-sobre-la-estructura-de-una/download_capitolo",
+      "source_sha256": "c149054ecffba2e7f5cbe03ba61c04a610cd76f0ee6c4995c5ba516709f26314",
+      "bibliography": {
+        "author": "Ignasi-Xavier Adiego",
+        "year": 2012,
+        "title": "Minima Pisidica: nota sobre la estructura de una inscripción pisidia de Timbriada",
+        "pages": "17–26",
+        "doi": "10.4424/978-88-8420-727-2-36"
+      },
+      "locators": [
+        "printed pp.17–19 (PDF pages2–4); appendix p.25 no.41"
+      ],
+      "finding": "The author proposes treating Pigerdotaris as one compound genitive rather than splitting Piger Dotaris, obtaining eight onomastic formulas rather than thirteen. These are segmentation and grammatical interpretations, not independently observed person counts. The p.19 table retains a question mark in the restored Tas formula. Appendix no.41 corresponds to this modern N37 candidate via Brixhe–Özsait 2001 no.1; do not join by ordinal.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Establish edition-specific concordance before comparing interpretations",
+        "Retain uncertainty and separate script, language and object identity"
+      ]
+    },
+    {
+      "check_id": "PIS-ADIEGO2012-NUMBERING",
+      "record_ids": [
+        "pisidian:ediana:16"
+      ],
+      "inspection": "PUBLISHER_PDF_TEXT_CHECKED; N37_TABLE_AND_APPENDIX_SEQUENCE_VISUALLY_CHECKED; NOT_FULL_SIGN_ADJUDICATION",
+      "source_url": "https://forumeditrice.it/percorsi/lingua-e-letteratura/studi-in-onore/per-roberto-gusmani/minima-pisidica-nota-sobre-la-estructura-de-una/download_capitolo",
+      "source_sha256": "c149054ecffba2e7f5cbe03ba61c04a610cd76f0ee6c4995c5ba516709f26314",
+      "bibliography": {
+        "author": "Ignasi-Xavier Adiego",
+        "year": 2012,
+        "title": "Minima Pisidica: nota sobre la estructura de una inscripción pisidia de Timbriada",
+        "pages": "17–26",
+        "doi": "10.4424/978-88-8420-727-2-36"
+      },
+      "locators": [
+        "printed p.23 no.17 (PDF page8); p.24 (PDF page9), sequence32 then34"
+      ],
+      "finding": "The appendix assigns no.17 to the 1975 publication no.18. Its printed sequence omits number33; do not silently renumber later entries or equate its nominal1–44 range with 44 accepted modern objects.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Establish edition-specific concordance before comparing interpretations",
+        "Retain uncertainty and separate script, language and object identity"
+      ]
+    },
+    {
+      "check_id": "PIS-ADIEGO2012-CLASSIFICATION",
+      "record_ids": [
+        "pisidian:ediana:53"
+      ],
+      "inspection": "PUBLISHER_PDF_TEXT_CHECKED; N37_TABLE_AND_APPENDIX_SEQUENCE_VISUALLY_CHECKED; NOT_FULL_SIGN_ADJUDICATION",
+      "source_url": "https://forumeditrice.it/percorsi/lingua-e-letteratura/studi-in-onore/per-roberto-gusmani/minima-pisidica-nota-sobre-la-estructura-de-una/download_capitolo",
+      "source_sha256": "c149054ecffba2e7f5cbe03ba61c04a610cd76f0ee6c4995c5ba516709f26314",
+      "bibliography": {
+        "author": "Ignasi-Xavier Adiego",
+        "year": 2012,
+        "title": "Minima Pisidica: nota sobre la estructura de una inscripción pisidia de Timbriada",
+        "pages": "17–26",
+        "doi": "10.4424/978-88-8420-727-2-36"
+      },
+      "locators": [
+        "printed p.18 n.2 (PDF page3); appendix p.25 no.44 (PDF page10)"
+      ],
+      "finding": "The author explicitly questions attribution of the two 2005 inscriptions to Pisidian when based primarily on geography. The modern S04 record cites Neumann–Fuhrmann 2005 and Adiego 2012; classification and exact concordance require the original edition and later rereading, not automatic corpus admission.",
+      "canonical_change": false,
+      "expert_questions": [
+        "Establish edition-specific concordance before comparing interpretations",
+        "Retain uncertainty and separate script, language and object identity"
       ]
     }
   ],

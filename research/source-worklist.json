@@ -728,7 +728,8 @@
         "Borchhardt et al. 1975a:71f., Brixhe 2016a:85"
       ],
       "source_check_ids": [
-        "PIS-N17-HISTORICAL-NONREADING"
+        "PIS-N17-HISTORICAL-NONREADING",
+        "PIS-ADIEGO2012-NUMBERING"
       ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
@@ -1113,7 +1114,9 @@
       "citations_verbatim": [
         "Brixhe & Özsait 2001a:156-166, Adiego 2012b:17-20, Brixhe 2016a:91f."
       ],
-      "source_check_ids": [],
+      "source_check_ids": [
+        "PIS-ADIEGO2012-N37"
+      ],
       "remaining_work": [
         "Confirm edition-to-record concordance",
         "Collate every source row, including uncertainty and layout",
@@ -1411,7 +1414,8 @@
         "Neumann & Fuhrmann 2005a:13-18, Brixhe & Özsait 2013a:234, 245f., Adiego 2012b:21, 25, Brixhe 2016a:100-102"
       ],
       "source_check_ids": [
-        "PIS-PRIMARY-53"
+        "PIS-PRIMARY-53",
+        "PIS-ADIEGO2012-CLASSIFICATION"
       ],
       "remaining_work": [
         "Confirm edition-to-record concordance",

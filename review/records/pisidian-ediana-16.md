@@ -5,7 +5,7 @@ Source label: N 17 (Sofular)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `b2265ce386231946eb414e3f883bbb0fdeacce6d1680988e37b09ed7b28c61cf`
-Evidence fingerprint: `0cbf6104761ab6e71d78f6ba5a8a058922996ad9bca84998ec2ab35eef0d1bc6`
+Evidence fingerprint: `0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358`
 
 ## Captured source evidence
 
@@ -32,10 +32,21 @@ Source: [https://archive.org/download/revuedesunivdumidi1/revuedesunivdumidi1.pd
 
 Locators: printed p.362 (PDF page 372), no.17; captured citations: Borchhardt et al.1975 pp.71f.; Brixhe 2016 p.85
 
-Ramsay describes no.17 as a stele without an inscription, while the frozen N17 record contains a reading and cites later publications. Preserve this as publication history requiring the 1975 edition; do not infer that the modern reading is false or that no inscription can now be read.
+Ramsay no.17 is described as a stele without an inscription. Adiego 2012 p.23 instead links his no.17 to Borchhardt–Neumann–Schulz 1975 no.18. Do not assume Ramsay no.17 and modern N17 are the same object: this is a numbering/concordance problem, not evidence that the modern reading is false.
 
-- Determine how later examination identified or read the inscription
-- Inspect Borchhardt et al.1975 directly and reconcile object identity
+- Inspect Borchhardt et al.1975 no.18 and establish its modern concordance independently
+- Explain the captured Ramsay p.362 citation without importing ordinal identity
+
+### PIS-ADIEGO2012-NUMBERING
+
+Source: [https://forumeditrice.it/percorsi/lingua-e-letteratura/studi-in-onore/per-roberto-gusmani/minima-pisidica-nota-sobre-la-estructura-de-una/download_capitolo](https://forumeditrice.it/percorsi/lingua-e-letteratura/studi-in-onore/per-roberto-gusmani/minima-pisidica-nota-sobre-la-estructura-de-una/download_capitolo)
+
+Locators: printed p.23 no.17 (PDF page8); p.24 (PDF page9), sequence32 then34
+
+The appendix assigns no.17 to the 1975 publication no.18. Its printed sequence omits number33; do not silently renumber later entries or equate its nominal1–44 range with 44 accepted modern objects.
+
+- Establish edition-specific concordance before comparing interpretations
+- Retain uncertainty and separate script, language and object identity
 
 ## Record a decision
 

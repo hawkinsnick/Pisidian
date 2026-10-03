@@ -22,7 +22,15 @@
       "title": "Nominative and Genitive Endings of Some Epichoric Personal Names in Light of Inscriptions from Tymbriada",
       "attribution": "Asuman Coşkun Abuagla, 2023",
       "locator": "10.47589/adalya.1414560",
-      "inspection_state": "VALID_PUBLISHER_PDF_ACQUIRED; targeted N24/N25 correction cases inspected; nine-stela inventory reconciliation remains pending",
+      "inspection_state": "VALID_PUBLISHER_PDF_ACQUIRED; all nine publication entries reconciled, four baseline candidates and five unresolved; no admissions",
+      "canonical_admission": false,
+      "redistribution_permission": "NOT_ESTABLISHED; scan and figures not imported"
+    },
+    {
+      "title": "Minima Pisidica: nota sobre la estructura de una inscripción pisidia de Timbriada",
+      "attribution": "Ignasi-Xavier Adiego, 2012",
+      "locator": "10.4424/978-88-8420-727-2-36",
+      "inspection_state": "VALID_PUBLISHER_PDF_ACQUIRED; N37 segmentation, historical numbering and classification limitations inspected",
       "canonical_admission": false,
       "redistribution_permission": "NOT_ESTABLISHED; scan and figures not imported"
     }
