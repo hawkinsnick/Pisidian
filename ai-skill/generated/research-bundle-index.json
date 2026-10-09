@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "a47518160611b51b6b10b11aadcbb5cf9410526a",
-  "evidence_fingerprint_sha256": "9cfb488f6db2c16a6f57096d395af5b36cf3b1cb53f474a2178f1408a5ea72d7",
+  "source_commit": "e2773d92d5d2b6b240d44ebd3ffa388c6ede19ba",
+  "evidence_fingerprint_sha256": "a800a3c88e55131cb50a12a632c7a477d47b97dfd2b89ec878b2c169d60c68ac",
   "canonical_repository": true,
   "artifacts": [
     {
@@ -104,8 +104,8 @@
     {
       "role": "SKILL",
       "path": "ai-skill/SKILL.md",
-      "sha256": "9e6c63497e2fac06400c85073aa49fcabd66aa8532dc10a504b967ac4e94dcf1",
-      "bytes": 4124
+      "sha256": "6821a7090494e4c25f2cf05a3efa831d4eaadf294a3e21af0722117507b09617",
+      "bytes": 4895
     },
     {
       "role": "source-checks",
@@ -142,6 +142,18 @@
       "path": "research/publication-reconciliation.json",
       "sha256": "fd9ab848702a8f1906a4435a878c54224036566bef925ce2b4430381f4ec5378",
       "bytes": 4770
+    },
+    {
+      "role": "collection_work_ledger",
+      "path": "research/collection-work-ledger.json",
+      "sha256": "cb96eff95b9477ff7d913ae42ada79cdbcc9834ba8b02a6e9cd3e5bbd3e17cb7",
+      "bytes": 93807
+    },
+    {
+      "role": "collection_review_packet",
+      "path": "review/collection-packet.json",
+      "sha256": "1b59f1fb2b6e9c2eed975464e37330e5425780c5d8cc182cccbc3f94e01b6915",
+      "bytes": 1930
     },
     {
       "role": "raw_source",
