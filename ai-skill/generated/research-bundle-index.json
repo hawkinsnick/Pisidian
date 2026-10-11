@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "fd30fead96c78b6da3a67066652084440b6df701",
-  "evidence_fingerprint_sha256": "45d5dc275a49bd19f93fda2af5fa363ef17d5168dd5310467b24d00f80b44996",
+  "source_commit": "8c1d037bd640ddcfa78e1b083ac51fb351349442",
+  "evidence_fingerprint_sha256": "4a7cac1feef09ce1e6455caff0566aa92799d0778a1031b894ca2e3c1f643056",
   "canonical_repository": true,
   "artifacts": [
     {
@@ -104,8 +104,8 @@
     {
       "role": "SKILL",
       "path": "ai-skill/SKILL.md",
-      "sha256": "93cd438fc71c03a34025f432f52dfb13dcf2434563c196c67e366aa66af8a0b9",
-      "bytes": 5423
+      "sha256": "c6087581f26dc1fb34a4527122cfa428cd69ddde1a3b39f2632368ca90eab654",
+      "bytes": 6404
     },
     {
       "role": "source-checks",
@@ -146,13 +146,13 @@
     {
       "role": "collection_work_ledger",
       "path": "research/collection-work-ledger.json",
-      "sha256": "2bcb3abeefd859fe30b14922b556cb1e6e7783b08370d0cb1daa219cd23a2713",
-      "bytes": 94144
+      "sha256": "86642a87757bd5cb16ed977f673f24fca552a25ba2c6ef6147da51bd83e8e046",
+      "bytes": 94355
     },
     {
       "role": "collection_review_packet",
       "path": "review/collection-packet.json",
-      "sha256": "a504b46fc4c8091b294af7100b267679015a62c1c7a8ba1f3593c12f3d0280eb",
+      "sha256": "bbe265560d7d3b426248447d0084415db81a2de50eeaabf6a7e35dcc47d520d2",
       "bytes": 1930
     },
     {
@@ -184,6 +184,24 @@
       "path": "docs/EPIDOC-REFERENCE.md",
       "sha256": "f84786473eb9476e1e5f2609bf03434a7ed6ec7d9c577bc55255f11032aa27ab",
       "bytes": 1799
+    },
+    {
+      "role": "cross_corpus_dependencies",
+      "path": "research/cross-corpus-dependencies.json",
+      "sha256": "f13c10dcf23f224903d37356cf122e04a3a33b6a01598c174573c5d071d47deb",
+      "bytes": 449
+    },
+    {
+      "role": "sync_publication_guard",
+      "path": "ai-skill/scripts/publish_sync.py",
+      "sha256": "d8eba15aaa833fc4071e98bdd22da53385bce1c5cbafc973443cb42f7e39cc0e",
+      "bytes": 2836
+    },
+    {
+      "role": "ai_integrity_guide",
+      "path": "docs/AI-INTEGRITY.md",
+      "sha256": "8619d2ac88ca104eb10570b6c5c83021da5e5cdb57a7af1de076131d185207b0",
+      "bytes": 1766
     },
     {
       "role": "raw_source",
