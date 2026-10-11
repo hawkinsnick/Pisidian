@@ -39,3 +39,5 @@ See [the research standards guide](docs/RESEARCH-STANDARDS.md) for record-level 
 ## Expert validation handoff
 
 [Review the corpus record by record](docs/EXPERT-REVIEW.md). Every captured record has a source-bound packet, and targeted edition checks remain separate from independent review.
+
+The frozen eDiAna reference now has an EpiDoc view of all 54 native document records / 99 nonempty rows. Read `docs/EPIDOC-REFERENCE.md`, `interchange/export-manifest.json` and `analysis/upstream-epidoc-validation.json`. Every native record field and exact source row is reversible; source CC-BY-SA-4.0 and unreviewed status remain explicit. Full raw-source annotations, physical geometry, primary-edition collation and scholarly acceptance are outside this view. Upstream conformance is scoped to this frozen reference layer.
