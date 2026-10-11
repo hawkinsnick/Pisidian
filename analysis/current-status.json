@@ -20,5 +20,12 @@
     "catalog-fragment.html": "affb059c8eb1b5a4794ce28fe09113a5f513f81e1b77892103df883959e1c090",
     "response.json": "dc1aa65f2d67a281a8b1569c258fdd85cde26d142ebca642013d4917c23fc47f"
   },
-  "source_license": "CC-BY-SA-4.0"
+  "source_license": "CC-BY-SA-4.0",
+  "epidoc_reference_scope": {
+    "native_records": 54,
+    "nonempty_source_rows": 99,
+    "export_manifest": "interchange/export-manifest.json",
+    "upstream_validation": "analysis/upstream-epidoc-validation.json",
+    "expert_acceptance": false
+  }
 }

@@ -9,7 +9,8 @@
     "rights separation",
     "AI evidence fingerprints",
     "source-bound review packets",
-    "validated expert decision intake without automatic admission"
+    "validated expert decision intake without automatic admission",
+    "Complete frozen native-reference EpiDoc roundtrip with pinned upstream RNG and all embedded Schematron patterns"
   ],
   "remaining_machine_work": [
     "Acquire additional rights-clear primary editions",
@@ -22,5 +23,7 @@
     "epigraphic collation and damage assessment",
     "independent review of reading proposals"
   ],
-  "completion_rule": "Engineering checks do not establish scholarly parity or language-wide completeness"
+  "completion_rule": "Engineering checks do not establish scholarly parity or language-wide completeness",
+  "interoperability_scope": "Native frozen reference only; not raw-source completeness, primary critical edition or expert acceptance.",
+  "checked": "2026-10-11"
 }

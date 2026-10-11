@@ -31,6 +31,8 @@ Use `research/source-worklist.json` to account for every frozen citation and rec
 
 Read `research/collection-work-ledger.json` and `review/collection-packet.json` when preparing a source-work plan or expert request. Check their evidence fingerprint against current inputs with `python scripts/build_collection_handoff.py`. Select exact record keys and retain native units; overlapping views are not additional physical objects. Follow native review links for scientific decisions and admission. Ledger coverage does not establish completed collation, independent review or a terminal pre-expert ceiling. Use `review/collection-decision-template.json` for revision-bound submissions; structural validation cannot authenticate the reviewer or approve the science. Keep restricted local A/B derivatives local.
 
+The frozen eDiAna reference now has an EpiDoc view of all 54 native document records / 99 nonempty rows. Read `docs/EPIDOC-REFERENCE.md`, `interchange/export-manifest.json` and `analysis/upstream-epidoc-validation.json`. Every native record field and exact source row is reversible; source CC-BY-SA-4.0 and unreviewed status remain explicit. Full raw-source annotations, physical geometry, primary-edition collation and scholarly acceptance are outside this view. Upstream conformance is scoped to this frozen reference layer.
+
 
 # Corpus Project AI Research Contract — 0.3
 

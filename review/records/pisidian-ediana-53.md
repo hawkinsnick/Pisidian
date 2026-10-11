@@ -5,7 +5,7 @@ Source label: S 04 (Değirmenözü)
 Status: **NOT REVIEWED. Analytical admission remains blocked.**
 
 Record SHA-256: `e39d9bb6f2d1fbfa5100eddcebfec1287704a8e9359ca43e4208e8df1ce5f9d4`
-Evidence fingerprint: `0fd1428eb62287a38c2b5c983a529658002acc0e660f265b8dc02f7de97a7358`
+Evidence fingerprint: `580a4f47ff8bf4a4346f3eeb32b0b9510c3cddd6bed45e1693d206fcc31e1f2e`
 
 ## Captured source evidence
 
