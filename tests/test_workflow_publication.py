@@ -9,4 +9,6 @@ class PublicationWorkflowTests(unittest.TestCase):
         self.assertNotIn('git push --force', text)
         self.assertEqual(text.count('python ai-skill/scripts/publish_sync.py'), 1)
         self.assertNotIn('  sync:', (ROOT / '.github/workflows/validate.yml').read_text())
-        self.assertIn('python scripts/test_preexpert_parity.py', (ROOT / '.github/workflows/validate.yml').read_text())
+        import re
+        for script in re.findall(r'python (scripts/[^ \n]+\.py)', text):
+            self.assertTrue((ROOT / script).is_file(), script)

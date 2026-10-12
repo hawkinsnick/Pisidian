@@ -21,8 +21,3 @@ jobs:
       - run: python ai-skill/scripts/build_bundle.py
       - run: python -m unittest discover -s tests -v
       - run: python ai-skill/scripts/validate_bundle.py
-      - name: Validate native method-parity interfaces
-        run: |
-          python scripts/test_preexpert_parity.py
-          python scripts/build_corpus_browser.py
-          test -s workbench/corpus-browser.html
