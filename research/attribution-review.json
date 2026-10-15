@@ -1,0 +1,603 @@
+{
+  "format": "corpus-attribution-review-v1",
+  "repository": "hawkinsnick/Pisidian",
+  "checked": "2026-10-15",
+  "scope": "All29 existing source checks plus the bibliography-key issue; numbering, editorial o/theta and e/s conventions, segmentation and classification remain separate. No invented disagreement register.",
+  "consultation_this_pass": "PINNED_REPOSITORY_EVIDENCE_ONLY",
+  "consultation_boundary": "Existing source consultation receipts and limits are inherited exactly from the referenced native packets. This pass inspects those packets, not the underlying publications afresh. No exhaustive literature search, new autopsy or independent review is claimed.",
+  "rights": "Original project review and bibliographic/source pointers only. Native attribution and rights remain attached to evidence; no new source files, figures or full protected editions are redistributed. Linear A GORILA refusal is not relaxed.",
+  "inputs": [
+    {
+      "path": "research/source-checks.json",
+      "sha256": "b6add789bd9f6a5ad36269274a99c4818cf20a466d10d6a7573242b27b70f827",
+      "source_snapshot_commit": "27f1f444e2ed5bf7c1ad3644ad27b4c269d798f9"
+    },
+    {
+      "path": "research/source-issues.json",
+      "sha256": "c6a7bc889fa15a797d4a90978cd3a5a26d3eeea82f50b0bc1233d92528ffe521",
+      "source_snapshot_commit": "27f1f444e2ed5bf7c1ad3644ad27b4c269d798f9"
+    },
+    {
+      "path": "research/source-register.json",
+      "sha256": "bb91a0edbd9cffa134befb40b45104665c91e703a32ac0711791d9ee05569905",
+      "source_snapshot_commit": "27f1f444e2ed5bf7c1ad3644ad27b4c269d798f9"
+    }
+  ],
+  "complete_selections": [
+    {
+      "path": "research/source-checks.json",
+      "pointer": "/checks",
+      "expected_rows": 29
+    }
+  ],
+  "cases": [
+    {
+      "review_id": "PIS-KESME2-PRIMARY",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The primary edition describes a thirteen-line inscribed base and attributes a probable Asar Kale provenance. The eDiAna S02 record has thirteen lines and cites this publication. Object correspondence is a supported edition-label candidate; present location and inventory remain unresolved.",
+      "remaining_gap": "Confirm museum inventory and provenance; Collate each Greek-script line against figures and later corrections",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/0"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-KESME2-AMBIGUITIES",
+      "case_class": "READING_COMPARISON",
+      "finding": "Adiego uses conventional Latin transliteration of Greek-script evidence. Circumflex o marks an o/theta alternative and circumflex e an e/s alternative; these are local editorial conventions, not new phonemes. Word segmentation is proposed, not observed spacing.",
+      "remaining_gap": "Collate uncertainty conventions across editions; Evaluate segmentation separately from sign reading; Assess classification without assuming every local personal name is a distinct-language inscription",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/1"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "PARTIAL_LOCATED_COMPARISON",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-PRIMARY-50",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "This edition section provides a record-specific publication locator and discusses earlier readings. Physical inventory and sign-level adjudication remain open.",
+      "remaining_gap": "Confirm edition-to-object identity; Collate the preserved signs, editorial alternatives and prior editions",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/2"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-PRIMARY-52",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "This edition section provides a record-specific publication locator and discusses earlier readings. Physical inventory and sign-level adjudication remain open.",
+      "remaining_gap": "Confirm edition-to-object identity; Collate the preserved signs, editorial alternatives and prior editions",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/3"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-PRIMARY-53",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "This edition section provides a record-specific publication locator and discusses earlier readings. Physical inventory and sign-level adjudication remain open.",
+      "remaining_gap": "Confirm edition-to-object identity; Collate the preserved signs, editorial alternatives and prior editions",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/4"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-N25-2023",
+      "case_class": "READING_COMPARISON",
+      "finding": "The 2023 paper separates the ending into a third name, challenging the older continuous reading. Both reading and grammatical analysis require adjudication.",
+      "remaining_gap": "Verify inventory concordance and current location; Compare signs and line division against the published photographs and squeezes; Assess grammatical interpretation separately from transcription",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/5"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "PARTIAL_LOCATED_COMPARISON",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-N24-2023",
+      "case_class": "READING_COMPARISON",
+      "finding": "The proposed sign reading and two-line division differ from the captured single-row form. Preserve both; reassessment of names is not an accepted corpus correction.",
+      "remaining_gap": "Verify inventory concordance and current location; Compare signs and line division against the published photographs and squeezes; Assess grammatical interpretation separately from transcription",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/6"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "PARTIAL_LOCATED_COMPARISON",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-RAMSAY1895-LOCATOR",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The cited article and no.1 drawing are accessible. This provides a direct historical edition locator; OCR is unreliable for the Greek signs, and a complete row-by-row comparison remains pending.",
+      "remaining_gap": "Compare all signs and line breaks with later editions; Check copies, revisions and object identity separately",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/7"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-RAMSAY1895-2",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N2 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "remaining_gap": "Collate each sign and uncertainty with the original drawing and later editions; Verify that modern numbering refers to the same physical object",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/8"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-RAMSAY1895-3",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N3 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "remaining_gap": "Collate each sign and uncertainty with the original drawing and later editions; Verify that modern numbering refers to the same physical object",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/9"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-RAMSAY1895-4",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N4 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "remaining_gap": "Collate each sign and uncertainty with the original drawing and later editions; Verify that modern numbering refers to the same physical object",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/10"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-RAMSAY1895-5",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N5 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "remaining_gap": "Collate each sign and uncertainty with the original drawing and later editions; Verify that modern numbering refers to the same physical object",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/11"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-RAMSAY1895-6",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N6 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "remaining_gap": "Collate each sign and uncertainty with the original drawing and later editions; Verify that modern numbering refers to the same physical object",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/12"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-RAMSAY1895-7",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N7 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "remaining_gap": "Collate each sign and uncertainty with the original drawing and later editions; Verify that modern numbering refers to the same physical object",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/13"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-RAMSAY1895-8",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N8 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "remaining_gap": "Collate each sign and uncertainty with the original drawing and later editions; Verify that modern numbering refers to the same physical object",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/14"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-RAMSAY1895-9",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N9 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "remaining_gap": "Collate each sign and uncertainty with the original drawing and later editions; Verify that modern numbering refers to the same physical object",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/15"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-RAMSAY1895-10",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N10 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "remaining_gap": "Collate each sign and uncertainty with the original drawing and later editions; Verify that modern numbering refers to the same physical object",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/16"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-RAMSAY1895-11",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N11 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "remaining_gap": "Collate each sign and uncertainty with the original drawing and later editions; Verify that modern numbering refers to the same physical object",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/17"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-RAMSAY1895-12",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N12 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "remaining_gap": "Collate each sign and uncertainty with the original drawing and later editions; Verify that modern numbering refers to the same physical object",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/18"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-RAMSAY1895-13",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N13 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "remaining_gap": "Collate each sign and uncertainty with the original drawing and later editions; Verify that modern numbering refers to the same physical object",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/19"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-RAMSAY1895-14",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N14 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "remaining_gap": "Collate each sign and uncertainty with the original drawing and later editions; Verify that modern numbering refers to the same physical object",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/20"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-RAMSAY1895-15",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N15 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "remaining_gap": "Collate each sign and uncertainty with the original drawing and later editions; Verify that modern numbering refers to the same physical object",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/21"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-RAMSAY1895-16",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The numbered historical entry supplies a direct edition locator for the corresponding modern N16 candidate. Compare the drawing and commentary with later revisions; neither OCR nor ordinal identity alone establishes an accepted sign reading or physical inventory.",
+      "remaining_gap": "Collate each sign and uncertainty with the original drawing and later editions; Verify that modern numbering refers to the same physical object",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/22"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-N17-HISTORICAL-NONREADING",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "Ramsay no.17 is described as a stele without an inscription. Adiego 2012 p.23 instead links his no.17 to Borchhardt–Neumann–Schulz 1975 no.18. Do not assume Ramsay no.17 and modern N17 are the same object: this is a numbering/concordance problem, not evidence that the modern reading is false.",
+      "remaining_gap": "Inspect Borchhardt et al.1975 no.18 and establish its modern concordance independently; Explain the captured Ramsay p.362 citation without importing ordinal identity",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/23"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-2023-CATALOG-3",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The 2023 entry provides a concordance candidate for N39 and discusses the older uncertainty. Confirm the signs independently rather than removing underdots automatically.",
+      "remaining_gap": "Confirm the inventory concordance and current location; Collate sign uncertainty, line layout and interpretations separately",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/24"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-2023-CATALOG-5",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The 2023 entry prints the names in two lines, while the captured N33 reading is one row. Preserve the layout difference separately from name segmentation and grammatical interpretation.",
+      "remaining_gap": "Confirm the inventory concordance and current location; Collate sign uncertainty, line layout and interpretations separately",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/25"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-ADIEGO2012-N37",
+      "case_class": "INTERPRETATION",
+      "finding": "The author proposes treating Pigerdotaris as one compound genitive rather than splitting Piger Dotaris, obtaining eight onomastic formulas rather than thirteen. These are segmentation and grammatical interpretations, not independently observed person counts. The p.19 table retains a question mark in the restored Tas formula. Appendix no.41 corresponds to this modern N37 candidate via Brixhe–Özsait 2001 no.1; do not join by ordinal.",
+      "remaining_gap": "Establish edition-specific concordance before comparing interpretations; Retain uncertainty and separate script, language and object identity",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/26"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-ADIEGO2012-NUMBERING",
+      "case_class": "COUNT_OR_IDENTITY",
+      "finding": "The appendix assigns no.17 to the 1975 publication no.18. Its printed sequence omits number33; do not silently renumber later entries or equate its nominal1–44 range with 44 accepted modern objects.",
+      "remaining_gap": "Establish edition-specific concordance before comparing interpretations; Retain uncertainty and separate script, language and object identity",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/27"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-ADIEGO2012-CLASSIFICATION",
+      "case_class": "CLASSIFICATION",
+      "finding": "The author explicitly questions attribution of the two 2005 inscriptions to Pisidian when based primarily on geography. The modern S04 record cites Neumann–Fuhrmann 2005 and Adiego 2012; classification and exact concordance require the original edition and later rereading, not automatic corpus admission.",
+      "remaining_gap": "Establish edition-specific concordance before comparing interpretations; Retain uncertainty and separate script, language and object identity",
+      "evidence": [
+        {
+          "path": "research/source-checks.json",
+          "pointer": "/checks/28"
+        },
+        {
+          "path": "research/source-register.json",
+          "pointer": ""
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    },
+    {
+      "review_id": "PIS-BIBLIOGRAPHY-KEYS",
+      "case_class": "BIBLIOGRAPHY",
+      "finding": "Empty literature-manager results do not establish that the Borchhardt1975a or Brixhe1987a publications do not exist.",
+      "remaining_gap": "Resolve full publication identity, variant keys and exact record citations without ordinal-only joins.",
+      "evidence": [
+        {
+          "path": "research/source-issues.json",
+          "pointer": "/issues/0"
+        }
+      ],
+      "pair_attribution": "NOT_APPLICABLE",
+      "new_reading_admitted": false,
+      "independent_review_added": false
+    }
+  ],
+  "new_readings_admitted": 0,
+  "independent_reviews_added": 0
+}
