@@ -48,3 +48,9 @@ Read `docs/EVIDENCE-AND-ALTERNATIVES.md`, `research/evidence-query-profile.json`
 Read `docs/ATTRIBUTION-REVIEW.md` and `research/attribution-review.json` before describing a dispute or source comparison. Run `python scripts/attribution_review.py --case ID` with the referenced evidence available. Preserve complete native evidence and distinguish reading, interpretation, classification, count, identity and representation questions. This checkpoint reviews pinned repository packets; it does not repeat their primary consultation or grant independent review. Inherit the exact author/publication, locator, consultation limits and dependence from each pointer; missing fields remain unknown. Use the case-specific remaining work. Do not count register entries or apparatus notes as fully attributed pairs, physical objects or independent witnesses.
 
 All29 existing source checks plus the bibliography-key issue; numbering, editorial o/theta and e/s conventions, segmentation and classification remain separate. No invented disagreement register.
+
+## Selected publication collation (2026-10-15)
+
+Consult `research/source-collation-2026-10-15.json` and `docs/SOURCE-COLLATION-2026-10-15.md` for the selected source comparisons. Use `python scripts/source_collation.py --case ID` to retrieve the fresh source observations beside complete native evidence. Preserve printed forms, project notation and author-prose uncertainty as separate fields. Treat web text, rendered PDF inspection, indirect reports and bibliography-only access as distinct modalities. Do not infer direct edition access from a quoted source, physical autopsy from an author’s report, or acceptance from a successful integrity check.
+
+Four selected comparisons. Preserve the2023 edition line/vacat assertions, Adiego2017 circumflex conventions and Adiego2012 questioned restoration separately from linguistic interpretation, frozen source strings and physical sign adjudication.

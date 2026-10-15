@@ -17,9 +17,25 @@
       "id_pointer": "/review_id",
       "unit": "bounded documentary attribution review task",
       "scope": "All29 existing source checks plus the bibliography-key issue; numbering, editorial o/theta and e/s conventions, segmentation and classification remain separate. No invented disagreement register."
+    },
+    {
+      "name": "source-collation-2026-10-15",
+      "path": "research/source-collation-2026-10-15.json",
+      "pointer": "/cases",
+      "id_pointer": "/review_id",
+      "unit": "selected source collation task",
+      "scope": "Four selected comparisons. Preserve the2023 edition line/vacat assertions, Adiego2017 circumflex conventions and Adiego2012 questioned restoration separately from linguistic interpretation, frozen source strings and physical sign adjudication."
     }
   ],
-  "relations": [],
+  "relations": [
+    {
+      "from": "attribution-review",
+      "to": "source-collation-2026-10-15",
+      "from_pointer": "/review_id",
+      "to_pointer": "/review_id",
+      "label": "EXACT_NATIVE_REVIEW_ID_CURRENT_SOURCE_QUALIFICATION_NOT_ACCEPTANCE"
+    }
+  ],
   "artifacts": [
     {
       "path": "data/reference/records.json",
@@ -72,15 +88,23 @@
     },
     {
       "path": "research/attribution-review.json",
-      "sha256": "cfa83882fbca2c9a6c0fd6c66fe28c0ec44aa3de4289f9e85dfa24de0932b71f",
+      "sha256": "e26bef600ff990bc69c272fe2d8f38b4ada2b390dde89c726e9e2c457a004e45",
       "encoding": "json",
       "role": "bounded attribution review",
+      "source_snapshot_commit": null
+    },
+    {
+      "path": "research/source-collation-2026-10-15.json",
+      "sha256": "53c1013222b4a113d815a959a910ed565d4357deb3e6e2eab079fb5232946d9e",
+      "encoding": "json",
+      "role": "fresh bounded source collation; consultation modes differ by source",
       "source_snapshot_commit": null
     }
   ],
   "scholarly_limits": [
     "Exact source document IDs remain distinct even where catalogue labels collide. Native line labels, editorial signs, references, source license and primary_edition_verified=false remain literal. Physical objects and independently collated alternative pairs are not counted by this view.",
-    "Attribution review inspects pinned native packets, not underlying sources afresh. Its cases and apparatus notes are not independent witnesses or an alternative-pair total."
+    "Attribution review inspects pinned native packets, not underlying sources afresh. Its cases and apparatus notes are not independent witnesses or an alternative-pair total.",
+    "Four selected comparisons. Preserve the2023 edition line/vacat assertions, Adiego2017 circumflex conventions and Adiego2012 questioned restoration separately from linguistic interpretation, frozen source strings and physical sign adjudication."
   ],
   "native_artifacts_snapshot_commit": null,
   "snapshot_commit_scope": "Mixed inputs retain their per-artifact anchors. New original review artifacts are byte-pinned and identified by published repository history, not assigned to an earlier commit."

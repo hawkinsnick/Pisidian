@@ -21,6 +21,11 @@
       "path": "research/source-register.json",
       "sha256": "bb91a0edbd9cffa134befb40b45104665c91e703a32ac0711791d9ee05569905",
       "source_snapshot_commit": "27f1f444e2ed5bf7c1ad3644ad27b4c269d798f9"
+    },
+    {
+      "path": "research/source-collation-2026-10-15.json",
+      "sha256": "53c1013222b4a113d815a959a910ed565d4357deb3e6e2eab079fb5232946d9e",
+      "source_snapshot_commit": null
     }
   ],
   "complete_selections": [
@@ -54,7 +59,7 @@
       "review_id": "PIS-KESME2-AMBIGUITIES",
       "case_class": "READING_COMPARISON",
       "finding": "Adiego uses conventional Latin transliteration of Greek-script evidence. Circumflex o marks an o/theta alternative and circumflex e an e/s alternative; these are local editorial conventions, not new phonemes. Word segmentation is proposed, not observed spacing.",
-      "remaining_gap": "Collate uncertainty conventions across editions; Evaluate segmentation separately from sign reading; Assess classification without assuming every local personal name is a distinct-language inscription",
+      "remaining_gap": "Do not reinterpret either circumflex as a secure phoneme or normalize the frozen mixed-script source characters. Keep symbol identity, source uncertainty and word segmentation separate.",
       "evidence": [
         {
           "path": "research/source-checks.json",
@@ -63,6 +68,10 @@
         {
           "path": "research/source-register.json",
           "pointer": ""
+        },
+        {
+          "path": "research/source-collation-2026-10-15.json",
+          "pointer": "/cases/2"
         }
       ],
       "pair_attribution": "PARTIAL_LOCATED_COMPARISON",
@@ -130,7 +139,7 @@
       "review_id": "PIS-N25-2023",
       "case_class": "READING_COMPARISON",
       "finding": "The 2023 paper separates the ending into a third name, challenging the older continuous reading. Both reading and grammatical analysis require adjudication.",
-      "remaining_gap": "Verify inventory concordance and current location; Compare signs and line division against the published photographs and squeezes; Assess grammatical interpretation separately from transcription",
+      "remaining_gap": "Preserve the marker separately from letters; inventory6.9.82 is a2023 source assertion, not current object certification. Sign/photograph assessment remains open.",
       "evidence": [
         {
           "path": "research/source-checks.json",
@@ -139,6 +148,10 @@
         {
           "path": "research/source-register.json",
           "pointer": ""
+        },
+        {
+          "path": "research/source-collation-2026-10-15.json",
+          "pointer": "/cases/0"
         }
       ],
       "pair_attribution": "PARTIAL_LOCATED_COMPARISON",
@@ -149,7 +162,7 @@
       "review_id": "PIS-N24-2023",
       "case_class": "READING_COMPARISON",
       "finding": "The proposed sign reading and two-line division differ from the captured single-row form. Preserve both; reassessment of names is not an accepted corpus correction.",
-      "remaining_gap": "Verify inventory concordance and current location; Compare signs and line division against the published photographs and squeezes; Assess grammatical interpretation separately from transcription",
+      "remaining_gap": "Retain two-line layout as an edition assertion, not a certified physical line map. Inventory6.7.82 remains dated source metadata.",
       "evidence": [
         {
           "path": "research/source-checks.json",
@@ -158,6 +171,10 @@
         {
           "path": "research/source-register.json",
           "pointer": ""
+        },
+        {
+          "path": "research/source-collation-2026-10-15.json",
+          "pointer": "/cases/1"
         }
       ],
       "pair_attribution": "PARTIAL_LOCATED_COMPARISON",
@@ -529,7 +546,7 @@
       "review_id": "PIS-ADIEGO2012-N37",
       "case_class": "INTERPRETATION",
       "finding": "The author proposes treating Pigerdotaris as one compound genitive rather than splitting Piger Dotaris, obtaining eight onomastic formulas rather than thirteen. These are segmentation and grammatical interpretations, not independently observed person counts. The p.19 table retains a question mark in the restored Tas formula. Appendix no.41 corresponds to this modern N37 candidate via Brixhe–Özsait 2001 no.1; do not join by ordinal.",
-      "remaining_gap": "Establish edition-specific concordance before comparing interpretations; Retain uncertainty and separate script, language and object identity",
+      "remaining_gap": "Do not strip the question mark from the table’s restoration or convert formula groups into certain individuals; full edition/object assessment remains open.",
       "evidence": [
         {
           "path": "research/source-checks.json",
@@ -538,6 +555,10 @@
         {
           "path": "research/source-register.json",
           "pointer": ""
+        },
+        {
+          "path": "research/source-collation-2026-10-15.json",
+          "pointer": "/cases/3"
         }
       ],
       "pair_attribution": "NOT_APPLICABLE",
