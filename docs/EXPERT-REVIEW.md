@@ -21,3 +21,5 @@ The [source worklist](../research/source-worklist.json) lists every captured cit
 The [2023 publication reconciliation](../research/publication-reconciliation.json) accounts for all nine discussed stelae. Four have text-and-edition concordance candidates; five remain unmatched or need classification and identity work. “Unmatched” means unresolved here, not necessarily a newly discovered Pisidian-language object. A cited parallel for a personal name cannot identify a stone.
 
 Adiego2012 provides a targeted N37 segmentation comparison (pp.17–19), but its appendix no.41 is not modern N41. The appendix’s no.17 refers to the1975 no.18, and printed no.33 is absent (pp.23–24). These source-number differences must remain explicit. Its p.18 n.2 also warns that geography alone does not securely identify the language of the2005 inscriptions.
+
+Before adjudicating the selected comparisons, read [the2026-10-15 source collation](SOURCE-COLLATION-2026-10-15.md). Publication observations and project representation corrections do not grant independent review.

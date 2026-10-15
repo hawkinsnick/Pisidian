@@ -7,3 +7,7 @@ Removed the obsolete second AI publisher from native integrity CI. The existing 
 ## 2026-10-15 — Native evidence and alternative-reading queries
 
 Added pinned native evidence profiles, exact-ID/JSON-pointer queries, coverage replay, loss/corruption/identity/path tests and CI. Updated researcher documentation, AI instructions and evidence bundle indexing. Existing source data and scientific acceptance states are unchanged.
+
+## 2026-10-15 — Selected source collation
+
+Four selected comparisons. Preserve the2023 edition line/vacat assertions, Adiego2017 circumflex conventions and Adiego2012 questioned restoration separately from linguistic interpretation, frozen source strings and physical sign adjudication. Frozen readings and independent-review status remain unchanged.

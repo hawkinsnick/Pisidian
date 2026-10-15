@@ -1,0 +1,251 @@
+{
+  "format": "corpus-source-collation-v1",
+  "repository": "hawkinsnick/Pisidian",
+  "checked_local_date": "2026-10-15",
+  "date_basis": "America/Chicago user date",
+  "scope": "Selected source-located comparison tasks, not the whole corpus or an exhaustive literature review. Fresh source modalities are recorded individually; publication inspection does not establish epigraphic truth.",
+  "inputs": [
+    {
+      "path": "research/source-checks.json",
+      "sha256": "b6add789bd9f6a5ad36269274a99c4818cf20a466d10d6a7573242b27b70f827",
+      "source_snapshot_commit": "f0b832cdec433fce36801485c2530dfa3e5ea3ca"
+    },
+    {
+      "path": "data/reference/records.json",
+      "sha256": "db85d4d2cbf009f5ce5fe3e8c468861c7299995317c3d977730cfacb5d29df0d",
+      "source_snapshot_commit": "f0b832cdec433fce36801485c2530dfa3e5ea3ca"
+    }
+  ],
+  "frozen_readings_input": "data/reference/records.json",
+  "frozen_readings_changed": false,
+  "sources": [
+    {
+      "source_id": "abuagla2023",
+      "citation": "Asuman Coşkun Abuagla (2023), Nominative and Genitive Endings of Some Epichoric Personal Names in Light of Inscriptions from Tymbriada, Adalya26,185–196.",
+      "doi": "10.47589/adalya.1414560",
+      "url": "https://akmedmedia.ku.edu.tr/Adalya/Adalya_2023/Coskun_Abuagla_Offprint.pdf",
+      "consultation": "DIRECT_RENDERED_PDF_PAGE_IMAGES",
+      "source_pdf_sha256": "7115ca75d7f94dcd72832f244a2b35561f2a268408c7c499cb969e65618bd29d",
+      "source_pdf_bytes": 6109721,
+      "access_receipt": {
+        "id": "abuagla2023",
+        "url": "https://akmedmedia.ku.edu.tr/Adalya/Adalya_2023/Coskun_Abuagla_Offprint.pdf",
+        "resolved_url": "https://akmedmedia.ku.edu.tr/Adalya/Adalya_2023/Coskun_Abuagla_Offprint.pdf",
+        "status": 200,
+        "bytes": 6109721,
+        "sha256": "7115ca75d7f94dcd72832f244a2b35561f2a268408c7c499cb969e65618bd29d",
+        "pdf_magic": true
+      },
+      "limits": "Printed edition and discussion inspected; museum inventories are dated publication assertions. Figure-level damaged-sign and current-inventory verification remain open.",
+      "source_file_redistributed": false,
+      "page_inspections": [
+        {
+          "pdf_ordinal": 10,
+          "printed_locator": "p.188, no.2 and n.12",
+          "render_sha256": "72ea4839a82dbe1787c41736c5cec77bd5e98edb5ecb574f1a2fcc4d530b7ef9",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 12,
+          "printed_locator": "p.190, no.7 and n.25",
+          "render_sha256": "1788d6b355f524f25af8072db12d02e51fec762ec4e9535844569e29d0c6fcfa",
+          "render_redistributed": false
+        }
+      ]
+    },
+    {
+      "source_id": "adiego2012",
+      "citation": "Ignasi-Xavier Adiego (2012), Minima Pisidica: nota sobre la estructura de una inscripción pisidia de Timbriada,17–26.",
+      "doi": "10.4424/978-88-8420-727-2-36",
+      "url": "https://forumeditrice.it/percorsi/lingua-e-letteratura/studi-in-onore/per-roberto-gusmani/minima-pisidica-nota-sobre-la-estructura-de-una/download_capitolo",
+      "consultation": "DIRECT_RENDERED_PDF_PAGE_IMAGES",
+      "source_pdf_sha256": "c149054ecffba2e7f5cbe03ba61c04a610cd76f0ee6c4995c5ba516709f26314",
+      "source_pdf_bytes": 304516,
+      "access_receipt": {
+        "id": "adiego2012",
+        "url": "https://forumeditrice.it/percorsi/lingua-e-letteratura/studi-in-onore/per-roberto-gusmani/minima-pisidica-nota-sobre-la-estructura-de-una/download_capitolo",
+        "resolved_url": "https://forumeditrice.it/percorsi/lingua-e-letteratura/studi-in-onore/per-roberto-gusmani/minima-pisidica-nota-sobre-la-estructura-de-una/download_capitolo",
+        "status": 200,
+        "bytes": 304516,
+        "sha256": "c149054ecffba2e7f5cbe03ba61c04a610cd76f0ee6c4995c5ba516709f26314",
+        "pdf_magic": true
+      },
+      "limits": "Publication inspection only; no project object autopsy or independent review.",
+      "source_file_redistributed": false,
+      "page_inspections": [
+        {
+          "pdf_ordinal": 4,
+          "printed_locator": "p.19, proposed eight-formula table and following discussion",
+          "render_sha256": "d17a0f9e380e7d1e81afa5b4f1edcc67375b9077d10841d5fff5e093152bf0c5",
+          "render_redistributed": false
+        }
+      ]
+    },
+    {
+      "source_id": "adiego2017",
+      "citation": "Ignasi-Xavier Adiego (2017), The longest Pisidian inscription (Kesme2), Journal of Language Relationship15,1–18.",
+      "doi": "10.31826/jlr-2017-151-205",
+      "url": "https://www.jolr.ru/files/(202)jlr2017-15-1-2(1-18).pdf",
+      "consultation": "DIRECT_RENDERED_PDF_PAGE_IMAGES",
+      "source_pdf_sha256": "d0188f7ef0f76f340c37c656d69dc05ddb02f25a3ac4a212fe475f1ccdc986b8",
+      "source_pdf_bytes": 551732,
+      "access_receipt": {
+        "id": "adiego2017",
+        "url": "https://www.jolr.ru/files/(202)jlr2017-15-1-2(1-18).pdf",
+        "resolved_url": "https://www.jolr.ru/files/(202)jlr2017-15-1-2(1-18).pdf",
+        "status": 200,
+        "bytes": 551732,
+        "sha256": "d0188f7ef0f76f340c37c656d69dc05ddb02f25a3ac4a212fe475f1ccdc986b8",
+        "pdf_magic": true
+      },
+      "limits": "Publication inspection only; no project object autopsy or independent review.",
+      "source_file_redistributed": false,
+      "page_inspections": [
+        {
+          "pdf_ordinal": 2,
+          "printed_locator": "p.2, reproduced edition and graphical problems",
+          "render_sha256": "6fb9954ed26990376daecbd3c68773db62d3681eb9bf93819425072eb8822c23",
+          "render_redistributed": false
+        },
+        {
+          "pdf_ordinal": 3,
+          "printed_locator": "p.3, conventions, transliteration and segmentation assumptions",
+          "render_sha256": "890a6689074c194ad94b52a1ba3949fbf9646ec302bf5af3a3232ae0797627d1",
+          "render_redistributed": false
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "review_id": "PIS-N25-2023",
+      "comparison_class": "READING_AND_NAME_SEGMENTATION",
+      "source_ids": [
+        "abuagla2023"
+      ],
+      "observations": [
+        "The p.188 no.2 edition prints three name groups and a final vacat marker. The following apparatus contrasts earlier segmentation; the proposed grammatical relation is an interpretation."
+      ],
+      "remaining_work": [
+        "Preserve the marker separately from letters; inventory6.9.82 is a2023 source assertion, not current object certification. Sign/photograph assessment remains open."
+      ],
+      "details": {
+        "limited_edition_fragment": "Βα Νω Ρις",
+        "printed_final_vacat_marker": true,
+        "line_count_in_edition": 1,
+        "source_reported_inventory": "6.9.82"
+      },
+      "new_canonical_reading": false,
+      "independent_review": false,
+      "physical_identity_certified": false,
+      "native_evidence": {
+        "path": "research/source-checks.json",
+        "pointer": "/checks/5"
+      }
+    },
+    {
+      "review_id": "PIS-N24-2023",
+      "comparison_class": "READING_AND_LINE_LAYOUT",
+      "source_ids": [
+        "abuagla2023"
+      ],
+      "observations": [
+        "The p.190 no.7 edition has two printed lines with a final vacat marker; the captured reference has a single source row. Name/gender interpretation must be evaluated separately from the proposed letters and layout."
+      ],
+      "remaining_work": [
+        "Retain two-line layout as an edition assertion, not a certified physical line map. Inventory6.7.82 remains dated source metadata."
+      ],
+      "details": {
+        "limited_edition_fragment": "Εδδι Τλι\nΜουσις",
+        "printed_final_vacat_marker": true,
+        "line_count_in_edition": 2,
+        "source_reported_inventory": "6.7.82"
+      },
+      "new_canonical_reading": false,
+      "independent_review": false,
+      "physical_identity_certified": false,
+      "native_evidence": {
+        "path": "research/source-checks.json",
+        "pointer": "/checks/6"
+      }
+    },
+    {
+      "review_id": "PIS-KESME2-AMBIGUITIES",
+      "comparison_class": "EDITORIAL_CONVENTIONS_NOT_PHONEMES",
+      "source_ids": [
+        "adiego2017"
+      ],
+      "observations": [
+        "On pp.2–3, Adiego explicitly uses circumflex-o for o/theta alternatives and circumflex-e for e/s alternatives. His Latin rendering and segmentation are analytical conventions over Greek-script evidence."
+      ],
+      "remaining_work": [
+        "Do not reinterpret either circumflex as a secure phoneme or normalize the frozen mixed-script source characters. Keep symbol identity, source uncertainty and word segmentation separate."
+      ],
+      "details": {
+        "editorial_conventions": [
+          {
+            "notation": "ô",
+            "alternatives": [
+              "o",
+              "θ"
+            ],
+            "locators": [
+              "p.2 §2(2)",
+              "p.3 §3"
+            ]
+          },
+          {
+            "notation": "ê",
+            "alternatives": [
+              "e",
+              "s"
+            ],
+            "locators": [
+              "p.2 §2(3)",
+              "p.3 continuation"
+            ]
+          }
+        ],
+        "global_character_substitution_authorized": false,
+        "segmentation_is_observed_spacing": false
+      },
+      "new_canonical_reading": false,
+      "independent_review": false,
+      "physical_identity_certified": false,
+      "native_evidence": {
+        "path": "research/source-checks.json",
+        "pointer": "/checks/1"
+      }
+    },
+    {
+      "review_id": "PIS-ADIEGO2012-N37",
+      "comparison_class": "SEGMENTATION_AND_RESTORATION",
+      "source_ids": [
+        "adiego2012"
+      ],
+      "observations": [
+        "The p.19 proposed table has eight onomastic formulas, with the third middle name bracketed and questioned. The count depends on treating Pigerdotaris as a compound genitive; it is not an independently observed person count."
+      ],
+      "remaining_work": [
+        "Do not strip the question mark from the table’s restoration or convert formula groups into certain individuals; full edition/object assessment remains open."
+      ],
+      "details": {
+        "formula_groups_in_proposed_table": 8,
+        "limited_restoration_fragment": "[Tas?]",
+        "count_unit": "AUTHOR_PROPOSED_ONOMASTIC_FORMULA",
+        "physical_person_count_certified": false
+      },
+      "new_canonical_reading": false,
+      "independent_review": false,
+      "physical_identity_certified": false,
+      "native_evidence": {
+        "path": "research/source-checks.json",
+        "pointer": "/checks/26"
+      }
+    }
+  ],
+  "accepted_readings_added": 0,
+  "independent_reviews_added": 0,
+  "source_files_redistributed": false,
+  "project_representation_corrections": 0
+}
