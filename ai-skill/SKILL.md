@@ -54,3 +54,18 @@ All29 existing source checks plus the bibliography-key issue; numbering, editori
 Consult `research/source-collation-2026-10-15.json` and `docs/SOURCE-COLLATION-2026-10-15.md` for the selected source comparisons. Use `python scripts/source_collation.py --case ID` to retrieve the fresh source observations beside complete native evidence. Preserve printed forms, project notation and author-prose uncertainty as separate fields. Treat web text, rendered PDF inspection, indirect reports and bibliography-only access as distinct modalities. Do not infer direct edition access from a quoted source, physical autopsy from an author’s report, or acceptance from a successful integrity check.
 
 Four selected comparisons. Preserve the2023 edition line/vacat assertions, Adiego2017 circumflex conventions and Adiego2012 questioned restoration separately from linguistic interpretation, frozen source strings and physical sign adjudication.
+
+## Research delivery, evidence answers and feedback
+
+Read `docs/RESEARCH-DELIVERY.md` and verify `analysis/research-delivery.json`
+with `python scripts/research_delivery.py --check` before using delivery claims.
+Use `--dossier ID --collection COLLECTION` for exact evidence-bound answers;
+preserve the complete native payload, citations, categories and limitations.
+Use `--search TEXT` for source-record retrieval. Do not convert file pointers
+into missing primary-edition citations, catalogue rows into unique objects,
+source dependence into independent confirmation, or review forms into acceptance.
+Prepare bounded review drafts with `--review-template`; validate submissions with
+`--validate-review`, then require native human-maintainer acceptance. Treat delivery
+and deterministic answer tests as engineering checks, not empirical LLM validation
+or completion of scholarly/source-permission work. Local packaging grants no new
+redistribution rights. Label any model-generated analysis separately and cite it.

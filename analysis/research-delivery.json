@@ -1,0 +1,197 @@
+{
+  "format": "native-research-delivery-v1",
+  "repository": "hawkinsnick/Pisidian",
+  "status": "PASS_DELIVERY_CONTROLS_ONLY",
+  "source_attribution_completeness": "NOT_CERTIFIED_BY_FILE_POINTERS",
+  "facts_hypotheses_policy": "PRESERVE_NATIVE_CATEGORIES_NO_AUTOMATIC_PROMOTION",
+  "scholarly_completeness": false,
+  "expert_acceptance_added": false,
+  "model_behavior_empirically_validated": false,
+  "collections": [
+    {
+      "name": "digital-reference",
+      "native_unit": "frozen eDiAna directory record",
+      "record_count": 54,
+      "scope": "Source rows and bibliographic references are not critical-edition or object certification.",
+      "example_ids": [
+        "pisidian:ediana:0",
+        "pisidian:ediana:1",
+        "pisidian:ediana:2"
+      ],
+      "provenance": {
+        "path": "data/reference/records.json",
+        "sha256": "db85d4d2cbf009f5ce5fe3e8c468861c7299995317c3d977730cfacb5d29df0d",
+        "pointer": "",
+        "native_artifacts_snapshot_commit": null,
+        "role": "digital-reference",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "attribution-review",
+      "native_unit": "bounded documentary attribution review task",
+      "record_count": 30,
+      "scope": "All29 existing source checks plus the bibliography-key issue; numbering, editorial o/theta and e/s conventions, segmentation and classification remain separate. No invented disagreement register.",
+      "example_ids": [
+        "PIS-KESME2-PRIMARY",
+        "PIS-KESME2-AMBIGUITIES",
+        "PIS-PRIMARY-50"
+      ],
+      "provenance": {
+        "path": "research/attribution-review.json",
+        "sha256": "e26bef600ff990bc69c272fe2d8f38b4ada2b390dde89c726e9e2c457a004e45",
+        "pointer": "/cases",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded attribution review",
+        "encoding": "json"
+      }
+    },
+    {
+      "name": "source-collation-2026-10-15",
+      "native_unit": "selected source collation task",
+      "record_count": 4,
+      "scope": "Four selected comparisons. Preserve the2023 edition line/vacat assertions, Adiego2017 circumflex conventions and Adiego2012 questioned restoration separately from linguistic interpretation, frozen source strings and physical sign adjudication.",
+      "example_ids": [
+        "PIS-N25-2023",
+        "PIS-N24-2023",
+        "PIS-KESME2-AMBIGUITIES"
+      ],
+      "provenance": {
+        "path": "research/source-collation-2026-10-15.json",
+        "sha256": "53c1013222b4a113d815a959a910ed565d4357deb3e6e2eab079fb5232946d9e",
+        "pointer": "/cases",
+        "native_artifacts_snapshot_commit": null,
+        "role": "fresh bounded source collation; consultation modes differ by source",
+        "encoding": "json"
+      }
+    }
+  ],
+  "scholarly_limits": [
+    "Exact source document IDs remain distinct even where catalogue labels collide. Native line labels, editorial signs, references, source license and primary_edition_verified=false remain literal. Physical objects and independently collated alternative pairs are not counted by this view.",
+    "Attribution review inspects pinned native packets, not underlying sources afresh. Its cases and apparatus notes are not independent witnesses or an alternative-pair total.",
+    "Four selected comparisons. Preserve the2023 edition line/vacat assertions, Adiego2017 circumflex conventions and Adiego2012 questioned restoration separately from linguistic interpretation, frozen source strings and physical sign adjudication."
+  ],
+  "inputs": [
+    {
+      "path": "DATA-LICENSE-MATRIX.md",
+      "sha256": "6daff2528007b5a79fead00b31fedcf4158d0de3c2b635138b74a2f9834749a3",
+      "bytes": 1538
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "a6483079a3962d57e0174a735f70813ce644e4371869e1108114dfee6cfd5674",
+      "bytes": 582
+    },
+    {
+      "path": "LICENSE-CODE",
+      "sha256": "da0ea24fe99ee55dffa4fdcc54c2c533be08b240a37fcf093b6e5a716d5cd74a",
+      "bytes": 324
+    },
+    {
+      "path": "LICENSE-CONTENT.md",
+      "sha256": "24b4bfcf2de2f729b7ebce80c8011e7d75f82f5626a63bdcf333b28f8a2a2802",
+      "bytes": 762
+    },
+    {
+      "path": "LICENSING.md",
+      "sha256": "ab9b5ec64d32f4e987fa4081dec15853a6b87858a4a8dbb7162af4ab9a54c7e8",
+      "bytes": 2487
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "5e71f5147b8a84063c4ae297301b22acc17095ac6cb6cdf73abd0d5df627b5f0",
+      "bytes": 870
+    },
+    {
+      "path": "ai-skill/SKILL.md",
+      "sha256": "ece955dfc2d34dd09860473ff500ee806ab8a88335c5a7583d2b003f0e5fab9b",
+      "bytes": 10686
+    },
+    {
+      "path": "data/reference/records.json",
+      "sha256": "db85d4d2cbf009f5ce5fe3e8c468861c7299995317c3d977730cfacb5d29df0d",
+      "bytes": 53589
+    },
+    {
+      "path": "docs/EXPERT-REVIEW.md",
+      "sha256": "339d2af8a03078405d023cac9bb109d31b9c1c52304a5ad410fe77046772d820",
+      "bytes": 3966
+    },
+    {
+      "path": "docs/RESEARCH-DELIVERY.md",
+      "sha256": "e745c98907a4134dc4c1e7b7b89aa584215482be81ceccd835495e84aa889189",
+      "bytes": 4065
+    },
+    {
+      "path": "research/admission-policy.json",
+      "sha256": "175399b744d600673163ec4350b272dc10a54f2246f9e26f9bdb1a7857afc1d0",
+      "bytes": 543
+    },
+    {
+      "path": "research/attribution-review.json",
+      "sha256": "e26bef600ff990bc69c272fe2d8f38b4ada2b390dde89c726e9e2c457a004e45",
+      "bytes": 28458
+    },
+    {
+      "path": "research/collection-work-ledger.json",
+      "sha256": "6e3b1e0c1ae608adaa14038bc51912020e4e1542ec20b47534e4a2525e1b5044",
+      "bytes": 100028
+    },
+    {
+      "path": "research/evidence-query-profile.json",
+      "sha256": "c96b16305f4403a179d09e516c52489b33d56e51561d7f5a5278a4cf94ece65a",
+      "bytes": 5262
+    },
+    {
+      "path": "research/source-checks.json",
+      "sha256": "b6add789bd9f6a5ad36269274a99c4818cf20a466d10d6a7573242b27b70f827",
+      "bytes": 36619
+    },
+    {
+      "path": "research/source-collation-2026-10-15.json",
+      "sha256": "53c1013222b4a113d815a959a910ed565d4357deb3e6e2eab079fb5232946d9e",
+      "bytes": 10736
+    },
+    {
+      "path": "research/source-issues.json",
+      "sha256": "c6a7bc889fa15a797d4a90978cd3a5a26d3eeea82f50b0bc1233d92528ffe521",
+      "bytes": 947
+    },
+    {
+      "path": "research/source-register.json",
+      "sha256": "bb91a0edbd9cffa134befb40b45104665c91e703a32ac0711791d9ee05569905",
+      "bytes": 508
+    },
+    {
+      "path": "research/source-worklist.json",
+      "sha256": "f2c4905dddfb5fbfb26740c7040d2f7fa19baf19d3717c847fa022a49594b153",
+      "bytes": 54797
+    },
+    {
+      "path": "review/README.md",
+      "sha256": "e8bb45495ba1c75f145b25648c5da2202b802ec2635bd88d0d9eee77b17e51ac",
+      "bytes": 5461
+    },
+    {
+      "path": "review/collection-packet.json",
+      "sha256": "b03218fcc635e310f062fafbfa66a7b2d2ef4e626a1d5d78ae3d535e36deac2d",
+      "bytes": 1930
+    },
+    {
+      "path": "scripts/evidence_query.py",
+      "sha256": "70aa6686802122667b369811fa569c45c407847ed8965b917f58130c5a685550",
+      "bytes": 11289
+    },
+    {
+      "path": "scripts/research_delivery.py",
+      "sha256": "2c113043ed51a459b82dc3959b7f56849bf1aa8c2223719ef3fdaa1321decf8d",
+      "bytes": 10075
+    },
+    {
+      "path": "scripts/test_research_delivery.py",
+      "sha256": "70d2149542b267fdd633d43dd925644dbeeb5d5e66f27675b28c77de7109464b",
+      "bytes": 5678
+    }
+  ],
+  "boundary": "Source assertions, hypotheses and review tasks retain their native categories. Retrieval and byte replay establish neither scholarly completeness nor expert acceptance. Missing source attribution, access, permission and independent review remain open where recorded."
+}

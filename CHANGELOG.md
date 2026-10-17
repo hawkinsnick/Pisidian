@@ -11,3 +11,10 @@ Added pinned native evidence profiles, exact-ID/JSON-pointer queries, coverage r
 ## 2026-10-15 — Selected source collation
 
 Four selected comparisons. Preserve the2023 edition line/vacat assertions, Adiego2017 circumflex conventions and Adiego2012 questioned restoration separately from linguistic interpretation, frozen source strings and physical sign adjudication. Frozen readings and independent-review status remain unchanged.
+
+## 2026-10-17 — Research delivery controls
+
+Add checksum-bound native search/evidence responses, deterministic local research
+packaging and offline replay, revision-bound review submission forms and rejection
+tests. Update individual AI instructions and documentation. No source record,
+reading, expert acceptance or redistribution permission is added by this change.
