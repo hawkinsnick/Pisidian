@@ -1,0 +1,58 @@
+{
+  "format": "corpus-ai-skill-function-check-v1",
+  "repository": "hawkinsnick/Pisidian",
+  "status": "PASS_SCOPED_FUNCTIONAL_CHECKS",
+  "scope": "NATIVE_EVIDENCE_RETRIEVAL",
+  "skill_name": "pisidian-research",
+  "skill_version": "0.3.1",
+  "skill_sha256": "1046dfeec82f8c15ffc9326abc1101bd7350da4e3af164f2067e076bfb2541dd",
+  "bundle_source_commit": "81badfe2f9233546aac12ba315ce242d35f53147",
+  "bundle_sha256": "84e21a05014cc9ff2b90340d0654c8f72fbfbf606478df94564595ee99dbe08c",
+  "indexed_artifact_entries_checked": 62,
+  "unique_indexed_paths_checked": 61,
+  "lookups": [
+    {
+      "collection": "digital-reference",
+      "id": "pisidian:ediana:0",
+      "native_unit": "frozen eDiAna directory record",
+      "provenance": {
+        "path": "data/reference/records.json",
+        "sha256": "db85d4d2cbf009f5ce5fe3e8c468861c7299995317c3d977730cfacb5d29df0d",
+        "pointer": "/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "digital-reference",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "attribution-review",
+      "id": "PIS-KESME2-PRIMARY",
+      "native_unit": "bounded documentary attribution review task",
+      "provenance": {
+        "path": "research/attribution-review.json",
+        "sha256": "e26bef600ff990bc69c272fe2d8f38b4ada2b390dde89c726e9e2c457a004e45",
+        "pointer": "/cases/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "bounded attribution review",
+        "encoding": "json"
+      }
+    },
+    {
+      "collection": "source-collation-2026-10-15",
+      "id": "PIS-N25-2023",
+      "native_unit": "selected source collation task",
+      "provenance": {
+        "path": "research/source-collation-2026-10-15.json",
+        "sha256": "53c1013222b4a113d815a959a910ed565d4357deb3e6e2eab079fb5232946d9e",
+        "pointer": "/cases/0",
+        "native_artifacts_snapshot_commit": null,
+        "role": "fresh bounded source collation; consultation modes differ by source",
+        "encoding": "json"
+      }
+    }
+  ],
+  "missing_id_rejected": true,
+  "scholarly_acceptance_granted": false,
+  "empirical_model_accuracy_established": false,
+  "limits": "Deterministic workflow checks only. Independent model usage exercises are recorded separately; no cross-platform accuracy or scholarly acceptance is inferred."
+}
