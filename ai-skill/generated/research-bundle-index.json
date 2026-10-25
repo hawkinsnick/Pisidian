@@ -1,8 +1,8 @@
 {
   "schema_version": "0.3.1",
   "skill_version": "0.3.1",
-  "source_commit": "cb3d25674ab8569d3f534e3b4fc99607ab019adf",
-  "evidence_fingerprint_sha256": "296b65b78f502d4e35f64ab892c6f8bfaf554d80025fd9d1371cf7067848f505",
+  "source_commit": "f2917148dd7836ec6a40c51cd4166df3553e7d21",
+  "evidence_fingerprint_sha256": "40a5c59eebd4d5aec9cd631ea29ed1c2500da7b18c6176c6c2e44847fe59edf4",
   "canonical_repository": true,
   "artifacts": [
     {
@@ -104,8 +104,8 @@
     {
       "role": "SKILL",
       "path": "ai-skill/SKILL.md",
-      "sha256": "1046dfeec82f8c15ffc9326abc1101bd7350da4e3af164f2067e076bfb2541dd",
-      "bytes": 12050
+      "sha256": "04bd4c26cf2b02e64abdb8d823ea43af90f44a649a228f1d0fa380420435c22a",
+      "bytes": 12622
     },
     {
       "role": "source-checks",
@@ -326,14 +326,14 @@
     {
       "role": "research_delivery",
       "path": "analysis/research-delivery.json",
-      "sha256": "1eaaf7b0c7859179d72ebda80e5ca78e331ed883e8046cff26d029ebdf48ad1a",
+      "sha256": "3e7f0399e44401a9f0099b64a2034718a0121eb9e2322ea2382dfa3d636f838f",
       "bytes": 7643
     },
     {
       "role": "skill_function_validation",
       "path": "ai-skill/SKILL.md",
-      "sha256": "1046dfeec82f8c15ffc9326abc1101bd7350da4e3af164f2067e076bfb2541dd",
-      "bytes": 12050
+      "sha256": "04bd4c26cf2b02e64abdb8d823ea43af90f44a649a228f1d0fa380420435c22a",
+      "bytes": 12622
     },
     {
       "role": "skill_function_validation",
@@ -344,20 +344,20 @@
     {
       "role": "skill_function_validation",
       "path": "scripts/validate_ai_skill.py",
-      "sha256": "aacfb721bcf218975802968d4e260abc2dc24a300ac41eac44c0bd0d15fcb9d1",
-      "bytes": 10829
+      "sha256": "802f7e46534c9d26a87217bf95eece124a5624085054537c2314d0419e9586de",
+      "bytes": 11280
     },
     {
       "role": "skill_function_validation",
       "path": "scripts/test_ai_skill_validation.py",
-      "sha256": "5c4405e2b856e976bbeb6838ff011c7f3b3d59e910d18e182ac3e6f16b737d57",
-      "bytes": 2395
+      "sha256": "b44c6f0fc3c35cd1dd51ec040e95136dd3bba107ef8caab4492e52d593661e6c",
+      "bytes": 3879
     },
     {
       "role": "skill_function_validation",
       "path": "docs/AI-SKILL-VALIDATION.md",
-      "sha256": "37e3679995a7fa68f07acddd60fd643ff2fbaa5c388de4d0c39f5b55760b1cbd",
-      "bytes": 3203
+      "sha256": "e56f86d09c9d65f6028fdb1aca4b309c60e314b730e79476799f5f58e88dded1",
+      "bytes": 4592
     },
     {
       "role": "skill_function_validation",
